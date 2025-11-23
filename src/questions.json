@@ -9414,5 +9414,2029 @@
     "category": "History",
     "explanation": "Britain was again invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons.",
     "explanationZh": "英國再次被來自北歐的部落入侵：朱特人、盎格魯人和撒克遜人。"
+  },
+  {
+    "id": 433,
+    "examId": 2,
+    "question": "Roast beef is a traditional food of which country?",
+    "questionZh": "烤牛肉是哪個國家的傳統食物？",
+    "options": [
+      "England",
+      "Northern Ireland",
+      "Wales",
+      "Scotland"
+    ],
+    "optionsZh": [
+      "英格蘭",
+      "北愛爾蘭",
+      "威爾斯",
+      "蘇格蘭"
+    ],
+    "correctAnswer": 0,
+    "category": "Customs and Traditions",
+    "explanation": "Roast beef, which is served with potatoes is an example of English traditional food.",
+    "explanationZh": "烤牛肉配馬鈴薯是英格蘭傳統食物的一個例子。"
+  },
+  {
+    "id": 434,
+    "examId": 2,
+    "question": "Who can get a 50% discount on their TV licence?",
+    "questionZh": "誰可以獲得電視執照50%的折扣？",
+    "options": [
+      "Blind people",
+      "Army Officers",
+      "Deaf people",
+      "Students"
+    ],
+    "optionsZh": [
+      "盲人",
+      "軍官",
+      "聾人",
+      "學生"
+    ],
+    "correctAnswer": 0,
+    "category": "The Law",
+    "explanation": "People over 75 can apply for a free TV licence and blind people can get a 50% discount.",
+    "explanationZh": "75歲以上的人可以申請免費電視執照，盲人可以獲得50%的折扣。"
+  },
+  {
+    "id": 435,
+    "examId": 2,
+    "question": "Which languages were the basis of modern English?",
+    "questionZh": "哪些語言是現代英語的基礎？",
+    "options": [
+      "Norman French and Celtic",
+      "Norman French and Anglo Saxon",
+      "Celtic and Anglo Saxon",
+      "Gaelic and Celtic"
+    ],
+    "optionsZh": [
+      "諾曼法語和凱爾特語",
+      "諾曼法語和盎格魯-撒克遜語",
+      "凱爾特語和盎格魯-撒克遜語",
+      "蓋爾語和凱爾特語"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "After the Norman Conquest, the king and his noblemen had spoken Norman French and the peasants had continued to speak Anglo-Saxon. Gradually these two languages combined to become one English language.",
+    "explanationZh": "諾曼征服後，國王和貴族講諾曼法語，而農民繼續講盎格魯-撒克遜語。這兩種語言逐漸融合，成為一種英語。"
+  },
+  {
+    "id": 436,
+    "examId": 2,
+    "question": "How many members does The Northern Ireland Assembly have?",
+    "questionZh": "北愛爾蘭議會有多少名成員？",
+    "options": [
+      "90",
+      "129",
+      "119",
+      "110"
+    ],
+    "optionsZh": [
+      "90名",
+      "129名",
+      "119名",
+      "110名"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "The Northern Ireland Assembly has 90 elected members, known as MLAs (reduced from 108 in 2016).",
+    "explanationZh": "北愛爾蘭議會有90名當選成員，稱為MLAs（從2016年的108名減少）。"
+  },
+  {
+    "id": 437,
+    "examId": 2,
+    "question": "When did the first farmers arrive in Britain?",
+    "questionZh": "第一批農民何時抵達英國？",
+    "options": [
+      "4,000 years ago",
+      "6,000 years ago",
+      "8,000 years ago",
+      "10,000 years ago"
+    ],
+    "optionsZh": [
+      "4,000年前",
+      "6,000年前",
+      "8,000年前",
+      "10,000年前"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The first farmers arrived in Britain about 6,000 years ago.",
+    "explanationZh": "第一批農民大約在6,000年前抵達英國。"
+  },
+  {
+    "id": 438,
+    "examId": 2,
+    "question": "Who was the 'Iron Duke' that defeated the Emperor Napoleon?",
+    "questionZh": "擊敗拿破崙皇帝的「鐵公爵」是誰？",
+    "options": [
+      "Churchill",
+      "Wellington",
+      "Sir Christopher Wren",
+      "Admiral Nelson"
+    ],
+    "optionsZh": [
+      "邱吉爾",
+      "威靈頓",
+      "克里斯多福·雷恩爵士",
+      "納爾遜海軍上將"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "In 1815, the French Wars ended with the defeat of the Emperor Napoleon by the Duke of Wellington at the Battle of Waterloo. Wellington was known as the Iron Duke.",
+    "explanationZh": "1815年，拿破崙皇帝在滑鐵盧戰役中被威靈頓公爵擊敗，法國戰爭結束。威靈頓被稱為鐵公爵。"
+  },
+  {
+    "id": 439,
+    "examId": 2,
+    "question": "When did the Irish Free State become a republic?",
+    "questionZh": "愛爾蘭自由邦何時成為共和國？",
+    "options": [
+      "1922",
+      "1949",
+      "1937",
+      "1931"
+    ],
+    "optionsZh": [
+      "1922年",
+      "1949年",
+      "1937年",
+      "1931年"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The rest of Ireland became the Irish Free State. It had its own government and became a republic in 1949.",
+    "explanationZh": "愛爾蘭其餘部分成為愛爾蘭自由邦。它擁有自己的政府，並於1949年成為共和國。"
+  },
+  {
+    "id": 440,
+    "examId": 2,
+    "question": "Ulster fry is a traditional food of which country?",
+    "questionZh": "阿爾斯特煎 (Ulster fry) 是哪個國家的傳統食物？",
+    "options": [
+      "England",
+      "Northern Ireland",
+      "Wales",
+      "Scotland"
+    ],
+    "optionsZh": [
+      "英格蘭",
+      "北愛爾蘭",
+      "威爾斯",
+      "蘇格蘭"
+    ],
+    "correctAnswer": 1,
+    "category": "Customs and Traditions",
+    "explanation": "Northern Ireland's traditional food is 'Ulster fry' - a fried meal with bacon, eggs, sausage, black pudding, white pudding, tomatoes, mushrooms, soda bread and potato bread.",
+    "explanationZh": "北愛爾蘭的傳統食物是「阿爾斯特煎」——一種包含培根、雞蛋、香腸、黑布丁、白布丁、番茄、蘑菇、蘇打麵包和馬鈴薯麵包的油炸餐點。"
+  },
+  {
+    "id": 441,
+    "examId": 2,
+    "question": "Who tells visitors about the history of the Tower of London?",
+    "questionZh": "誰向遊客講述倫敦塔的歷史？",
+    "options": [
+      "London Guides",
+      "Beefeaters",
+      "Instructors",
+      "History graduates"
+    ],
+    "optionsZh": [
+      "倫敦導遊",
+      "皇家衛士 (Beefeaters)",
+      "講師",
+      "歷史系畢業生"
+    ],
+    "correctAnswer": 1,
+    "category": "Customs and Traditions",
+    "explanation": "Tours are given by the Yeoman Warders, also known as Beefeaters, who tell visitors about the building's history.",
+    "explanationZh": "由皇家衛士（Yeoman Warders），也被稱為 Beefeaters，帶領遊覽並向遊客講述這座建築的歷史。"
+  },
+  {
+    "id": 442,
+    "examId": 2,
+    "question": "Which TWO wives of Henry VIII were executed?",
+    "questionZh": "亨利八世的哪兩位妻子被處決了？",
+    "options": [
+      "Jayne Seymour",
+      "Catherine Howard",
+      "Anne Boleyn",
+      "Anne of Cleves"
+    ],
+    "optionsZh": [
+      "珍·西摩",
+      "凱薩琳·霍華德",
+      "安妮·博林",
+      "克萊沃的安妮"
+    ],
+    "correctAnswer": [1, 2],
+    "category": "History",
+    "explanation": "Anne Boleyn was executed at the Tower of London. Catherine Howard was also accused of taking lovers and executed.",
+    "explanationZh": "安妮·博林在倫敦塔被處決。凱薩琳·霍華德也被指控有情人而被處決。"
+  },
+  {
+    "id": 443,
+    "examId": 2,
+    "question": "When did Ireland split into two countries?",
+    "questionZh": "愛爾蘭何時分裂成兩個國家？",
+    "options": [
+      "1922",
+      "1916",
+      "1921",
+      "1959"
+    ],
+    "optionsZh": [
+      "1922年",
+      "1916年",
+      "1921年",
+      "1959年"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "In 1921 a peace treaty was signed and in 1922 Ireland became two countries.",
+    "explanationZh": "1921年簽署了和平條約，1922年愛爾蘭分裂成兩個國家。"
+  },
+  {
+    "id": 444,
+    "examId": 2,
+    "question": "Volunteering is compulsory in the UK.",
+    "questionZh": "在英國，志願服務是強制的。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "Society",
+    "explanation": "Volunteering is working for good causes without payment. It is not compulsory.",
+    "explanationZh": "志願服務是為公益事業無償工作。這不是強制的。"
+  },
+  {
+    "id": 445,
+    "examId": 2,
+    "question": "Nowadays, the House of Commons has more power than the House of Lords.",
+    "questionZh": "現今，下議院的權力大於上議院。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "The House of Commons has powers to overrule the House of Lords, but these are not used often.",
+    "explanationZh": "下議院有權否決上議院，但這些權力不常使用。"
+  },
+  {
+    "id": 446,
+    "examId": 2,
+    "question": "Select TWO popular social networking websites.",
+    "questionZh": "選擇兩個受歡迎的社交網站。",
+    "options": [
+      "Twitter",
+      "E-mail",
+      "Facebook",
+      "Telephone"
+    ],
+    "optionsZh": [
+      "Twitter",
+      "電子郵件",
+      "Facebook",
+      "電話"
+    ],
+    "correctAnswer": [0, 2],
+    "category": "Modern UK",
+    "explanation": "Social networking websites such as Facebook and Twitter are a popular way for people to stay in touch.",
+    "explanationZh": "像Facebook和Twitter這樣的社交網站是人們保持聯繫的流行方式。"
+  },
+  {
+    "id": 447,
+    "examId": 2,
+    "question": "What can 'Carry on' be associated with?",
+    "questionZh": "「Carry on」系列與什麼有關？",
+    "options": [
+      "Novels",
+      "Art",
+      "Films",
+      "Music"
+    ],
+    "optionsZh": [
+      "小說",
+      "藝術",
+      "電影",
+      "音樂"
+    ],
+    "correctAnswer": 2,
+    "category": "Arts",
+    "explanation": "The 1950s and 1960s were a high point for British comedies, including the Carry On films.",
+    "explanationZh": "1950年代和1960年代是英國喜劇的高峰期，包括《Carry On》系列電影。"
+  },
+  {
+    "id": 448,
+    "examId": 2,
+    "question": "How can you make a complaint about the Police? (Choose TWO)",
+    "questionZh": "你如何投訴警察？（選擇兩項）",
+    "options": [
+      "Writing to the Chief Constable of the police force involved",
+      "Going to a police station",
+      "Visiting a council office",
+      "Visiting the local polling places"
+    ],
+    "optionsZh": [
+      "寫信給涉事警隊的警察局長",
+      "去警察局",
+      "去議會辦公室",
+      "去當地的投票站"
+    ],
+    "correctAnswer": [0, 1],
+    "category": "The Law",
+    "explanation": "Anyone can make a complaint about the police by going to a police station or writing to the Chief Constable of the police force involved.",
+    "explanationZh": "任何人都可以通過前往警察局或寫信給涉事警隊的警察局長來投訴警察。"
+  },
+  {
+    "id": 449,
+    "examId": 2,
+    "question": "Sir Edward Elgar is known for his famous music work - 'The Planets'.",
+    "questionZh": "愛德華·埃爾加爵士 (Sir Edward Elgar) 因其著名音樂作品《行星組曲》(The Planets) 而聞名。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "Arts",
+    "explanation": "Gustav Holst (1874-1934) is the composer whose work includes The Planets.",
+    "explanationZh": "古斯塔夫·霍爾斯特 (Gustav Holst) 是創作《行星組曲》的作曲家。"
+  },
+  {
+    "id": 450,
+    "examId": 2,
+    "question": "What were the first Women's Social and Political Union group members called?",
+    "questionZh": "婦女社會政治聯盟 (WSPU) 的第一批成員被稱為什麼？",
+    "options": [
+      "Slaves",
+      "House of Lords",
+      "Rotten boroughs",
+      "Suffragettes"
+    ],
+    "optionsZh": [
+      "奴隸",
+      "上議院",
+      "腐敗選區",
+      "婦女參政權論者 (Suffragettes)"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "This was the first group whose members were called 'suffragettes'.",
+    "explanationZh": "這是第一個其成員被稱為「婦女參政權論者」(suffragettes) 的團體。"
+  },
+  {
+    "id": 451,
+    "examId": 2,
+    "question": "What was the system of land ownership used by the Normans known as?",
+    "questionZh": "諾曼人使用的土地所有權制度被稱為什麼？",
+    "options": [
+      "The Magna Carta",
+      "Feudalism",
+      "Noble land",
+      "Democracy"
+    ],
+    "optionsZh": [
+      "大憲章",
+      "封建制度 (Feudalism)",
+      "貴族土地",
+      "民主"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Normans used a system of land ownership known as feudalism.",
+    "explanationZh": "諾曼人使用一種被稱為封建制度的土地所有權制度。"
+  },
+  {
+    "id": 452,
+    "examId": 2,
+    "question": "Who can only give 'advice, warn and encourage' about government matters?",
+    "questionZh": "誰只能就政府事務提供「建議、警告和鼓勵」？",
+    "options": [
+      "Members of the police",
+      "Prime Minister",
+      "The Monarch",
+      "The Speaker"
+    ],
+    "optionsZh": [
+      "警察成員",
+      "首相",
+      "君主",
+      "議長"
+    ],
+    "correctAnswer": 2,
+    "category": "Government",
+    "explanation": "The monarch has regular meetings with the Prime Minister and can advise, warn and encourage, but the decisions on government policies are made by the Prime Minister and cabinet.",
+    "explanationZh": "君主與首相定期會面，可以提供建議、警告和鼓勵，但政府政策的決定由首相和內閣做出。"
+  },
+  {
+    "id": 453,
+    "examId": 2,
+    "question": "What awards event celebrates British theatre?",
+    "questionZh": "哪個獎項活動慶祝英國戲劇？",
+    "options": [
+      "The Brit Awards",
+      "The Mercury Prize",
+      "The Turner Prize",
+      "The Laurence Olivier Awards"
+    ],
+    "optionsZh": [
+      "全英音樂獎",
+      "水星音樂獎",
+      "透納獎",
+      "勞倫斯·奧利弗獎"
+    ],
+    "correctAnswer": 3,
+    "category": "Arts",
+    "explanation": "The Laurence Olivier Awards take place annually and are named after the British actor Sir Laurence Olivier.",
+    "explanationZh": "勞倫斯·奧利弗獎每年舉行，以英國演員勞倫斯·奧利弗爵士的名字命名。"
+  },
+  {
+    "id": 454,
+    "examId": 2,
+    "question": "It is a legal requirement that men and women should not be discriminated against due to their gender or marital status.",
+    "questionZh": "法律規定男女不得因性別或婚姻狀況而受到歧視。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "The Law",
+    "explanation": "UK laws ensure that people are not treated unfairly in any area of life or work because of their age, disability, sex, pregnancy and maternity, race, religion or belief, sexuality or marital status.",
+    "explanationZh": "英國法律確保人們在生活或工作的任何領域不會因為年齡、殘疾、性別、懷孕和生育、種族、宗教或信仰、性取向或婚姻狀況而受到不公平對待。"
+  },
+  {
+    "id": 455,
+    "examId": 2,
+    "question": "Catherine Howard was Anne Boleyn's cousin.",
+    "questionZh": "凱薩琳·霍華德是安妮·博林的表妹。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Catherine was a cousin of Anne Boleyn. She was also accused of taking lovers and executed.",
+    "explanationZh": "凱薩琳是安妮·博林的表妹。她也被指控有情人而被處決。"
+  },
+  {
+    "id": 456,
+    "examId": 2,
+    "question": "Who is known as William the Conqueror?",
+    "questionZh": "誰被稱為征服者威廉？",
+    "options": [
+      "William, the Duke of Normandy",
+      "William, the Duke of France",
+      "William, the Duke of Edinburgh",
+      "William, the Duke of Lion"
+    ],
+    "optionsZh": [
+      "諾曼底公爵威廉",
+      "法國公爵威廉",
+      "愛丁堡公爵威廉",
+      "獅子公爵威廉"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "William, the Duke of Normandy, defeated Harold at the Battle of Hastings and became king of England, known as William the Conqueror.",
+    "explanationZh": "諾曼底公爵威廉在黑斯廷斯戰役中擊敗了哈羅德，成為英格蘭國王，被稱為征服者威廉。"
+  },
+  {
+    "id": 457,
+    "examId": 3,
+    "question": "What did Henry VII do?",
+    "questionZh": "亨利七世做了什麼？",
+    "options": [
+      "Broke away from the Church of Rome",
+      "Reduced the power of the nobles",
+      "Restricted King's power",
+      "Increased the power of the nobles"
+    ],
+    "optionsZh": [
+      "脫離羅馬教會",
+      "削弱了貴族的權力",
+      "限制了國王的權力",
+      "增加了貴族的權力"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Henry VII deliberately strengthened the central administration of England and reduced the power of the nobles.",
+    "explanationZh": "亨利七世刻意加強了英格蘭的中央行政管理，並削弱了貴族的權力。"
+  },
+  {
+    "id": 458,
+    "examId": 3,
+    "question": "Which of these is not a music festival?",
+    "questionZh": "以下哪一個不是音樂節？",
+    "options": [
+      "The Fringe",
+      "Creamfields",
+      "Glastonbury",
+      "V festival"
+    ],
+    "optionsZh": [
+      "藝穗節 (The Fringe)",
+      "Creamfields",
+      "格拉斯頓伯里 (Glastonbury)",
+      "V音樂節"
+    ],
+    "correctAnswer": 0,
+    "category": "Culture",
+    "explanation": "The Fringe (One of the Edinburgh festivals) is a showcase of mainly theatre and comedy performances.",
+    "explanationZh": "藝穗節（愛丁堡藝術節之一）主要展示戲劇和喜劇表演。"
+  },
+  {
+    "id": 459,
+    "examId": 3,
+    "question": "Who is responsible for crime and immigration?",
+    "questionZh": "誰負責犯罪和移民事務？",
+    "options": [
+      "Foreign Secretary",
+      "Home Secretary",
+      "Chancellor of the Exchequer",
+      "Secretary of State"
+    ],
+    "optionsZh": [
+      "外交大臣",
+      "內政大臣",
+      "財政大臣",
+      "國務大臣"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "Home Secretary is responsible for crime, policing and immigration.",
+    "explanationZh": "內政大臣負責犯罪、警務和移民事務。"
+  },
+  {
+    "id": 460,
+    "examId": 3,
+    "question": "When did the English civil war begin?",
+    "questionZh": "英格蘭內戰何時開始？",
+    "options": [
+      "1646",
+      "1640",
+      "1641",
+      "1642"
+    ],
+    "optionsZh": [
+      "1646年",
+      "1640年",
+      "1641年",
+      "1642年"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "Civil war between the king and Parliament began in 1642.",
+    "explanationZh": "國王與議會之間的內戰始於1642年。"
+  },
+  {
+    "id": 461,
+    "examId": 3,
+    "question": "In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England.",
+    "questionZh": "1284年，英格蘭國王愛德華一世頒布了《魯德蘭法案》，將威爾斯併入英格蘭王室。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "In 1284 King Edward I of England introduced the Statute of Rhuddlan, which annexed Wales to the Crown of England.",
+    "explanationZh": "1284年，英格蘭國王愛德華一世頒布了《魯德蘭法案》，將威爾斯併入英格蘭王室。"
+  },
+  {
+    "id": 462,
+    "examId": 3,
+    "question": "When were the Anglo-Saxon kingdoms established in England?",
+    "questionZh": "盎格魯-撒克遜王國何時在英格蘭建立？",
+    "options": [
+      "By AD 500",
+      "By AD 550",
+      "By AD 600",
+      "By AD 410"
+    ],
+    "optionsZh": [
+      "西元500年",
+      "西元550年",
+      "西元600年",
+      "西元410年"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "By about AD 600, Anglo-Saxon kingdoms were established in Britain.",
+    "explanationZh": "大約在西元600年，盎格魯-撒克遜王國在英國建立。"
+  },
+  {
+    "id": 463,
+    "examId": 3,
+    "question": "The Scottish Parliament (after the Magna Carta was established in England) was split into two estates: the Lords and the Commons.",
+    "questionZh": "蘇格蘭議會（在英格蘭確立大憲章後）分為兩個等級：上議院和下議院。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "In Scotland, the parliament had three Houses, called Estates: the Lords, the Commons and the Clergy.",
+    "explanationZh": "在蘇格蘭，議會有三個院，稱為等級：貴族、平民和神職人員。"
+  },
+  {
+    "id": 464,
+    "examId": 3,
+    "question": "What is the Shadow Cabinet?",
+    "questionZh": "什麼是影子內閣？",
+    "options": [
+      "The cabinet that is in trouble",
+      "The cabinet where the Prime Minister had to resign",
+      "Senior members of the main opposition party who 'shadow' Government ministers in different departments",
+      "The name of the office of the Leader of the Opposition in the Parliament"
+    ],
+    "optionsZh": [
+      "陷入困境的內閣",
+      "首相不得不辭職的內閣",
+      "主要反對黨的高級成員，負責在不同部門「盯梢」政府部長",
+      "議會中反對黨領袖辦公室的名稱"
+    ],
+    "correctAnswer": 2,
+    "category": "Government",
+    "explanation": "Senior opposition MPs appointed by the leader of the opposition to 'shadow' Government ministers. They form the shadow cabinet.",
+    "explanationZh": "由反對黨領袖任命的高級反對黨議員，負責「盯梢」政府部長。他們組成影子內閣。"
+  },
+  {
+    "id": 465,
+    "examId": 3,
+    "question": "Who wrote about their experiences in the First World War?",
+    "questionZh": "誰寫下了他們在第一次世界大戰中的經歷？",
+    "options": [
+      "Lord Byron and John Masefield",
+      "Wilfred Owen and William Blake",
+      "Elizabeth and Robert Browning",
+      "Wilfred Owen and Siegfried Sassoon"
+    ],
+    "optionsZh": [
+      "拜倫勳爵和約翰·梅斯菲爾德",
+      "威爾弗雷德·歐文和威廉·布萊克",
+      "伊麗莎白和羅伯特·布朗寧",
+      "威爾弗雷德·歐文和西格弗里德·薩松"
+    ],
+    "correctAnswer": 3,
+    "category": "Arts",
+    "explanation": "Wilfred Owen and Siegfried Sassoon were inspired to write about their experiences in the First World War.",
+    "explanationZh": "威爾弗雷德·歐文和西格弗里德·薩松受到啟發，寫下了他們在第一次世界大戰中的經歷。"
+  },
+  {
+    "id": 466,
+    "examId": 3,
+    "question": "Discrimination in the workplace is a criminal offence.",
+    "questionZh": "工作場所的歧視是刑事犯罪。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "The Law",
+    "explanation": "Discrimination in the workplace is a civil law matter, not a criminal offence.",
+    "explanationZh": "工作場所的歧視屬於民法事項，而非刑事犯罪。"
+  },
+  {
+    "id": 467,
+    "examId": 3,
+    "question": "What is the Giant's Causeway made of?",
+    "questionZh": "巨人堤道是由什麼組成的？",
+    "options": [
+      "Volcanic Lava",
+      "Bronze",
+      "Iron",
+      "Stone"
+    ],
+    "optionsZh": [
+      "火山熔岩",
+      "青銅",
+      "鐵",
+      "石頭"
+    ],
+    "correctAnswer": 0,
+    "category": "Geography",
+    "explanation": "The Giant's Causeway is a land formation of columns made from volcanic lava.",
+    "explanationZh": "巨人堤道是由火山熔岩形成的石柱地貌。"
+  },
+  {
+    "id": 468,
+    "examId": 3,
+    "question": "Conditions in Ireland in the 19th century were much better than in the rest of the UK.",
+    "questionZh": "19世紀愛爾蘭的狀況比英國其他地區好得多。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Conditions in Ireland were not as good as in the rest of the UK. Ireland suffered a famine.",
+    "explanationZh": "愛爾蘭的狀況不如英國其他地區。愛爾蘭遭受了饑荒。"
+  },
+  {
+    "id": 469,
+    "examId": 3,
+    "question": "Radar was developed by Scotsman Sir Robert Watson-Watt.",
+    "questionZh": "雷達是由蘇格蘭人羅伯特·沃森-瓦特爵士開發的。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Science",
+    "explanation": "Radar was developed by Scotsman Sir Robert Watson-Watt.",
+    "explanationZh": "雷達是由蘇格蘭人羅伯特·沃森-瓦特爵士開發的。"
+  },
+  {
+    "id": 470,
+    "examId": 3,
+    "question": "When did the BBC begin the world's first regular TV service?",
+    "questionZh": "BBC何時開始世界上第一個定期電視服務？",
+    "options": [
+      "1921",
+      "1922",
+      "1936",
+      "1938"
+    ],
+    "optionsZh": [
+      "1921年",
+      "1922年",
+      "1936年",
+      "1938年"
+    ],
+    "correctAnswer": 2,
+    "category": "Modern UK",
+    "explanation": "The BBC began the world's first regular television service in 1936.",
+    "explanationZh": "BBC於1936年開始了世界上第一個定期電視服務。"
+  },
+  {
+    "id": 471,
+    "examId": 3,
+    "question": "Satirical magazines began to be published in the 19th century. When was 'Punch' first published?",
+    "questionZh": "諷刺雜誌開始在19世紀出版。《Punch》是什麼時候首次出版的？",
+    "options": [
+      "1810s",
+      "1870s",
+      "1890s",
+      "1840s"
+    ],
+    "optionsZh": [
+      "1810年代",
+      "1870年代",
+      "1890年代",
+      "1840年代"
+    ],
+    "correctAnswer": 3,
+    "category": "Culture",
+    "explanation": "'Punch' was published for the first time in the 1840s.",
+    "explanationZh": "《Punch》於1840年代首次出版。"
+  },
+  {
+    "id": 472,
+    "examId": 3,
+    "question": "What destroyed London in year 1666?",
+    "questionZh": "1666年是什麼摧毀了倫敦？",
+    "options": [
+      "Nuclear Plant",
+      "Fire",
+      "Water",
+      "Plague"
+    ],
+    "optionsZh": [
+      "核電站",
+      "火災",
+      "水災",
+      "瘟疫"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "In 1666, a great fire destroyed much of the city, including many churches and St Paul's Cathedral.",
+    "explanationZh": "1666年，一場大火摧毀了城市的很大一部分，包括許多教堂和聖保羅大教堂。"
+  },
+  {
+    "id": 473,
+    "examId": 3,
+    "question": "Other than London universities, which university was credited with the discovery of the DNA molecule in 1953?",
+    "questionZh": "除了倫敦的大學外，哪所大學在1953年發現DNA分子方面獲得了讚譽？",
+    "options": [
+      "Cambridge",
+      "Oxford",
+      "Edinburgh",
+      "Aberdeen"
+    ],
+    "optionsZh": [
+      "劍橋",
+      "牛津",
+      "愛丁堡",
+      "亞伯丁"
+    ],
+    "correctAnswer": 0,
+    "category": "Science",
+    "explanation": "The structure of the DNA molecule was discovered in 1953 through work at British universities in London and Cambridge.",
+    "explanationZh": "DNA分子的結構是1953年在倫敦和劍橋的英國大學中發現的。"
+  },
+  {
+    "id": 474,
+    "examId": 3,
+    "question": "During the reigns of Elizabeth I and James I, where did the English government encourage Scottish and English Protestants to settle?",
+    "questionZh": "在伊麗莎白一世和詹姆士一世統治期間，英國政府鼓勵蘇格蘭和英格蘭新教徒定居在哪裡？",
+    "options": [
+      "Cardiff",
+      "Edinburgh",
+      "East London",
+      "Ulster"
+    ],
+    "optionsZh": [
+      "卡地夫",
+      "愛丁堡",
+      "東倫敦",
+      "阿爾斯特"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "The English government encouraged Scottish and English Protestants to settle in Ulster, the northern province of Ireland.",
+    "explanationZh": "英國政府鼓勵蘇格蘭和英格蘭新教徒定居在愛爾蘭北部省份阿爾斯特。"
+  },
+  {
+    "id": 475,
+    "examId": 3,
+    "question": "Which architectural style are the famous London buildings of the 19th century, such as the House of Parliament and St Pancras Station, associated with?",
+    "questionZh": "19世紀著名的倫敦建築，如國會大廈和聖潘克拉斯車站，與哪種建築風格有關？",
+    "options": [
+      "Gothic",
+      "Indian",
+      "Catholic",
+      "Roman"
+    ],
+    "optionsZh": [
+      "哥德式",
+      "印度式",
+      "天主教式",
+      "羅馬式"
+    ],
+    "correctAnswer": 0,
+    "category": "Arts",
+    "explanation": "In the 19th century, the medieval 'gothic' style became popular again. The Houses of Parliament and St Pancras Station were built in this style.",
+    "explanationZh": "在19世紀，中世紀的「哥德式」風格再次流行。國會大廈和聖潘克拉斯車站就是以這種風格建造的。"
+  },
+  {
+    "id": 476,
+    "examId": 3,
+    "question": "What can the Laws made by the EU also be called?",
+    "questionZh": "歐盟制定的法律也可以稱為什麼？",
+    "options": [
+      "Framework Decisions",
+      "Regulations",
+      "Directives",
+      "All of these"
+    ],
+    "optionsZh": [
+      "框架決定",
+      "條例",
+      "指令",
+      "以上皆是"
+    ],
+    "correctAnswer": 3,
+    "category": "Modern UK",
+    "explanation": "European laws are called directives, regulations or framework decisions.",
+    "explanationZh": "歐洲法律被稱為指令、條例或框架決定。"
+  },
+  {
+    "id": 477,
+    "examId": 3,
+    "question": "Which TWO things happened when Mary Stuart's husband got murdered?",
+    "questionZh": "當瑪麗·斯圖亞特的丈夫被謀殺時，發生了哪兩件事？",
+    "options": [
+      "She fled to France",
+      "She gave her throne to Elizabeth I",
+      "She was suspected of involvement in the murder",
+      "She asked Elizabeth I for help"
+    ],
+    "optionsZh": [
+      "她逃到了法國",
+      "她把王位讓給了伊麗莎白一世",
+      "她被懷疑參與了謀殺",
+      "她向伊麗莎白一世求助"
+    ],
+    "correctAnswer": [2, 3],
+    "category": "History",
+    "explanation": "When her husband was murdered, Mary was suspected of involvement. She fled to England and asked Elizabeth I for help.",
+    "explanationZh": "當她的丈夫被謀殺時，瑪麗被懷疑參與其中。她逃到英格蘭並向伊麗莎白一世求助。"
+  },
+  {
+    "id": 478,
+    "examId": 3,
+    "question": "Whom did the serfs serve?",
+    "questionZh": "農奴 (serfs) 為誰服務？",
+    "options": [
+      "Slaves",
+      "Knights",
+      "Peasants",
+      "Lords"
+    ],
+    "optionsZh": [
+      "奴隸",
+      "騎士",
+      "農民",
+      "領主"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "The king gave land to his lords. Some peasants had their own land but most were serfs.",
+    "explanationZh": "國王把土地賜給領主。有些農民擁有自己的土地，但大多數是農奴。"
+  },
+  {
+    "id": 479,
+    "examId": 3,
+    "question": "The Victoria Cross medal was introduced during which war?",
+    "questionZh": "維多利亞十字勳章是在哪場戰爭期間引入的？",
+    "options": [
+      "The First World War",
+      "The Hundred Years War",
+      "The Crimean War",
+      "The Second World War"
+    ],
+    "optionsZh": [
+      "第一次世界大戰",
+      "百年戰爭",
+      "克里米亞戰爭",
+      "第二次世界大戰"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Queen Victoria introduced the Victoria Cross medal during the Crimean war.",
+    "explanationZh": "維多利亞女王在克里米亞戰爭期間引入了維多利亞十字勳章。"
+  },
+  {
+    "id": 480,
+    "examId": 3,
+    "question": "What is the 'Divine Right of Kings?",
+    "questionZh": "什麼是「君權神授」？",
+    "options": [
+      "Increased power of the parliament",
+      "The King was Appointed by God",
+      "Reduced the power of the nobles",
+      "Reduced the power of the King"
+    ],
+    "optionsZh": [
+      "增加了議會的權力",
+      "國王是由上帝任命的",
+      "削弱了貴族的權力",
+      "削弱了國王的權力"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "'Divine Right of Kings' is the idea that the king was directly appointed by God to rule.",
+    "explanationZh": "「君權神授」是指國王由上帝直接任命統治的觀點。"
+  },
+  {
+    "id": 481,
+    "examId": 4,
+    "question": "Which of these UK landmarks is in Wales?",
+    "questionZh": "以下哪個英國地標位於威爾斯？",
+    "options": [
+      "The Lake District",
+      "Snowdonia",
+      "Loch Lomond",
+      "The Giant's Causeway"
+    ],
+    "optionsZh": [
+      "湖區",
+      "史諾多尼亞 (Snowdonia)",
+      "羅蒙湖",
+      "巨人堤道"
+    ],
+    "correctAnswer": 1,
+    "category": "Landmarks",
+    "explanation": "Snowdonia is a national park in North Wales.",
+    "explanationZh": "史諾多尼亞是位於北威爾斯的國家公園。"
+  },
+  {
+    "id": 482,
+    "examId": 4,
+    "question": "What's the age requirement to drink wine with a meal with someone over 18?",
+    "questionZh": "與18歲以上的人一起用餐時，飲用葡萄酒的年齡要求是多少？",
+    "options": [
+      "21",
+      "16",
+      "17",
+      "18"
+    ],
+    "optionsZh": [
+      "21歲",
+      "16歲",
+      "17歲",
+      "18歲"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "16 year olds can drink wine or beer with a meal in a hotel or restaurant as long as they are with someone over 18.",
+    "explanationZh": "16歲的青少年只要有18歲以上的人陪同，就可以在飯店或餐廳用餐時飲用葡萄酒或啤酒。"
+  },
+  {
+    "id": 483,
+    "examId": 4,
+    "question": "Who tried to arrest 5 parliamentary leaders from the House of Commons?",
+    "questionZh": "誰試圖從下議院逮捕5名議會領袖？",
+    "options": [
+      "Henry VII",
+      "James I",
+      "Charles I",
+      "Henry VIII"
+    ],
+    "optionsZh": [
+      "亨利七世",
+      "詹姆士一世",
+      "查理一世",
+      "亨利八世"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Charles I entered the House of Commons and tried to arrest five parliamentary leaders, which led to the English Civil War.",
+    "explanationZh": "查理一世進入下議院試圖逮捕五名議會領袖，這導致了英格蘭內戰。"
+  },
+  {
+    "id": 484,
+    "examId": 4,
+    "question": "When did Protestant ideas begin to spread?",
+    "questionZh": "新教思想何時開始傳播？",
+    "options": [
+      "15th century",
+      "16th century",
+      "17th century",
+      "18th century"
+    ],
+    "optionsZh": [
+      "15世紀",
+      "16世紀",
+      "17世紀",
+      "18世紀"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Protestant ideas gradually gained strength in England, Wales and Scotland during the 16th century.",
+    "explanationZh": "新教思想在16世紀期間逐漸在英格蘭、威爾斯和蘇格蘭增強。"
+  },
+  {
+    "id": 485,
+    "examId": 4,
+    "question": "What yearly event happens between Oxford and Cambridge Universities?",
+    "questionZh": "牛津大學和劍橋大學之間每年舉辦什麼活動？",
+    "options": [
+      "A game of Basketball",
+      "A Rowing Race",
+      "A Game of Football",
+      "A Tennis Match"
+    ],
+    "optionsZh": [
+      "籃球比賽",
+      "划船比賽",
+      "足球比賽",
+      "網球比賽"
+    ],
+    "correctAnswer": 1,
+    "category": "Culture",
+    "explanation": "There is a popular yearly rowing race on the Thames between Oxford and Cambridge Universities.",
+    "explanationZh": "每年在泰晤士河上舉行著名的牛津大學與劍橋大學划船比賽。"
+  },
+  {
+    "id": 486,
+    "examId": 4,
+    "question": "As per 2021 census, what percentage of the population in England and Wales doesn't follow a religion?",
+    "questionZh": "根據2021年人口普查，英格蘭和威爾斯有多少比例的人口不信仰宗教？",
+    "options": [
+      "6%",
+      "21%",
+      "14%",
+      "37%"
+    ],
+    "optionsZh": [
+      "6%",
+      "21%",
+      "14%",
+      "37%"
+    ],
+    "correctAnswer": 3,
+    "category": "Society",
+    "explanation": "The 2021 Census results show 37% of people in England and Wales stated not to follow any religion.",
+    "explanationZh": "2021年人口普查結果顯示，英格蘭和威爾斯有37%的人表示不信仰任何宗教。"
+  },
+  {
+    "id": 487,
+    "examId": 4,
+    "question": "People living in the UK must pay tax on which of the following TWO?",
+    "questionZh": "居住在英國的人必須對以下哪兩項繳稅？",
+    "options": [
+      "Payday Loans",
+      "Income from property, savings and dividends",
+      "Wages from paid employment",
+      "Student Loans"
+    ],
+    "optionsZh": [
+      "發薪日貸款",
+      "來自財產、儲蓄和股息的收入",
+      "有薪工作的工資",
+      "學生貸款"
+    ],
+    "correctAnswer": [1, 2],
+    "category": "Law",
+    "explanation": "People in the UK have to pay tax on income from property, savings, dividends, and wages from paid employment.",
+    "explanationZh": "在英國，人們必須對來自財產、儲蓄、股息的收入以及有薪工作的工資繳稅。"
+  },
+  {
+    "id": 488,
+    "examId": 4,
+    "question": "Where were the first farmers that came to Britain from?",
+    "questionZh": "最早來到英國的農民來自哪裡？",
+    "options": [
+      "South east Europe",
+      "North Europe",
+      "South west Europe",
+      "North west Europe"
+    ],
+    "optionsZh": [
+      "東南歐",
+      "北歐",
+      "西南歐",
+      "西北歐"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The ancestors of the first farmers probably came from south-east Europe.",
+    "explanationZh": "第一批農民的祖先可能來自東南歐。"
+  },
+  {
+    "id": 489,
+    "examId": 4,
+    "question": "D-Day is the day when the British evacuated the French from Normandy.",
+    "questionZh": "D-Day是英軍從諾曼第撤離法軍的日子。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "On 6 June 1944, allied forces landed in Normandy (this event is often referred to as 'D-Day'). It was an invasion, not an evacuation.",
+    "explanationZh": "1944年6月6日，盟軍登陸諾曼第（此事件通常被稱為「D-Day」）。這是一次入侵，而不是撤離。"
+  },
+  {
+    "id": 490,
+    "examId": 4,
+    "question": "Which TWO are Police duties?",
+    "questionZh": "哪兩項是警察的職責？",
+    "options": [
+      "Detect and prevent crime",
+      "Misuse their authority",
+      "Be corrupt",
+      "Protect life and property"
+    ],
+    "optionsZh": [
+      "偵查和預防犯罪",
+      "濫用職權",
+      "腐敗",
+      "保護生命和財產"
+    ],
+    "correctAnswer": [0, 3],
+    "category": "Law",
+    "explanation": "The job of the police is to protect life and property, keep the peace, and prevent and detect crime.",
+    "explanationZh": "警察的工作是保護生命和財產，維持治安，以及預防和偵查犯罪。"
+  },
+  {
+    "id": 491,
+    "examId": 4,
+    "question": "Where was Isaac Newton born?",
+    "questionZh": "艾薩克·牛頓出生在哪裡？",
+    "options": [
+      "Ireland",
+      "Scotland",
+      "Wales",
+      "England"
+    ],
+    "optionsZh": [
+      "愛爾蘭",
+      "蘇格蘭",
+      "威爾斯",
+      "英格蘭"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "Born in Lincolnshire, eastern England, Isaac Newton first became interested in science when he studied at Cambridge University.",
+    "explanationZh": "艾薩克·牛頓出生於英格蘭東部的林肯郡，他在劍橋大學學習時首次對科學產生興趣。"
+  },
+  {
+    "id": 492,
+    "examId": 4,
+    "question": "How many countries make up the EU?",
+    "questionZh": "歐盟由多少個國家組成？",
+    "options": [
+      "190",
+      "54",
+      "27",
+      "15"
+    ],
+    "optionsZh": [
+      "190個",
+      "54個",
+      "27個",
+      "15個"
+    ],
+    "correctAnswer": 2,
+    "category": "Modern UK",
+    "explanation": "After the UK left, there are now 27 EU member states.",
+    "explanationZh": "英國脫歐後，歐盟現有27個成員國。"
+  },
+  {
+    "id": 493,
+    "examId": 4,
+    "question": "Children's Hearings system is used in which country?",
+    "questionZh": "兒童聽證制度 (Children's Hearings system) 在哪個國家使用？",
+    "options": [
+      "Northern Ireland",
+      "England",
+      "Wales",
+      "Scotland"
+    ],
+    "optionsZh": [
+      "北愛爾蘭",
+      "英格蘭",
+      "威爾斯",
+      "蘇格蘭"
+    ],
+    "correctAnswer": 3,
+    "category": "Law",
+    "explanation": "In Scotland, a system called the Children's Hearings System is used to deal with children and young people who have committed an offence.",
+    "explanationZh": "在蘇格蘭，使用一種稱為兒童聽證制度的系統來處理犯罪的兒童和青少年。"
+  },
+  {
+    "id": 494,
+    "examId": 4,
+    "question": "During the Bronze age people lived in roundhouses and buried their dead in tombs called round barrows.",
+    "questionZh": "在青銅時代，人們住在圓屋裡，並將死者埋葬在稱為圓形墓冢的墳墓中。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The statement is true.",
+    "explanationZh": "此陳述是正確的。"
+  },
+  {
+    "id": 495,
+    "examId": 4,
+    "question": "What party won the General Election in 2010?",
+    "questionZh": "哪個政黨贏得了2010年的大選？",
+    "options": [
+      "Liberal democrats",
+      "None, Liberal Democrats and Conservative party formed a Coalition",
+      "Tories",
+      "Labour Party"
+    ],
+    "optionsZh": [
+      "自由民主黨",
+      "無，自由民主黨和保守黨組成了聯合政府",
+      "托利黨 (保守黨)",
+      "工黨"
+    ],
+    "correctAnswer": 1,
+    "category": "Modern UK",
+    "explanation": "No party won an overall majority. The Conservative and Liberal Democrat parties formed a coalition.",
+    "explanationZh": "沒有政黨贏得絕對多數。保守黨和自由民主黨組成了聯合政府。"
+  },
+  {
+    "id": 496,
+    "examId": 4,
+    "question": "Which TWO did the Romans establish in Britain?",
+    "questionZh": "羅馬人在英國建立了哪兩項？",
+    "options": [
+      "Introduced new plants and animals",
+      "Created a structure of law",
+      "Introduced constitutional monarchy",
+      "Introduced basic democracy"
+    ],
+    "optionsZh": [
+      "引進了新的植物和動物",
+      "建立了法律結構",
+      "引入了君主立憲制",
+      "引入了基本民主"
+    ],
+    "correctAnswer": [0, 1],
+    "category": "History",
+    "explanation": "The Romans created a structure of law and introduced new plants and animals.",
+    "explanationZh": "羅馬人建立了法律結構，並引進了新的植物和動物。"
+  },
+  {
+    "id": 497,
+    "examId": 4,
+    "question": "Robert the Bruce is associated with which country?",
+    "questionZh": "羅伯特·布魯斯與哪個國家有關？",
+    "options": [
+      "Ireland",
+      "Scotland",
+      "Wales",
+      "England"
+    ],
+    "optionsZh": [
+      "愛爾蘭",
+      "蘇格蘭",
+      "威爾斯",
+      "英格蘭"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "In 1314 the Scottish, led by Robert the Bruce, defeated the English at the Battle of Bannockburn.",
+    "explanationZh": "1314年，由羅伯特·布魯斯領導的蘇格蘭人在班諾克本戰役中擊敗了英格蘭人。"
+  },
+  {
+    "id": 498,
+    "examId": 4,
+    "question": "What system can be used to complete a tax return if you are self-employed?",
+    "questionZh": "如果你是自僱人士，可以使用什麼系統來完成報稅？",
+    "options": [
+      "Self-checkout",
+      "National Insurance contribution",
+      "PAYE (Pay as you earn)",
+      "Self-assessment"
+    ],
+    "optionsZh": [
+      "自助結帳",
+      "國民保險供款",
+      "PAYE (源扣繳稅)",
+      "自我評估 (Self-assessment)"
+    ],
+    "correctAnswer": 3,
+    "category": "Law",
+    "explanation": "If you are self-employed, you need to pay your own tax through a system called 'self-assessment'.",
+    "explanationZh": "如果你是自僱人士，你需要通過一個名為「自我評估」的系統自行繳稅。"
+  },
+  {
+    "id": 499,
+    "examId": 4,
+    "question": "The London Eye is situated on the southern bank of which river?",
+    "questionZh": "倫敦眼位於哪條河的南岸？",
+    "options": [
+      "Clyde",
+      "Tyburn",
+      "Walbrook",
+      "Thames"
+    ],
+    "optionsZh": [
+      "克萊德河",
+      "泰本河",
+      "沃爾布魯克河",
+      "泰晤士河"
+    ],
+    "correctAnswer": 3,
+    "category": "Landmarks",
+    "explanation": "The London Eye is situated on the southern bank of the River Thames.",
+    "explanationZh": "倫敦眼位於泰晤士河南岸。"
+  },
+  {
+    "id": 500,
+    "examId": 4,
+    "question": "NSPCC is a charity for which of the following?",
+    "questionZh": "NSPCC是為以下哪個群體服務的慈善機構？",
+    "options": [
+      "Environment",
+      "Old people",
+      "Children",
+      "Animals"
+    ],
+    "optionsZh": [
+      "環境",
+      "老年人",
+      "兒童",
+      "動物"
+    ],
+    "correctAnswer": 2,
+    "category": "Society",
+    "explanation": "NSPCC stands for the National Society for the Prevention of Cruelty to Children.",
+    "explanationZh": "NSPCC 代表全國防止虐待兒童協會。"
+  },
+  {
+    "id": 501,
+    "examId": 4,
+    "question": "After the Black Death, a new social class appeared, - owners of large areas of land. What were they called?",
+    "questionZh": "黑死病之後，出現了一個新的社會階層——擁有大片土地的人。他們被稱為什麼？",
+    "options": [
+      "The Tudors",
+      "The Clans",
+      "The Gentry",
+      "The Serfs"
+    ],
+    "optionsZh": [
+      "都鐸王朝",
+      "氏族",
+      "士紳 (The Gentry)",
+      "農奴"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "New social classes appeared, including owners of large areas of land called 'the gentry'.",
+    "explanationZh": "出現了新的社會階層，包括擁有大片土地的被稱為「士紳」的人。"
+  },
+  {
+    "id": 502,
+    "examId": 4,
+    "question": "The Chartists are associated with the Civil War which took place in the 17th century.",
+    "questionZh": "憲章派與17世紀發生的內戰有關。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The Chartists campaigned for reform in the 1830s and 1840s, long after the Civil War.",
+    "explanationZh": "憲章派在1830年代和1840年代爭取改革，遠在內戰之後。"
+  },
+  {
+    "id": 503,
+    "examId": 4,
+    "question": "Mothering Sunday is the third Sunday in June.",
+    "questionZh": "母親節 (Mothering Sunday) 是六月的第三個星期日。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "Customs",
+    "explanation": "Mothering Sunday is the Sunday three weeks before Easter.",
+    "explanationZh": "母親節是復活節前三週的星期日。"
+  },
+  {
+    "id": 504,
+    "examId": 4,
+    "question": "In 1348, a disease, probably a form of plague, came to Britain. What was it called?",
+    "questionZh": "1348年，一種疾病（可能是瘟疫的一種）傳入英國。它叫什麼名字？",
+    "options": [
+      "White Death",
+      "Black Death",
+      "Malaria",
+      "Giant Evil"
+    ],
+    "optionsZh": [
+      "白色死神",
+      "黑死病",
+      "瘧疾",
+      "巨大的邪惡"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "This disease was known as the Black Death.",
+    "explanationZh": "這種疾病被稱為黑死病。"
+  },
+  {
+    "id": 505,
+    "examId": 5,
+    "question": "Hadrian's Wall is a popular UNESCO World Heritage Site.",
+    "questionZh": "哈德良長城是受歡迎的聯合國教科文組織世界遺產。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Landmarks",
+    "explanation": "Hadrian's Wall is a popular area for walkers and is a UNESCO World Heritage Site.",
+    "explanationZh": "哈德良長城是受歡迎的步行區，也是聯合國教科文組織世界遺產。"
+  },
+  {
+    "id": 506,
+    "examId": 5,
+    "question": "Who mapped the coast of Australia?",
+    "questionZh": "誰繪製了澳洲海岸地圖？",
+    "options": [
+      "Sir Francis Drake",
+      "Sake Dean Mahomet",
+      "James Cook",
+      "Admiral Nelson"
+    ],
+    "optionsZh": [
+      "法蘭西斯·德雷克爵士",
+      "薩克·迪恩·馬霍梅特",
+      "詹姆斯·庫克 (James Cook)",
+      "納爾遜海軍上將"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Captain James Cook mapped the coast of Australia.",
+    "explanationZh": "詹姆斯·庫克船長繪製了澳洲海岸地圖。"
+  },
+  {
+    "id": 507,
+    "examId": 5,
+    "question": "When did English become the official language for documents?",
+    "questionZh": "英語何時成為官方文件的語言？",
+    "options": [
+      "1451",
+      "1554",
+      "1400",
+      "1502"
+    ],
+    "optionsZh": [
+      "1451年",
+      "1554年",
+      "1400年",
+      "1502年"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "By 1400, in England, official documents were being written in English.",
+    "explanationZh": "到1400年，在英格蘭，官方文件開始用英語書寫。"
+  },
+  {
+    "id": 508,
+    "examId": 5,
+    "question": "What percentage of the total UK population lives in Wales?",
+    "questionZh": "威爾斯人口占英國總人口的百分比是多少？",
+    "options": [
+      "1%",
+      "5%",
+      "10%",
+      "20%"
+    ],
+    "optionsZh": [
+      "1%",
+      "5%",
+      "10%",
+      "20%"
+    ],
+    "correctAnswer": 1,
+    "category": "Society",
+    "explanation": "Wales makes up around 5% of the UK population.",
+    "explanationZh": "威爾斯約佔英國人口的5%。"
+  },
+  {
+    "id": 509,
+    "examId": 5,
+    "question": "Who developed a radar?",
+    "questionZh": "誰開發了雷達？",
+    "options": [
+      "James Goodfellow",
+      "Sir Robert Watson-Watt",
+      "Patrick Steptoe",
+      "Mary Peters"
+    ],
+    "optionsZh": [
+      "詹姆斯·古德費洛",
+      "羅伯特·沃森-瓦特爵士",
+      "派屈克·斯特普托",
+      "瑪麗·彼得斯"
+    ],
+    "correctAnswer": 1,
+    "category": "Science",
+    "explanation": "Radar was developed by Scotsman Sir Robert Watson-Watt.",
+    "explanationZh": "雷達是由蘇格蘭人羅伯特·沃森-瓦特爵士開發的。"
+  },
+  {
+    "id": 510,
+    "examId": 5,
+    "question": "What is the capital of Northern Ireland?",
+    "questionZh": "北愛爾蘭的首都是哪裡？",
+    "options": [
+      "Edinburgh",
+      "Cardiff",
+      "Belfast",
+      "London"
+    ],
+    "optionsZh": [
+      "愛丁堡",
+      "卡地夫",
+      "貝爾法斯特",
+      "倫敦"
+    ],
+    "correctAnswer": 2,
+    "category": "Geography",
+    "explanation": "Belfast is the capital city of Northern Ireland.",
+    "explanationZh": "貝爾法斯特是北愛爾蘭的首都。"
+  },
+  {
+    "id": 511,
+    "examId": 5,
+    "question": "As per 2021 survey, what percentage of Wales and England identified as Muslim?",
+    "questionZh": "根據2021年的調查，威爾斯和英格蘭有多少百分比的人口認定為穆斯林？",
+    "options": [
+      "11%",
+      "16%",
+      "6%",
+      "2%"
+    ],
+    "optionsZh": [
+      "11%",
+      "16%",
+      "6%",
+      "2%"
+    ],
+    "correctAnswer": 2,
+    "category": "Society",
+    "explanation": "The 2021 Census results show a Muslim population of 6.5% in England and Wales.",
+    "explanationZh": "2021年人口普查結果顯示，英格蘭和威爾斯的穆斯林人口為6.5%。"
+  },
+  {
+    "id": 512,
+    "examId": 5,
+    "question": "The Civil War in 1642 split the country into which two groups?",
+    "questionZh": "1642年的內戰將國家分成了哪兩派？",
+    "options": [
+      "The landowners and the slaves",
+      "House of Commons and House of Lords",
+      "House of York and House of Lancaster",
+      "The Roundheads and the Cavaliers"
+    ],
+    "optionsZh": [
+      "地主和奴隸",
+      "下議院和上議院",
+      "約克家族和蘭開斯特家族",
+      "圓顱黨 (Roundheads) 和騎士黨 (Cavaliers)"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "The country split into those who supported the king (the Cavaliers) and those who supported Parliament (the Roundheads).",
+    "explanationZh": "國家分裂為支持國王的人（騎士黨）和支持議會的人（圓顱黨）。"
+  },
+  {
+    "id": 513,
+    "examId": 5,
+    "question": "The small claims procedure in Northern Ireland is used for claims of less than what amount?",
+    "questionZh": "北愛爾蘭的小額索賠程序用於低於多少金額的索賠？",
+    "options": [
+      "£5,000",
+      "£10,000",
+      "£20,000",
+      "£1,000"
+    ],
+    "optionsZh": [
+      "5,000英鎊",
+      "10,000英鎊",
+      "20,000英鎊",
+      "1,000英鎊"
+    ],
+    "correctAnswer": 0,
+    "category": "Law",
+    "explanation": "This procedure is used for claims of less than £5,000 in Northern Ireland.",
+    "explanationZh": "在北愛爾蘭，該程序用於低於5,000英鎊的索賠。"
+  },
+  {
+    "id": 514,
+    "examId": 5,
+    "question": "Where was Emmeline Pankhurst born?",
+    "questionZh": "艾米琳·潘克斯特出生在哪裡？",
+    "options": [
+      "Glasgow",
+      "London",
+      "Manchester",
+      "Aberdeen"
+    ],
+    "optionsZh": [
+      "格拉斯哥",
+      "倫敦",
+      "曼徹斯特",
+      "亞伯丁"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Emmeline Pankhurst was born in Manchester in 1858.",
+    "explanationZh": "艾米琳·潘克斯特於1858年出生在曼徹斯特。"
+  },
+  {
+    "id": 515,
+    "examId": 5,
+    "question": "Which of these was said by Winston Churchill?",
+    "questionZh": "以下哪句話是溫斯頓·邱吉爾說的？",
+    "options": [
+      "'I have nothing to offer but blood, toil, tears and sweat' only",
+      "All of the these",
+      "'We shall never surrender' only",
+      "'Never in the field of human conflict was so much owed by so many to so few' only"
+    ],
+    "optionsZh": [
+      "僅「我能奉獻的別無他物，只有熱血、辛勞、眼淚和汗水」",
+      "所有這些",
+      "僅「我們絕不投降」",
+      "僅「在人類衝突的領域中，從未有這麼多人對這麼少人虧欠這麼多」"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "All of these are famous speeches by Winston Churchill.",
+    "explanationZh": "所有這些都是溫斯頓·邱吉爾的著名演講。"
+  },
+  {
+    "id": 516,
+    "examId": 5,
+    "question": "Where is Snowdonia located?",
+    "questionZh": "史諾多尼亞 (Snowdonia) 位於哪裡？",
+    "options": [
+      "West England",
+      "Scotland",
+      "North England",
+      "Wales"
+    ],
+    "optionsZh": [
+      "西英格蘭",
+      "蘇格蘭",
+      "北英格蘭",
+      "威爾斯"
+    ],
+    "correctAnswer": 3,
+    "category": "Geography",
+    "explanation": "Snowdonia is a national park in North Wales.",
+    "explanationZh": "史諾多尼亞是位於北威爾斯的國家公園。"
+  },
+  {
+    "id": 517,
+    "examId": 5,
+    "question": "A 60 second silence is observed on the Remembrance Day.",
+    "questionZh": "國殤紀念日會默哀60秒。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "Customs",
+    "explanation": "At 11.00 am there is a two-minute (not 60 seconds) silence. (Wait, the provided answer says False for '60 seconds' but the question asks 'A 60 second silence'. The explanation says 'two-minute silence', so 60 seconds is False. Correct choice is False).",
+    "explanationZh": "上午11點會默哀兩分鐘（不是60秒）。（正確答案是「錯」，因為默哀是兩分鐘）。"
+  },
+  {
+    "id": 518,
+    "examId": 5,
+    "question": "The European Convention on Human Rights is incorporated into UK law.",
+    "questionZh": "《歐洲人權公約》已納入英國法律。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "The Human Rights Act 1998 incorporated the European Convention on Human Rights into UK law.",
+    "explanationZh": "1998年《人權法案》將《歐洲人權公約》納入英國法律。"
+  },
+  {
+    "id": 519,
+    "examId": 5,
+    "question": "What should all new citizens do as part of the citizenship ceremony?",
+    "questionZh": "所有新公民在入籍儀式中應該做什麼？",
+    "options": [
+      "Swear or affirm loyalty to the King (or Queen)",
+      "Take ceremonial pictures",
+      "Prepare and make an individual speech during the ceremony",
+      "Sign passports and official citizenship certificates"
+    ],
+    "optionsZh": [
+      "宣誓或確認效忠國王（或女王）",
+      "拍攝儀式照片",
+      "在儀式期間準備並發表個人演講",
+      "簽署護照和官方公民證書"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "New citizens swear or affirm loyalty to the Monarch as part of the citizenship ceremony.",
+    "explanationZh": "新公民在入籍儀式中宣誓或確認效忠君主。"
+  },
+  {
+    "id": 520,
+    "examId": 5,
+    "question": "One of the tribal leaders who fought against the Romans was Boudicca, the queen of the Iceni. What is it known as now?",
+    "questionZh": "反抗羅馬人的部落領袖之一是愛西尼女王布狄卡。該地區現在被稱為什麼？",
+    "options": [
+      "Northern England",
+      "Southern England",
+      "Western England",
+      "Eastern England"
+    ],
+    "optionsZh": [
+      "北英格蘭",
+      "南英格蘭",
+      "西英格蘭",
+      "東英格蘭"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "Boudicca was the queen of the Iceni in what is now eastern England.",
+    "explanationZh": "布狄卡是愛西尼女王，該地區位於現在的英格蘭東部。"
+  },
+  {
+    "id": 521,
+    "examId": 5,
+    "question": "Anyone who is on the electoral register and is aged 18-75 can be asked to serve on a jury.",
+    "questionZh": "任何在選民登記冊上且年齡在18至75歲之間的人都可能被要求擔任陪審員。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Law",
+    "explanation": "Anyone who is on the electoral register and is aged 18 to 75 can be asked to serve on a jury.",
+    "explanationZh": "任何在選民登記冊上且年齡在18至75歲之間的人都可能被要求擔任陪審員。"
+  },
+  {
+    "id": 522,
+    "examId": 5,
+    "question": "The Channel Islands are self-governing.",
+    "questionZh": "海峽群島是自治的。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Geography",
+    "explanation": "The Channel Islands and the Isle of Man have their own governments and are called 'Crown dependencies'.",
+    "explanationZh": "海峽群島和曼島擁有自己的政府，被稱為「皇家屬地」。"
+  },
+  {
+    "id": 523,
+    "examId": 5,
+    "question": "It is illegal for any person under the age of 18 to buy a Lottery ticket.",
+    "questionZh": "任何18歲以下的人購買彩票都是違法的。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Law",
+    "explanation": "People under 18 are not allowed to participate in the National Lottery.",
+    "explanationZh": "18歲以下的人不得參與國家彩票。"
+  },
+  {
+    "id": 524,
+    "examId": 5,
+    "question": "England, Scotland, Wales and Northern Ireland each have a national saint, called a patron saint.",
+    "questionZh": "英格蘭、蘇格蘭、威爾斯和北愛爾蘭各自都有一位國家聖人，稱為守護聖人。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Customs",
+    "explanation": "England, Scotland, Wales and Northern Ireland each have a national saint.",
+    "explanationZh": "英格蘭、蘇格蘭、威爾斯和北愛爾蘭各自都有一位國家聖人。"
+  },
+  {
+    "id": 525,
+    "examId": 5,
+    "question": "The Commonwealth can suspend any of its members.",
+    "questionZh": "大英國協可以暫停任何成員的資格。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Society",
+    "explanation": "The Commonwealth has no power over its members, although it can suspend membership.",
+    "explanationZh": "大英國協對其成員沒有權力，儘管它可以暫停成員資格。"
+  },
+  {
+    "id": 526,
+    "examId": 5,
+    "question": "The Proms is an eight-week summer season of what?",
+    "questionZh": "逍遙音樂會 (The Proms) 是為期八週的什麼夏季演出季？",
+    "options": [
+      "Heavy metal music",
+      "Orchestral classical music",
+      "Underground Hip-Hop music",
+      "Classic Pop music"
+    ],
+    "optionsZh": [
+      "重金屬音樂",
+      "管弦古典音樂",
+      "地下嘻哈音樂",
+      "經典流行音樂"
+    ],
+    "correctAnswer": 1,
+    "category": "Culture",
+    "explanation": "The Proms is an eight-week summer season of orchestral classical music.",
+    "explanationZh": "逍遙音樂會是為期八週的管弦古典音樂夏季演出季。"
+  },
+  {
+    "id": 527,
+    "examId": 5,
+    "question": "Who built the Tower of London?",
+    "questionZh": "誰建造了倫敦塔？",
+    "options": [
+      "Henry VIII",
+      "Henry VII",
+      "William the Conqueror",
+      "Oliver Cromwell"
+    ],
+    "optionsZh": [
+      "亨利八世",
+      "亨利七世",
+      "征服者威廉",
+      "奧利弗·克倫威爾"
+    ],
+    "correctAnswer": 2,
+    "category": "Landmarks",
+    "explanation": "The Tower of London was built by William the Conqueror after he became king in 1066.",
+    "explanationZh": "倫敦塔是由征服者威廉在1066年成為國王後建造的。"
+  },
+  {
+    "id": 528,
+    "examId": 5,
+    "question": "Who established the Church of England?",
+    "questionZh": "誰創立了英格蘭國教會？",
+    "options": [
+      "Henry VII",
+      "Henry VIII",
+      "The Pope",
+      "St George"
+    ],
+    "optionsZh": [
+      "亨利七世",
+      "亨利八世",
+      "教皇",
+      "聖喬治"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Henry VIII established the Church of England when the Pope refused to grant him a divorce.",
+    "explanationZh": "當教皇拒絕批准他的離婚時，亨利八世創立了英格蘭國教會。"
   }
 ]

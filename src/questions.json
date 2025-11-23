@@ -8902,5 +8902,517 @@
     "category": "History",
     "explanation": "Clement Attlee led the Labour Party to victory in 1945.",
     "explanationZh": "克萊曼·艾德禮領導工黨在1945年取得勝利。"
+  },
+  {
+    "id": 409,
+    "examId": 1,
+    "question": "What is known as Lent?",
+    "questionZh": "四旬期 (Lent) 是指什麼？",
+    "options": [
+      "The 40 days before Easter",
+      "The 40 days after Christmas",
+      "The 40 days before Christmas",
+      "The 40 days after Easter"
+    ],
+    "optionsZh": [
+      "復活節前的40天",
+      "聖誕節後的40天",
+      "聖誕節前的40天",
+      "復活節後的40天"
+    ],
+    "correctAnswer": 0,
+    "category": "Customs and Traditions",
+    "explanation": "The 40 days before Easter are known as Lent.",
+    "explanationZh": "復活節前的40天被稱為四旬期。"
+  },
+  {
+    "id": 410,
+    "examId": 1,
+    "question": "Which country's flag is not part of the Union Flag?",
+    "questionZh": "哪個國家的旗幟不屬於聯合旗 (Union Flag) 的一部分？",
+    "options": [
+      "Wales",
+      "Ireland",
+      "Scotland",
+      "England"
+    ],
+    "optionsZh": [
+      "威爾斯",
+      "愛爾蘭",
+      "蘇格蘭",
+      "英格蘭"
+    ],
+    "correctAnswer": 0,
+    "category": "The UK",
+    "explanation": "The Welsh dragon is not part of the Union Flag.",
+    "explanationZh": "威爾斯的紅龍不是聯合旗的一部分。"
+  },
+  {
+    "id": 411,
+    "examId": 1,
+    "question": "What is the judiciary responsible for?",
+    "questionZh": "司法機構負責什麼？",
+    "options": [
+      "Deciding whether a person is guilty",
+      "Interpreting the law",
+      "Looking after a jury",
+      "Putting people in prison"
+    ],
+    "optionsZh": [
+      "決定一個人是否有罪",
+      "解釋法律",
+      "照看陪審團",
+      "將人關進監獄"
+    ],
+    "correctAnswer": 1,
+    "category": "The Law",
+    "explanation": "Judges, who are together called 'the judiciary', are responsible for interpreting the law and ensuring that trials are conducted fairly.",
+    "explanationZh": "法官（統稱為「司法機構」）負責解釋法律並確保審判公平進行。"
+  },
+  {
+    "id": 412,
+    "examId": 1,
+    "question": "When did the Habeas Corpus Act become law?",
+    "questionZh": "人身保護法 (Habeas Corpus Act) 何時成為法律？",
+    "options": [
+      "1679",
+      "1687",
+      "1685",
+      "1683"
+    ],
+    "optionsZh": [
+      "1679年",
+      "1687年",
+      "1685年",
+      "1683年"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The Habeas Corpus Act became law in 1679. This was a very important piece of legislation which remains relevant today.",
+    "explanationZh": "人身保護法於1679年成為法律。這是一項非常重要的立法，至今仍具意義。"
+  },
+  {
+    "id": 413,
+    "examId": 1,
+    "question": "Which of the events is the bombing of English cities by the Germans?",
+    "questionZh": "哪個事件是指德國人對英國城市的轟炸？",
+    "options": [
+      "The Blitz",
+      "The Dunkirk spirit",
+      "D-Day",
+      "The Battle of Britain"
+    ],
+    "optionsZh": [
+      "閃電戰 (The Blitz)",
+      "敦克爾克精神",
+      "D-Day (諾曼第登陸)",
+      "不列顛戰役"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The Blitz was the German air force bombing London and other British cities at night-time.",
+    "explanationZh": "閃電戰是指德國空軍在夜間轟炸倫敦和其他英國城市。"
+  },
+  {
+    "id": 414,
+    "examId": 1,
+    "question": "Why is it called 'The Glorious Revolution'?",
+    "questionZh": "為什麼它被稱為「光榮革命」？",
+    "options": [
+      "Women were given the right to vote",
+      "Because there was no fighting",
+      "Because of new technological advances",
+      "Because of new achievements"
+    ],
+    "optionsZh": [
+      "婦女獲得了投票權",
+      "因為沒有發生戰鬥",
+      "因為新的技術進步",
+      "因為新的成就"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "This event was later called the 'Glorious Revolution' because there was no fighting in England and because it guaranteed the power of Parliament.",
+    "explanationZh": "這一事件後來被稱為「光榮革命」，因為在英格蘭沒有發生戰鬥，並且它保證了議會的權力。"
+  },
+  {
+    "id": 415,
+    "examId": 1,
+    "question": "Which of these venues is located in Greenwich?",
+    "questionZh": "這些場館中哪一個位於格林威治？",
+    "options": [
+      "The Copenhagen Concert Hall",
+      "The SECC",
+      "The O2",
+      "Auditorio de Tenerife"
+    ],
+    "optionsZh": [
+      "哥本哈根音樂廳",
+      "SECC (蘇格蘭會展中心)",
+      "O2體育館",
+      "特內里費禮堂"
+    ],
+    "correctAnswer": 2,
+    "category": "Culture",
+    "explanation": "There are many large venues that host music events throughout the year, such as: The O2 in Greenwich.",
+    "explanationZh": "全年有許多舉辦音樂活動的大型場館，例如：位於格林威治的O2體育館。"
+  },
+  {
+    "id": 416,
+    "examId": 1,
+    "question": "When did the UK leave the EU following the Brexit Vote?",
+    "questionZh": "英國在脫歐公投後何時離開歐盟？",
+    "options": [
+      "1987",
+      "2020",
+      "1957",
+      "1973"
+    ],
+    "optionsZh": [
+      "1987年",
+      "2020年",
+      "1957年",
+      "1973年"
+    ],
+    "correctAnswer": 1,
+    "category": "Modern UK",
+    "explanation": "The UK became a member in 1973. After UK's Brexit vote in 2020, there are now 27 EU member states.",
+    "explanationZh": "英國於1973年成為成員國。在2020年英國脫歐公投後，歐盟現有27個成員國。"
+  },
+  {
+    "id": 417,
+    "examId": 1,
+    "question": "When was The First British Prime minister (Sir Robert Walpole) in power?",
+    "questionZh": "第一任英國首相 (羅伯特·沃波爾爵士) 何時執政？",
+    "options": [
+      "1707-1714",
+      "1742-1746",
+      "1721-1742",
+      "1714-1721"
+    ],
+    "optionsZh": [
+      "1707-1714年",
+      "1742-1746年",
+      "1721-1742年",
+      "1714-1721年"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "The first man to be called 'Prime Minister' was Sir Robert Walpole, who was Prime Minister from 1721 to 1742.",
+    "explanationZh": "第一個被稱為「首相」的人是羅伯特·沃波爾爵士，他於1721年至1742年擔任首相。"
+  },
+  {
+    "id": 418,
+    "examId": 1,
+    "question": "Which country's national flower is a thistle?",
+    "questionZh": "哪個國家的國花是薊花？",
+    "options": [
+      "Northern Ireland",
+      "England",
+      "Scotland",
+      "Wales"
+    ],
+    "optionsZh": [
+      "北愛爾蘭",
+      "英格蘭",
+      "蘇格蘭",
+      "威爾斯"
+    ],
+    "correctAnswer": 2,
+    "category": "The UK",
+    "explanation": "A thistle is a national flower of Scotland.",
+    "explanationZh": "薊花是蘇格蘭的國花。"
+  },
+  {
+    "id": 419,
+    "examId": 1,
+    "question": "Who developed ideas about economics during the Enlightenment period which are still referred to today?",
+    "questionZh": "誰在啟蒙運動時期發展了至今仍被引用的經濟學思想？",
+    "options": [
+      "Isaac Newton",
+      "Adam Smith",
+      "James Watt",
+      "David Hume"
+    ],
+    "optionsZh": [
+      "艾薩克·牛頓",
+      "亞當·斯密",
+      "詹姆斯·瓦特",
+      "大衛·休謨"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Adam Smith developed ideas about economics which are still referred to today.",
+    "explanationZh": "亞當·斯密發展了至今仍被引用的經濟學思想。"
+  },
+  {
+    "id": 420,
+    "examId": 1,
+    "question": "One TV licence covers all of the equipment at one address, but people who rent different rooms in a shared house must buy a separate TV licence.",
+    "questionZh": "一張電視執照涵蓋一個地址的所有設備，但在合租房屋中租用不同房間的人必須購買單獨的電視執照。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "One TV licence covers all of the equipment at one address, but people who rent different rooms in a shared house must buy a separate TV licence.",
+    "explanationZh": "一張電視執照涵蓋一個地址的所有設備，但在合租房屋中租用不同房間的人必須購買單獨的電視執照。"
+  },
+  {
+    "id": 421,
+    "examId": 1,
+    "question": "Magistrates and Justices of the Peace (JPs) are members of what?",
+    "questionZh": "治安法官 (Magistrates) 和太平紳士 (JPs) 是什麼的成員？",
+    "options": [
+      "Local Community",
+      "Police Force",
+      "Ruling Party",
+      "Law Society"
+    ],
+    "optionsZh": [
+      "當地社區",
+      "警察部隊",
+      "執政黨",
+      "律師公會"
+    ],
+    "correctAnswer": 0,
+    "category": "The Law",
+    "explanation": "Magistrates and Justices of the Peace (JPs) are members of the local community. In England, Wales and Scotland they usually work unpaid and do not need legal qualifications.",
+    "explanationZh": "治安法官和太平紳士是當地社區的成員。在英格蘭、威爾斯和蘇格蘭，他們通常是無薪工作，不需要具備法律資格。"
+  },
+  {
+    "id": 422,
+    "examId": 1,
+    "question": "A 2 minutes silence is observed on Easter to commemorate the death of Jesus Christ.",
+    "questionZh": "復活節會默哀2分鐘以紀念耶穌基督的逝世。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 0,
+    "category": "Customs",
+    "explanation": "A 2-minute silence is observed on Remembrance Day (11 November) to commemorate those who died fighting for the UK, not on Easter.",
+    "explanationZh": "默哀2分鐘是在國殤紀念日（11月11日）進行，以紀念為英國戰死的人，而不是在復活節。"
+  },
+  {
+    "id": 423,
+    "examId": 1,
+    "question": "Peers nominated by the Prime Minister can only serve for their lifetime.",
+    "questionZh": "由首相提名的貴族只能終身任職。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "Since 1958, the Prime Minister has had the power to nominate peers just for their own lifetime. These are called life peers.",
+    "explanationZh": "自1958年以來，首相有權提名僅終身任職的貴族。這些被稱為終身貴族。"
+  },
+  {
+    "id": 424,
+    "examId": 1,
+    "question": "Which TWO countries took part in the Battle of Agincourt?",
+    "questionZh": "哪兩個國家參加了阿金庫爾戰役？",
+    "options": [
+      "France",
+      "Scotland",
+      "Wales",
+      "England"
+    ],
+    "optionsZh": [
+      "法國",
+      "蘇格蘭",
+      "威爾斯",
+      "英格蘭"
+    ],
+    "correctAnswer": [0, 3],
+    "category": "History",
+    "explanation": "One of the most famous battles of the Hundred Years War was the Battle of Agincourt in 1415, where King Henry V's English army defeated the French.",
+    "explanationZh": "百年戰爭中最著名的戰役之一是1415年的阿金庫爾戰役，亨利五世國王的英格蘭軍隊擊敗了法國軍隊。"
+  },
+  {
+    "id": 425,
+    "examId": 1,
+    "question": "Who is credited with the introduction of the National Health Service (NHS) in 1948?",
+    "questionZh": "誰被認為在1948年引入了國民醫療服務體系 (NHS)？",
+    "options": [
+      "Winston Churchill",
+      "Florence Nightingale",
+      "David Hume",
+      "Aneurin Bevan"
+    ],
+    "optionsZh": [
+      "溫斯頓·邱吉爾",
+      "弗羅倫斯·南丁格爾",
+      "大衛·休謨",
+      "安奈林·貝文"
+    ],
+    "correctAnswer": 3,
+    "category": "Modern UK",
+    "explanation": "In 1948, Aneurin (Nye) Bevan, the Minister for Health, led the establishment of the National Health Service (NHS).",
+    "explanationZh": "1948年，衛生部長安奈林·貝文領導建立了國民醫療服務體系 (NHS)。"
+  },
+  {
+    "id": 426,
+    "examId": 1,
+    "question": "The Speaker is an MP, he/she represents a constituency and deals with constituents' problems like any other MP.",
+    "questionZh": "議長是下議院議員，他/她代表一個選區並像其他議員一樣處理選民的問題。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "The Speaker is neutral and does not represent a political party, even though he or she is an MP, represents a constituency and deals with constituents' problems like any other MP.",
+    "explanationZh": "議長是中立的，不代表任何政黨，儘管他/她是一名議員，代表一個選區，並像其他議員一樣處理選民的問題。"
+  },
+  {
+    "id": 427,
+    "examId": 1,
+    "question": "What religion were Puritans?",
+    "questionZh": "清教徒信仰什麼宗教？",
+    "options": [
+      "Buddhists",
+      "Jews",
+      "Protestants",
+      "Catholics"
+    ],
+    "optionsZh": [
+      "佛教徒",
+      "猶太教徒",
+      "新教徒",
+      "天主教徒"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Puritans were a group of Protestants who advocated strict and simple religious doctrine and worship.",
+    "explanationZh": "清教徒是一群提倡嚴格和簡單宗教教義與崇拜的新教徒。"
+  },
+  {
+    "id": 428,
+    "examId": 1,
+    "question": "Who can nominate life peers? (Select TWO)",
+    "questionZh": "誰可以提名終身貴族？（選擇兩項）",
+    "options": [
+      "Leaders of other main political parties",
+      "The Prime Minister",
+      "The Monarchy",
+      "The Speaker"
+    ],
+    "optionsZh": [
+      "其他主要政黨的領袖",
+      "首相",
+      "君主",
+      "議長"
+    ],
+    "correctAnswer": [0, 1],
+    "category": "Government",
+    "explanation": "Life peers are appointed by the monarch on the advice of the Prime Minister. They also include people nominated by the leaders of the other main political parties.",
+    "explanationZh": "終身貴族由君主根據首相的建議任命。他們還包括由其他主要政黨領袖提名的人。"
+  },
+  {
+    "id": 429,
+    "examId": 1,
+    "question": "What country did Hitler invade in 1939?",
+    "questionZh": "希特勒在1939年入侵了哪個國家？",
+    "options": [
+      "Italy",
+      "USSR",
+      "The USA",
+      "Poland"
+    ],
+    "optionsZh": [
+      "義大利",
+      "蘇聯",
+      "美國",
+      "波蘭"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "When Hitler invaded Poland in 1939, Britain and France declared war in order to stop his aggression.",
+    "explanationZh": "當希特勒於1939年入侵波蘭時，英國和法國宣戰以阻止他的侵略。"
+  },
+  {
+    "id": 430,
+    "examId": 1,
+    "question": "Name the most famous cricket competition, which is a series of Test matches played between England and Australia.",
+    "questionZh": "說出最著名的板球比賽名稱，這是英格蘭和澳洲之間的一系列對抗賽。",
+    "options": [
+      "Ashes",
+      "Lords",
+      "Masters",
+      "Classics"
+    ],
+    "optionsZh": [
+      "灰燼盃 (Ashes)",
+      "羅德板球場",
+      "大師賽",
+      "經典賽"
+    ],
+    "correctAnswer": 0,
+    "category": "Sports",
+    "explanation": "The most famous competition is the Ashes, which is a series of Test matches played between England and Australia.",
+    "explanationZh": "最著名的比賽是灰燼盃 (The Ashes)，這是英格蘭和澳洲之間的一系列對抗賽。"
+  },
+  {
+    "id": 431,
+    "examId": 1,
+    "question": "In England & Wales, the small claims procedure is an informal way of helping people to settle minor disputes claims of less than?",
+    "questionZh": "在英格蘭和威爾斯，小額索賠程序是一種幫助人們解決金額低於多少的輕微糾紛的非正式方式？",
+    "options": [
+      "£4,000",
+      "£3,000",
+      "£2,000",
+      "£10,000"
+    ],
+    "optionsZh": [
+      "4,000英鎊",
+      "3,000英鎊",
+      "2,000英鎊",
+      "10,000英鎊"
+    ],
+    "correctAnswer": 3,
+    "category": "Law",
+    "explanation": "The small claims procedure is used for claims of less than £10,000 in England and Wales.",
+    "explanationZh": "小額索賠程序在英格蘭和威爾斯用於低於10,000英鎊的索賠。"
+  },
+  {
+    "id": 432,
+    "examId": 1,
+    "question": "Which tribes invaded Britain after the Romans had left?",
+    "questionZh": "羅馬人離開後，哪些部落入侵了英國？",
+    "options": [
+      "The Normans",
+      "The Vikings",
+      "The Jutes and the Anglo-Saxons",
+      "The Celtics"
+    ],
+    "optionsZh": [
+      "諾曼人",
+      "維京人",
+      "朱特人和盎格魯-撒克遜人",
+      "凱爾特人"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Britain was again invaded by tribes from northern Europe: the Jutes, the Angles and the Saxons.",
+    "explanationZh": "英國再次被來自北歐的部落入侵：朱特人、盎格魯人和撒克遜人。"
   }
 ]

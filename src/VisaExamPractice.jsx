@@ -23,9 +23,9 @@ import {
 // -----------------------------------------------------------------------------
 const STUDY_DATA = [
   {
-    id: "chapter_1_values",
-    title: "Chapter 1: The values and principles of the UK (第一章：英國的價值觀與原則)",
-    content: [
+    "id": "chapter_1_values",
+    "title": "Chapter 1: The values and principles of the UK (第一章：英國的價值觀與原則)",
+    "content": [
       {
         "title": "1.1 The values and principles of the UK (英國的價值觀與原則)",
         "en": "British society is founded on fundamental values including democracy, the rule of law, individual liberty, tolerance of different faiths and beliefs, and participation in community life [cite: 69-74].",
@@ -49,9 +49,9 @@ const STUDY_DATA = [
     ]
   },
   {
-    id: "chapter_2_what_is_uk",
-    title: "Chapter 2: What is the UK? (第二章：英國是什麼？)",
-    content: [
+    "id": "chapter_2_what_is_uk",
+    "title": "Chapter 2: What is the UK? (第二章：英國是什麼？)",
+    "content": [
       {
         "title": "2.2 What is the UK? (英國是什麼？)",
         "en": "The UK is made up of England, Scotland, Wales, and Northern Ireland. 'Great Britain' refers only to England, Scotland, and Wales [cite: 141-143]. The Channel Islands and Isle of Man are Crown dependencies, not part of the UK [cite: 145-146].",
@@ -60,9 +60,9 @@ const STUDY_DATA = [
     ]
   },
   {
-    id: "chapter_3_history",
-    title: "Chapter 3: A long and illustrious history (第三章：悠久輝煌的歷史)",
-    content: [
+    "id": "chapter_3_history",
+    "title": "Chapter 3: A long and illustrious history (第三章：悠久輝煌的歷史)",
+    "content": [
       {
         "title": "3.7 Early Britain (早期英國)",
         "en": "Britain separated from the continent 10,000 years ago[cite: 1036]. Romans invaded in AD 43 and stayed for 400 years[cite: 1058, 1069]. Hadrian's Wall was built to keep out the Picts[cite: 1065]. Anglo-Saxons and Vikings followed[cite: 1073, 1087].",
@@ -96,9 +96,9 @@ const STUDY_DATA = [
     ]
   },
   {
-    id: "chapter_4_society",
-    title: "Chapter 4: A modern, thriving society (第四章：現代繁榮社會)",
-    content: [
+    "id": "chapter_4_society",
+    "title": "Chapter 4: A modern, thriving society (第四章：現代繁榮社會)",
+    "content": [
       {
         "title": "4.8 The UK today (今日英國)",
         "en": "The UK population is ethnically diverse[cite: 1844]. The currency is the pound sterling[cite: 1791]. The capital cities are London, Edinburgh, Cardiff, and Belfast [cite: 1780-1789].",
@@ -132,9 +132,9 @@ const STUDY_DATA = [
     ]
   },
   {
-    id: "chapter_5_government",
-    title: "Chapter 5: The UK Government, the law and your role (第五章：英國政府、法律與您的角色)",
-    content: [
+    "id": "chapter_5_government",
+    "title": "Chapter 5: The UK Government, the law and your role (第五章：英國政府、法律與您的角色)",
+    "content": [
       {
         "title": "5.3 The British constitution (英國憲法)",
         "en": "The constitution is unwritten[cite: 1922]. The UK is a constitutional monarchy; the King reigns but does not rule [cite: 1943-1944]. Parliament consists of the House of Commons (elected) and the House of Lords (appointed)[cite: 1991, 2000].",
@@ -163,9 +163,9 @@ const STUDY_DATA = [
     ]
   },
   {
-    id: "historical_figures",
-    title: "Historical Figures & Monarchs (歷史人物與君主)",
-    content: [
+    "id": "historical_figures",
+    "title": "Historical Figures & Monarchs (歷史人物與君主)",
+    "content": [
       {
         "title": "Early & Medieval Leaders (早期與中世紀領袖)",
         "en": "Queen Boudicca: Leader of the Iceni tribe who fought against the Romans[cite: 1060]. King Alfred the Great: Defeated the Vikings and united Anglo-Saxon kingdoms[cite: 1089]. William the Conqueror: Defeated King Harold at the Battle of Hastings in 1066 [cite: 1096-1097]. Robert the Bruce: Defeated the English at the Battle of Bannockburn in 1314[cite: 734].",
@@ -189,9 +189,9 @@ const STUDY_DATA = [
     ]
   },
   {
-    id: "politics_leaders",
-    title: "Political Leaders (政治領袖)",
-    content: [
+    "id": "politics_leaders",
+    "title": "Political Leaders (政治領袖)",
+    "content": [
       {
         "title": "Wartime & Post-War Leaders (戰時與戰後領袖)",
         "en": "Winston Churchill: Prime Minister during WWII, voted greatest Briton of all time[cite: 664, 683]. Clement Attlee: PM (1945-1951) who created the NHS and nationalised industries [cite: 186, 195-201]. Aneurin (Nye) Bevan: Minister for Health who established the NHS in 1948[cite: 187]. William Beveridge: Wrote the 1942 report that led to the welfare state [cite: 204-206]. R A Butler: Oversaw the Education Act 1944 [cite: 210-211].",
@@ -205,9 +205,9 @@ const STUDY_DATA = [
     ]
   },
   {
-    id: "science_invention",
-    title: "Science & Innovation (科學與創新)",
-    content: [
+    "id": "science_invention",
+    "title": "Science & Innovation (科學與創新)",
+    "content": [
       {
         "title": "Scientific Pioneers (科學先驅)",
         "en": "Sir Isaac Newton: Discovered gravity and white light composition [cite: 1000-1002]. Adam Smith: Developed ideas about economics during Enlightenment[cite: 394]. James Watt: Work on steam power helped Industrial Revolution[cite: 394]. Richard Arkwright: Developed efficient factories and spinning mills [cite: 411-416].",
@@ -226,9 +226,9 @@ const STUDY_DATA = [
     ]
   },
   {
-    id: "literature_arts",
-    title: "Literature & Arts (文學與藝術)",
-    content: [
+    "id": "literature_arts",
+    "title": "Literature & Arts (文學與藝術)",
+    "content": [
       {
         "title": "Writers & Poets (作家與詩人)",
         "en": "William Shakespeare: Famous playwright (Hamlet, Romeo and Juliet) [cite: 907-909]. Geoffrey Chaucer: Wrote The Canterbury Tales[cite: 793]. Robert Burns: Scottish poet, wrote Auld Lang Syne [cite: 390-391]. Dylan Thomas: Welsh poet (Under Milk Wood) [cite: 212-214]. Rudyard Kipling: Wrote The Jungle Book and poem If [cite: 581-586]. Jane Austen: Pride and Prejudice[cite: 1276]. Charles Dickens: Oliver Twist, Great Expectations[cite: 1278]. Robert Louis Stevenson: Treasure Island[cite: 1280]. Thomas Hardy: Far from the Madding Crowd[cite: 1282]. Sir Arthur Conan Doyle: Sherlock Holmes[cite: 1283]. JK Rowling: Harry Potter series[cite: 1289]. JRR Tolkien: The Lord of the Rings[cite: 1272].",
@@ -247,9 +247,9 @@ const STUDY_DATA = [
     ]
   },
   {
-    id: "sports_achievements",
-    title: "Sportsmen & Sportswomen (體育名將)",
-    content: [
+    "id": "sports_achievements",
+    "title": "Sportsmen & Sportswomen (體育名將)",
+    "content": [
       {
         "title": "Track, Field & Racing (田徑與賽車)",
         "en": "Sir Roger Bannister: First to run a mile in under 4 minutes (1954)[cite: 1649]. Sir Jackie Stewart: Won F1 World Championship 3 times[cite: 1650]. Dame Kelly Holmes: Two gold medals at 2004 Olympics[cite: 1660]. Mo Farah: Gold in 5,000m and 10,000m at 2012 Olympics[cite: 1669]. Jessica Ennis: Gold in heptathlon (2012)[cite: 1671]. Lewis Hamilton, Damon Hill, Jensen Button: F1 World Champions[cite: 1735].",

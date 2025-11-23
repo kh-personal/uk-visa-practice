@@ -27836,5 +27836,3077 @@
     "category": "Customs",
     "explanation": "The Rose represents England.",
     "explanationZh": "玫瑰代表英格蘭。"
+  },
+  {
+    "id": 1297,
+    "examId": 38,
+    "question": "Which of these is a famous classical music event in the UK?",
+    "questionZh": "以下哪一個是英國著名的古典音樂活動？",
+    "options": [
+      "The Proms",
+      "Glastonbury Festival",
+      "Creamfields",
+      "T in the Park"
+    ],
+    "optionsZh": [
+      "逍遙音樂會 (The Proms)",
+      "格拉斯頓伯里音樂節",
+      "Creamfields",
+      "T in the Park"
+    ],
+    "correctAnswer": 0,
+    "category": "Culture",
+    "explanation": "The Proms is an eight-week summer season of classical music.",
+    "explanationZh": "逍遙音樂會是為期八週的古典音樂夏季演出季。"
+  },
+  {
+    "id": 1298,
+    "examId": 38,
+    "question": "When did the Enlightenment happen?",
+    "questionZh": "啟蒙運動發生在什麼時候？",
+    "options": [
+      "19th century",
+      "19th and 20th century",
+      "18th century",
+      "18th and 19th century"
+    ],
+    "optionsZh": [
+      "19世紀",
+      "19和20世紀",
+      "18世紀",
+      "18和19世紀"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "The Enlightenment happened during the 18th century.",
+    "explanationZh": "啟蒙運動發生在18世紀。"
+  },
+  {
+    "id": 1299,
+    "examId": 38,
+    "question": "What is the period after the Norman Conquest up until 1485 called?",
+    "questionZh": "諾曼征服後直到1485年的時期被稱為什麼？",
+    "options": [
+      "The Middle Ages",
+      "The Iron Age",
+      "The Bronze Age",
+      "The Stone age"
+    ],
+    "optionsZh": [
+      "中世紀",
+      "鐵器時代",
+      "青銅時代",
+      "石器時代"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "This period is called the Middle Ages.",
+    "explanationZh": "這個時期被稱為中世紀。"
+  },
+  {
+    "id": 1300,
+    "examId": 38,
+    "question": "Which flower is associated with Northern Ireland?",
+    "questionZh": "哪種花與北愛爾蘭有關？",
+    "options": [
+      "A shamrock",
+      "A daffodil",
+      "A thistle",
+      "A rose"
+    ],
+    "optionsZh": [
+      "三葉草",
+      "水仙花",
+      "薊花",
+      "玫瑰"
+    ],
+    "correctAnswer": 0,
+    "category": "Customs",
+    "explanation": "A shamrock is associated with Northern Ireland.",
+    "explanationZh": "三葉草與北愛爾蘭有關。"
+  },
+  {
+    "id": 1301,
+    "examId": 38,
+    "question": "Where did the canal builders come from in the middle ages?",
+    "questionZh": "中世紀的運河建設者來自哪裡？",
+    "options": [
+      "Holland",
+      "Italy",
+      "Germany",
+      "France"
+    ],
+    "optionsZh": [
+      "荷蘭",
+      "義大利",
+      "德國",
+      "法國"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Canal builders came from Holland.",
+    "explanationZh": "運河建設者來自荷蘭。"
+  },
+  {
+    "id": 1302,
+    "examId": 38,
+    "question": "What percentage of the total population lives in England?",
+    "questionZh": "總人口中有多少百分比居住在英格蘭？",
+    "options": [
+      "52%",
+      "95%",
+      "67%",
+      "84%"
+    ],
+    "optionsZh": [
+      "52%",
+      "95%",
+      "67%",
+      "84%"
+    ],
+    "correctAnswer": 3,
+    "category": "Society",
+    "explanation": "England makes up about 84% of the total population.",
+    "explanationZh": "英格蘭約佔總人口的84%。"
+  },
+  {
+    "id": 1303,
+    "examId": 38,
+    "question": "Who wrote music for King George I?",
+    "questionZh": "誰為喬治一世國王譜曲？",
+    "options": [
+      "Sir William Walton",
+      "Sir Edward Elgar",
+      "Benjamin Britten",
+      "George Frederick Handel"
+    ],
+    "optionsZh": [
+      "威廉·華爾頓爵士",
+      "愛德華·埃爾加爵士",
+      "班傑明·布瑞頓",
+      "喬治·弗里德里克·韓德爾"
+    ],
+    "correctAnswer": 3,
+    "category": "Arts",
+    "explanation": "Handel wrote 'Water Music' for King George I.",
+    "explanationZh": "韓德爾為喬治一世國王創作了《水上音樂》。"
+  },
+  {
+    "id": 1304,
+    "examId": 38,
+    "question": "When did Britain recognise the American colonies' independence?",
+    "questionZh": "英國何時承認美洲殖民地的獨立？",
+    "options": [
+      "1776",
+      "1751",
+      "1763",
+      "1783"
+    ],
+    "optionsZh": [
+      "1776年",
+      "1751年",
+      "1763年",
+      "1783年"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "Britain recognised the colonies' independence in 1783.",
+    "explanationZh": "英國於1783年承認了殖民地的獨立。"
+  },
+  {
+    "id": 1305,
+    "examId": 38,
+    "question": "Which TWO are located in Scotland?",
+    "questionZh": "哪兩個位於蘇格蘭？",
+    "options": [
+      "The Eden Project",
+      "The Giant's Causeway",
+      "Loch Lomond",
+      "Edinburgh Castle"
+    ],
+    "optionsZh": [
+      "伊甸園計畫",
+      "巨人堤道",
+      "羅蒙湖",
+      "愛丁堡城堡"
+    ],
+    "correctAnswer": [2, 3],
+    "category": "Landmarks",
+    "explanation": "Loch Lomond and Edinburgh Castle are in Scotland.",
+    "explanationZh": "羅蒙湖和愛丁堡城堡位於蘇格蘭。"
+  },
+  {
+    "id": 1306,
+    "examId": 38,
+    "question": "How many volunteers is The National Trust run by?",
+    "questionZh": "國民信託有多少志願者在運作？",
+    "options": [
+      "4",
+      "3",
+      "4500",
+      "61000"
+    ],
+    "optionsZh": [
+      "4名",
+      "3名",
+      "4500名",
+      "61000名"
+    ],
+    "correctAnswer": 3,
+    "category": "Society",
+    "explanation": "Over 61,000 people help run the National Trust.",
+    "explanationZh": "超過61,000人幫助運作國民信託。"
+  },
+  {
+    "id": 1307,
+    "examId": 38,
+    "question": "Many schools organise events to raise money for extra equipment or out-of-school activities.",
+    "questionZh": "許多學校組織活動為額外的設備或課外活動籌集資金。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Society",
+    "explanation": "The statement is true.",
+    "explanationZh": "此陳述是正確的。"
+  },
+  {
+    "id": 1308,
+    "examId": 38,
+    "question": "Many of the painters working in Britain in the 16th and 17th centuries were from abroad.",
+    "questionZh": "許多在16和17世紀在英國工作的畫家來自國外。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Arts",
+    "explanation": "The statement is true (e.g., Hans Holbein, Van Dyck).",
+    "explanationZh": "此陳述是正確的（例如：漢斯·霍爾拜因、范·戴克）。"
+  },
+  {
+    "id": 1309,
+    "examId": 38,
+    "question": "What will happen to any driver who has either taken more than the acceptable quantity of alcohol or refused to take the test?",
+    "questionZh": "任何飲酒超過可接受量或拒絕接受測試的駕駛員會發生什麼？",
+    "options": [
+      "Arrested",
+      "Asked to provide medical certificate",
+      "Given a warning",
+      "Taken to his home"
+    ],
+    "optionsZh": [
+      "被捕",
+      "被要求提供醫療證明",
+      "被給予警告",
+      "被送回家"
+    ],
+    "correctAnswer": 0,
+    "category": "Law",
+    "explanation": "You will be arrested.",
+    "explanationZh": "您將被逮捕。"
+  },
+  {
+    "id": 1310,
+    "examId": 38,
+    "question": "Women over 21 were allowed to vote for the first time in 1969.",
+    "questionZh": "21歲以上的婦女於1969年首次獲准投票。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Women over 21 got the vote in 1928. In 1969, the voting age was lowered to 18 for everyone.",
+    "explanationZh": "21歲以上的婦女於1928年獲得投票權。1969年，所有人的投票年齡降至18歲。"
+  },
+  {
+    "id": 1311,
+    "examId": 38,
+    "question": "Who wrote the Canterbury Tales?",
+    "questionZh": "誰寫了《坎特伯里故事集》？",
+    "options": [
+      "John Barbour",
+      "Geoffrey Chaucer",
+      "William Caxton",
+      "William Walton"
+    ],
+    "optionsZh": [
+      "約翰·巴伯",
+      "傑弗里·喬叟",
+      "威廉·卡克斯頓",
+      "威廉·華爾頓"
+    ],
+    "correctAnswer": 1,
+    "category": "Arts",
+    "explanation": "Geoffrey Chaucer wrote the Canterbury Tales.",
+    "explanationZh": "傑弗里·喬叟寫了《坎特伯里故事集》。"
+  },
+  {
+    "id": 1312,
+    "examId": 38,
+    "question": "When did the Wars of the Roses end with the Battle of Bosworth?",
+    "questionZh": "玫瑰戰爭何時以博斯沃思戰役結束？",
+    "options": [
+      "1485",
+      "1455",
+      "1314",
+      "1324"
+    ],
+    "optionsZh": [
+      "1485年",
+      "1455年",
+      "1314年",
+      "1324年"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "It ended in 1485.",
+    "explanationZh": "它於1485年結束。"
+  },
+  {
+    "id": 1313,
+    "examId": 38,
+    "question": "What kind of battle was the Battle of Britain (1940)?",
+    "questionZh": "不列顛戰役 (1940) 是什麼類型的戰役？",
+    "options": [
+      "All of these",
+      "Air Battle",
+      "Sea Battle",
+      "Border Battle"
+    ],
+    "optionsZh": [
+      "以上皆是",
+      "空戰",
+      "海戰",
+      "邊境戰"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "It was an air battle fought in the skies.",
+    "explanationZh": "這是一場在空中進行的空戰。"
+  },
+  {
+    "id": 1314,
+    "examId": 38,
+    "question": "Mince pies are traditionally eaten on which day?",
+    "questionZh": "肉餡餅 (Mince pies) 傳統上在哪一天吃？",
+    "options": [
+      "Diwali",
+      "Easter",
+      "Halloween",
+      "Christmas"
+    ],
+    "optionsZh": [
+      "排燈節",
+      "復活節",
+      "萬聖節",
+      "聖誕節"
+    ],
+    "correctAnswer": 3,
+    "category": "Customs",
+    "explanation": "Mince pies are eaten at Christmas.",
+    "explanationZh": "肉餡餅在聖誕節吃。"
+  },
+  {
+    "id": 1315,
+    "examId": 38,
+    "question": "David Hockney was an important contributor to the 'pop art' movement of the 1960s.",
+    "questionZh": "大衛·霍克尼是1960年代「普普藝術」運動的重要貢獻者。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Arts",
+    "explanation": "The statement is true.",
+    "explanationZh": "此陳述是正確的。"
+  },
+  {
+    "id": 1316,
+    "examId": 38,
+    "question": "Which TWO are notable British artists?",
+    "questionZh": "哪兩位是著名的英國藝術家？",
+    "options": [
+      "Rembrandt Peale",
+      "Matthew Harris Jouett",
+      "Joseph Turner",
+      "John Constable"
+    ],
+    "optionsZh": [
+      "倫勃朗·皮爾",
+      "馬修·哈里斯·朱特",
+      "約瑟夫·特納",
+      "約翰·康斯特勃"
+    ],
+    "correctAnswer": [2, 3],
+    "category": "Arts",
+    "explanation": "Joseph Turner and John Constable are notable British artists.",
+    "explanationZh": "約瑟夫·特納和約翰·康斯特勃是著名的英國藝術家。"
+  },
+  {
+    "id": 1317,
+    "examId": 38,
+    "question": "What are elected members of the National Assembly of Wales known as?",
+    "questionZh": "威爾斯國民議會的當選成員被稱為什麼？",
+    "options": [
+      "MEPs",
+      "AMs",
+      "MLAs",
+      "MPs"
+    ],
+    "optionsZh": [
+      "歐洲議會議員",
+      "AMs (Assembly Members)",
+      "MLAs",
+      "國會議員"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "They are known as AMs (Note: Now called Members of the Senedd or MSs, but AM is the traditional answer in older test banks).",
+    "explanationZh": "他們被稱為AMs（註：現在稱為塞內德成員或MSs，但在舊題庫中AM是傳統答案）。"
+  },
+  {
+    "id": 1318,
+    "examId": 38,
+    "question": "In 1745, who was supported by clansmen from the Scottish highlands and raised an army?",
+    "questionZh": "1745年，誰得到了蘇格蘭高地氏族成員的支持並組建了一支軍隊？",
+    "options": [
+      "Bonnie Prince Charlie",
+      "Oliver Cromwell",
+      "Robert the Bruce",
+      "Kenneth MacAlpin"
+    ],
+    "optionsZh": [
+      "英俊王子查理 (Bonnie Prince Charlie)",
+      "奧利弗·克倫威爾",
+      "羅伯特·布魯斯",
+      "凱文·麥克阿爾平"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Bonnie Prince Charlie raised an army in 1745.",
+    "explanationZh": "英俊王子查理於1745年組建了一支軍隊。"
+  },
+  {
+    "id": 1319,
+    "examId": 38,
+    "question": "Northern Ireland has its own banknotes which are valid everywhere in the UK.",
+    "questionZh": "北愛爾蘭有自己的紙幣，在英國各地都有效。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Society",
+    "explanation": "They are valid, but shops do not have to accept them.",
+    "explanationZh": "它們是有效的，但商店不必接受它們。"
+  },
+  {
+    "id": 1320,
+    "examId": 38,
+    "question": "Wales and Scotland use a system called 'individual registration'.All those entitled to vote must complete their own registration forms.",
+    "questionZh": "威爾斯和蘇格蘭使用一種稱為「個人登記」的系統。所有有權投票的人必須填寫自己的登記表。",
+    "options": [
+      "Trues",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "Individual registration is used in Northern Ireland (and now Great Britain, but the specific phrasing about 'Wales and Scotland' vs NI usually highlights NI's distinct early adoption. However, Individual Electoral Registration was introduced to GB in 2014. The question seems to be a trick or outdated. Based on the provided source answer key: False. The source says 'In Northern Ireland a system called individual registration operates'. So the statement for Wales/Scotland is False in the context of the specific 'NI distinction' often tested).",
+    "explanationZh": "錯。北愛爾蘭實行個人登記制度（儘管現在大不列顛也實行，但考試通常強調北愛爾蘭的獨特性）。"
+  },
+  {
+    "id": 1321,
+    "examId": 39,
+    "question": "What is the monarch's ceremonial role?",
+    "questionZh": "君主的禮儀角色是什麼？",
+    "options": [
+      "Making parliamentary policies",
+      "Opening a parliamentary session",
+      "Travelling abroad for banquets and to negotiate with foreign dignitaries",
+      "Travelling in the UK"
+    ],
+    "optionsZh": [
+      "制定議會政策",
+      "開啟議會會期",
+      "出國參加宴會並與外國政要談判",
+      "在英國旅行"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "The Monarch opens the new parliamentary session each year.",
+    "explanationZh": "君主每年開啟新的議會會期。"
+  },
+  {
+    "id": 1322,
+    "examId": 39,
+    "question": "Under which king did the people unite to defeat the Vikings?",
+    "questionZh": "在哪位國王的統治下，人民團結起來擊敗了維京人？",
+    "options": [
+      "Harold",
+      "King Alfred the Great",
+      "Henry I",
+      "King William"
+    ],
+    "optionsZh": [
+      "哈羅德",
+      "阿爾弗雷德大帝",
+      "亨利一世",
+      "威廉國王"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "King Alfred the Great united the Anglo-Saxons to defeat the Vikings.",
+    "explanationZh": "阿爾弗雷德大帝團結了盎格魯-撒克遜人擊敗了維京人。"
+  },
+  {
+    "id": 1323,
+    "examId": 39,
+    "question": "What did the first farmers build in Britain?",
+    "questionZh": "第一批農民在英國建造了什麼？",
+    "options": [
+      "Houses and Monuments",
+      "Hospitals and Roads",
+      "Theatres and Houses",
+      "Tombs and Stadiums"
+    ],
+    "optionsZh": [
+      "房屋和紀念碑",
+      "醫院和道路",
+      "劇院和房屋",
+      "墳墓和體育場"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "They built houses, tombs and monuments.",
+    "explanationZh": "他們建造了房屋、墳墓和紀念碑。"
+  },
+  {
+    "id": 1324,
+    "examId": 39,
+    "question": "Which operas were written by Gilbert and Sullivan?",
+    "questionZh": "吉爾伯特和沙利文寫了哪些歌劇？",
+    "options": [
+      "Jesus Christ Superstar",
+      "HMS Pinafore and The Mikado",
+      "Tim Rice and Evita",
+      "The Phantom of the Opera"
+    ],
+    "optionsZh": [
+      "耶穌基督超級巨星",
+      "皮納福號軍艦和日本天皇 (HMS Pinafore and The Mikado)",
+      "提姆·萊斯和艾薇塔",
+      "歌劇魅影"
+    ],
+    "correctAnswer": 1,
+    "category": "Arts",
+    "explanation": "They wrote HMS Pinafore and The Mikado.",
+    "explanationZh": "他們寫了《皮納福號軍艦》和《日本天皇》。"
+  },
+  {
+    "id": 1325,
+    "examId": 39,
+    "question": "What were the working conditions like during the Industrial Revolution?",
+    "questionZh": "工業革命期間的工作條件如何？",
+    "options": [
+      "Average",
+      "Very Poor",
+      "Best in the World",
+      "Acceptable"
+    ],
+    "optionsZh": [
+      "一般",
+      "非常差",
+      "世界最好",
+      "可接受"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Working conditions were very poor.",
+    "explanationZh": "工作條件非常差。"
+  },
+  {
+    "id": 1326,
+    "examId": 39,
+    "question": "Which of these is not a valid bank note?",
+    "questionZh": "以下哪張不是有效的鈔票？",
+    "options": [
+      "£100",
+      "£5",
+      "£20",
+      "£50"
+    ],
+    "optionsZh": [
+      "100英鎊",
+      "5英鎊",
+      "20英鎊",
+      "50英鎊"
+    ],
+    "correctAnswer": 0,
+    "category": "Society",
+    "explanation": "£100 is not a common bank note in general circulation in England/Wales (though exists in Scotland/NI, the test usually focuses on standard England notes: 5, 10, 20, 50).",
+    "explanationZh": "100英鎊不是英格蘭/威爾斯普遍流通的鈔票。"
+  },
+  {
+    "id": 1327,
+    "examId": 39,
+    "question": "Who is known as William the Conqueror?",
+    "questionZh": "誰被稱為征服者威廉？",
+    "options": [
+      "William, the Duke of Normandy",
+      "William, the Duke of Lion",
+      "William, the Duke of France",
+      "William, the Duke of Edinburgh"
+    ],
+    "optionsZh": [
+      "諾曼底公爵威廉",
+      "獅子公爵威廉",
+      "法國公爵威廉",
+      "愛丁堡公爵威廉"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "William, the Duke of Normandy, is known as William the Conqueror.",
+    "explanationZh": "諾曼底公爵威廉被稱為征服者威廉。"
+  },
+  {
+    "id": 1328,
+    "examId": 39,
+    "question": "When were the last Welsh rebellions defeated?",
+    "questionZh": "最後一次威爾斯叛亂何時被平定？",
+    "options": [
+      "14th century",
+      "17th century",
+      "16th century",
+      "15th century"
+    ],
+    "optionsZh": [
+      "14世紀",
+      "17世紀",
+      "16世紀",
+      "15世紀"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "By the middle of the 15th century the last Welsh rebellions had been defeated.",
+    "explanationZh": "到15世紀中葉，最後一次威爾斯叛亂已被平定。"
+  },
+  {
+    "id": 1329,
+    "examId": 39,
+    "question": "The Glorious Revolution was called the 'Glorious revolution' because there was no fighting in England and it guaranteed the power of Parliament.",
+    "questionZh": "光榮革命之所以被稱為「光榮革命」，是因為在英格蘭沒有發生戰鬥，並且它保證了議會的權力。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The statement is true.",
+    "explanationZh": "此陳述是正確的。"
+  },
+  {
+    "id": 1330,
+    "examId": 39,
+    "question": "Which TWO are compulsory in the UK if you own an old car?",
+    "questionZh": "在英國，如果您擁有一輛舊車，哪兩項是強制的？",
+    "options": [
+      "Mortgage",
+      "A valid MOT test certificate",
+      "Car insurance",
+      "Life insurance"
+    ],
+    "optionsZh": [
+      "抵押貸款",
+      "有效的MOT測試證書",
+      "汽車保險",
+      "人壽保險"
+    ],
+    "correctAnswer": [1, 2],
+    "category": "Law",
+    "explanation": "You must have an MOT certificate (for cars over 3 years old) and car insurance.",
+    "explanationZh": "您必須擁有MOT證書（對於超過3年的汽車）和汽車保險。"
+  },
+  {
+    "id": 1331,
+    "examId": 39,
+    "question": "Which of these is a charity working with animals?",
+    "questionZh": "以下哪個是與動物有關的慈善機構？",
+    "options": [
+      "Crisis and Shelter",
+      "NSPCC",
+      "PDSA",
+      "Age UK"
+    ],
+    "optionsZh": [
+      "危機與庇護所",
+      "NSPCC",
+      "PDSA (人民獸醫藥房)",
+      "英國安老協會"
+    ],
+    "correctAnswer": 2,
+    "category": "Society",
+    "explanation": "PDSA is a charity for animals.",
+    "explanationZh": "PDSA 是一個動物慈善機構。"
+  },
+  {
+    "id": 1332,
+    "examId": 39,
+    "question": "Which of these names was Henry VIII and Anne Boleyn's child's name?",
+    "questionZh": "以下哪個名字是亨利八世和安妮·博林孩子的名字？",
+    "options": [
+      "Edward",
+      "Mary",
+      "Elizabeth",
+      "Catherine"
+    ],
+    "optionsZh": [
+      "愛德華",
+      "瑪麗",
+      "伊麗莎白",
+      "凱薩琳"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Their daughter was Elizabeth (later Queen Elizabeth I).",
+    "explanationZh": "他們的女兒是伊麗莎白（後來的伊麗莎白一世女王）。"
+  },
+  {
+    "id": 1333,
+    "examId": 39,
+    "question": "Who makes a speech which summarises the government's policies for the year ahead?",
+    "questionZh": "誰發表演講總結政府未來一年的政策？",
+    "options": [
+      "The Prime Minister",
+      "Local Authorities",
+      "The Cabinet",
+      "The Monarch"
+    ],
+    "optionsZh": [
+      "首相",
+      "地方當局",
+      "內閣",
+      "君主"
+    ],
+    "correctAnswer": 3,
+    "category": "Government",
+    "explanation": "The Monarch makes the speech at the opening of Parliament.",
+    "explanationZh": "君主在議會開幕時發表演講。"
+  },
+  {
+    "id": 1334,
+    "examId": 39,
+    "question": "Until what time do people play jokes on one another on April Fool's Day?",
+    "questionZh": "在愚人節，人們互相開玩笑直到什麼時候？",
+    "options": [
+      "Until 9 PM",
+      "Until 11 AM",
+      "All day",
+      "Until Midday"
+    ],
+    "optionsZh": [
+      "直到晚上9點",
+      "直到上午11點",
+      "整天",
+      "直到中午"
+    ],
+    "correctAnswer": 3,
+    "category": "Customs",
+    "explanation": "Pranks stop at midday.",
+    "explanationZh": "惡作劇在中午停止。"
+  },
+  {
+    "id": 1335,
+    "examId": 39,
+    "question": "In which UK country can you find the best preserved prehistoric village in northern Europe?",
+    "questionZh": "在英國的哪個國家可以找到北歐保存最完好的史前村落？",
+    "options": [
+      "Northern Ireland",
+      "Wales",
+      "England",
+      "Scotland"
+    ],
+    "optionsZh": [
+      "北愛爾蘭",
+      "威爾斯",
+      "英格蘭",
+      "蘇格蘭"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "Skara Brae is in Scotland (Orkney).",
+    "explanationZh": "史卡拉布雷位於蘇格蘭（奧克尼群島）。"
+  },
+  {
+    "id": 1336,
+    "examId": 39,
+    "question": "In the middle of the 19th century the potato crop failed, and Ireland suffered a famine.",
+    "questionZh": "19世紀中葉，馬鈴薯歉收，愛爾蘭遭受了饑荒。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The statement is true.",
+    "explanationZh": "此陳述是正確的。"
+  },
+  {
+    "id": 1337,
+    "examId": 39,
+    "question": "What are the parliaments in Scotland, Wales and Northern Ireland also known as?",
+    "questionZh": "蘇格蘭、威爾斯和北愛爾蘭的議會也被稱為什麼？",
+    "options": [
+      "Formal institutions",
+      "Devolved administrations",
+      "Political parties",
+      "Local authorities"
+    ],
+    "optionsZh": [
+      "正式機構",
+      "權力下放的政府 (Devolved administrations)",
+      "政黨",
+      "地方當局"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "They are known as devolved administrations.",
+    "explanationZh": "它們被稱為權力下放的政府。"
+  },
+  {
+    "id": 1338,
+    "examId": 39,
+    "question": "Select TWO famous Paralympians.",
+    "questionZh": "選擇兩位著名的帕拉林匹克運動員。",
+    "options": [
+      "Jessica Ennis",
+      "Ellie Simmonds",
+      "Baroness Tanni Grey-Thompson",
+      "Dame Ellen MacArthur"
+    ],
+    "optionsZh": [
+      "潔西卡·恩尼斯",
+      "艾莉·西蒙茲",
+      "坦尼·格雷-湯普森女男爵",
+      "艾倫·麥克阿瑟女爵士"
+    ],
+    "correctAnswer": [1, 2],
+    "category": "Sports",
+    "explanation": "Ellie Simmonds and Baroness Tanni Grey-Thompson are famous Paralympians.",
+    "explanationZh": "艾莉·西蒙茲和坦尼·格雷-湯普森女男爵是著名的帕拉林匹克運動員。"
+  },
+  {
+    "id": 1339,
+    "examId": 39,
+    "question": "What does the abbreviation PTA stand for?",
+    "questionZh": "縮寫 PTA 代表什麼？",
+    "options": [
+      "Premier Tennis Association",
+      "Parent Teacher Association",
+      "Primary Teaching Agency",
+      "Personal Trainer Awards"
+    ],
+    "optionsZh": [
+      "超級網球協會",
+      "家長教師協會 (Parent Teacher Association)",
+      "小學教學機構",
+      "私人教練獎"
+    ],
+    "correctAnswer": 1,
+    "category": "Society",
+    "explanation": "PTA stands for Parent Teacher Association.",
+    "explanationZh": "PTA 代表家長教師協會。"
+  },
+  {
+    "id": 1340,
+    "examId": 39,
+    "question": "Which TWO of these are associated with Sir Francis Drake?",
+    "questionZh": "哪兩項與法蘭西斯·德雷克爵士有關？",
+    "options": [
+      "Building the Titanic",
+      "Sailing around the world",
+      "The Spanish Armada invasion",
+      "Invasion of Ireland"
+    ],
+    "optionsZh": [
+      "建造泰坦尼克號",
+      "環遊世界",
+      "西班牙無敵艦隊入侵",
+      "入侵愛爾蘭"
+    ],
+    "correctAnswer": [1, 2],
+    "category": "History",
+    "explanation": "He circumnavigated the globe and fought the Spanish Armada.",
+    "explanationZh": "他環遊了地球並與西班牙無敵艦隊作戰。"
+  },
+  {
+    "id": 1341,
+    "examId": 39,
+    "question": "Which TWO major welfare changes were introduced between 1945 and 1950?",
+    "questionZh": "1945年至1950年間引入了哪兩項主要的福利變革？",
+    "options": [
+      "A social security system for everyone",
+      "State pension",
+      "The NHS",
+      "Employment benefits"
+    ],
+    "optionsZh": [
+      "全民社會保障體系",
+      "國家養老金",
+      "國民醫療服務體系 (NHS)",
+      "就業福利"
+    ],
+    "correctAnswer": [0, 2],
+    "category": "History",
+    "explanation": "The NHS and a social security system were introduced.",
+    "explanationZh": "引入了 NHS 和社會保障體系。"
+  },
+  {
+    "id": 1342,
+    "examId": 39,
+    "question": "Which of the following is a fundamental principle of British life?",
+    "questionZh": "以下哪項是英國生活的基本原則？",
+    "options": [
+      "Intolerance",
+      "Inequality",
+      "Extremism",
+      "Individual liberty"
+    ],
+    "optionsZh": [
+      "不容忍",
+      "不平等",
+      "極端主義",
+      "個人自由"
+    ],
+    "correctAnswer": 3,
+    "category": "Values",
+    "explanation": "Individual liberty is a fundamental principle.",
+    "explanationZh": "個人自由是一項基本原則。"
+  },
+  {
+    "id": 1343,
+    "examId": 39,
+    "question": "Which comedy double act by Nick Park won many Oscars?",
+    "questionZh": "尼克·帕克的哪個喜劇雙人組贏得了許多奧斯卡獎？",
+    "options": [
+      "Gavin and Stacey",
+      "Laurel and Hardy",
+      "Wallace and Gromit",
+      "Thelma and Louise"
+    ],
+    "optionsZh": [
+      "蓋文與史黛西",
+      "勞雷爾和哈代",
+      "華萊士與葛羅米特 (Wallace and Gromit)",
+      "塞爾瑪與路易絲"
+    ],
+    "correctAnswer": 2,
+    "category": "Arts",
+    "explanation": "Wallace and Gromit are the famous animated characters.",
+    "explanationZh": "華萊士與葛羅米特是著名的動畫角色。"
+  },
+  {
+    "id": 1344,
+    "examId": 39,
+    "question": "How many member states does the Commonwealth have?",
+    "questionZh": "大英國協有多少個成員國？",
+    "options": [
+      "27",
+      "190",
+      "56",
+      "5"
+    ],
+    "optionsZh": [
+      "27個",
+      "190個",
+      "56個",
+      "5個"
+    ],
+    "correctAnswer": 2,
+    "category": "Government",
+    "explanation": "There are 56 member states.",
+    "explanationZh": "有56個成員國。"
+  },
+  {
+    "id": 1345,
+    "examId": 40,
+    "question": "When is Christmas Eve?",
+    "questionZh": "平安夜是什麼時候？",
+    "options": [
+      "23rd of December",
+      "24th of December",
+      "25th of December",
+      "26th of December"
+    ],
+    "optionsZh": [
+      "12月23日",
+      "12月24日",
+      "12月25日",
+      "12月26日"
+    ],
+    "correctAnswer": 1,
+    "category": "Customs",
+    "explanation": "Christmas Eve is the 24th of December.",
+    "explanationZh": "平安夜是12月24日。"
+  },
+  {
+    "id": 1346,
+    "examId": 40,
+    "question": "What is the system that automatically deducts tax called?",
+    "questionZh": "自動扣稅的系統叫什麼？",
+    "options": [
+      "Self-Assessment",
+      "PAYE",
+      "PAYG",
+      "HMRC"
+    ],
+    "optionsZh": [
+      "自我評估",
+      "PAYE (源扣繳稅)",
+      "PAYG",
+      "HMRC"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "It is called Pay As You Earn (PAYE).",
+    "explanationZh": "它被稱為源扣繳稅 (PAYE)。"
+  },
+  {
+    "id": 1347,
+    "examId": 40,
+    "question": "Where did the ancestors of the first farmers come from?",
+    "questionZh": "第一批農民的祖先來自哪裡？",
+    "options": [
+      "North Europe",
+      "South-East Europe",
+      "North-East Europe",
+      "North-West Europe"
+    ],
+    "optionsZh": [
+      "北歐",
+      "東南歐",
+      "東北歐",
+      "西北歐"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "They probably came from south-east Europe.",
+    "explanationZh": "他們可能來自東南歐。"
+  },
+  {
+    "id": 1348,
+    "examId": 40,
+    "question": "Where is Loch Lomond located?",
+    "questionZh": "羅蒙湖位於哪裡？",
+    "options": [
+      "Northern Ireland",
+      "Scotland",
+      "England",
+      "Wales"
+    ],
+    "optionsZh": [
+      "北愛爾蘭",
+      "蘇格蘭",
+      "英格蘭",
+      "威爾斯"
+    ],
+    "correctAnswer": 1,
+    "category": "Geography",
+    "explanation": "Loch Lomond is in Scotland.",
+    "explanationZh": "羅蒙湖位於蘇格蘭。"
+  },
+  {
+    "id": 1349,
+    "examId": 40,
+    "question": "When were films first shown in the UK?",
+    "questionZh": "電影何時在英國首次放映？",
+    "options": [
+      "1894",
+      "1896",
+      "1901",
+      "1902"
+    ],
+    "optionsZh": [
+      "1894年",
+      "1896年",
+      "1901年",
+      "1902年"
+    ],
+    "correctAnswer": 1,
+    "category": "Culture",
+    "explanation": "Films were first shown publicly in 1896.",
+    "explanationZh": "電影於1896年首次公開放映。"
+  },
+  {
+    "id": 1350,
+    "examId": 40,
+    "question": "When did the Parliament begin developing into the institution it is now?",
+    "questionZh": "議會何時開始發展成現在的機構？",
+    "options": [
+      "During the Industrial Revolution",
+      "During the Middle Ages",
+      "During the Bronze Age",
+      "During the Iron Age"
+    ],
+    "optionsZh": [
+      "工業革命期間",
+      "中世紀期間",
+      "青銅時代期間",
+      "鐵器時代期間"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Parliament began to develop in the Middle Ages.",
+    "explanationZh": "議會在中世紀開始發展。"
+  },
+  {
+    "id": 1351,
+    "examId": 40,
+    "question": "Who set up the first formal anti-slavery campaigns?",
+    "questionZh": "誰發起了第一次正式的反奴隸制運動？",
+    "options": [
+      "Roundheads",
+      "The Quakers",
+      "Cavaliers",
+      "Jacobites"
+    ],
+    "optionsZh": [
+      "圓顱黨",
+      "貴格會教徒 (The Quakers)",
+      "騎士黨",
+      "詹姆斯黨"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Quakers set up the first anti-slavery groups.",
+    "explanationZh": "貴格會教徒建立了第一個反奴隸制團體。"
+  },
+  {
+    "id": 1352,
+    "examId": 40,
+    "question": "What type of painter was Joseph Turner?",
+    "questionZh": "約瑟夫·特納是什麼類型的畫家？",
+    "options": [
+      "Stained Glass",
+      "Landscape",
+      "Portrait",
+      "Abstract Sculpture"
+    ],
+    "optionsZh": [
+      "彩色玻璃",
+      "風景",
+      "肖像",
+      "抽象雕塑"
+    ],
+    "correctAnswer": 1,
+    "category": "Arts",
+    "explanation": "Joseph Turner was a landscape painter.",
+    "explanationZh": "約瑟夫·特納是一位風景畫家。"
+  },
+  {
+    "id": 1353,
+    "examId": 40,
+    "question": "When was the Magna Carta established?",
+    "questionZh": "大憲章是何時確立的？",
+    "options": [
+      "1415",
+      "1215",
+      "1314",
+      "1516"
+    ],
+    "optionsZh": [
+      "1415年",
+      "1215年",
+      "1314年",
+      "1516年"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Magna Carta was established in 1215.",
+    "explanationZh": "大憲章於1215年確立。"
+  },
+  {
+    "id": 1354,
+    "examId": 40,
+    "question": "What is the Mercury Music Prize awarded for?",
+    "questionZh": "水星音樂獎是為了獎勵什麼？",
+    "options": [
+      "The best music producer in the UK and Ireland",
+      "The best classical song in the UK and Ireland",
+      "The best song in the UK and Ireland",
+      "The best album from the UK and Ireland"
+    ],
+    "optionsZh": [
+      "英國和愛爾蘭的最佳音樂製作人",
+      "英國和愛爾蘭的最佳古典歌曲",
+      "英國和愛爾蘭的最佳歌曲",
+      "英國和愛爾蘭的最佳專輯"
+    ],
+    "correctAnswer": 3,
+    "category": "Arts",
+    "explanation": "It is awarded for the best album from the UK and Ireland.",
+    "explanationZh": "它頒發給英國和愛爾蘭的最佳專輯。"
+  },
+  {
+    "id": 1355,
+    "examId": 40,
+    "question": "What percentage of the total population lives in Scotland?",
+    "questionZh": "總人口中有多少百分比居住在蘇格蘭？",
+    "options": [
+      "21%",
+      "8%",
+      "2%",
+      "14%"
+    ],
+    "optionsZh": [
+      "21%",
+      "8%",
+      "2%",
+      "14%"
+    ],
+    "correctAnswer": 1,
+    "category": "Society",
+    "explanation": "Scotland makes up just over 8% of the population.",
+    "explanationZh": "蘇格蘭佔總人口的略高於8%。"
+  },
+  {
+    "id": 1356,
+    "examId": 40,
+    "question": "Who should you write to if you wish to make a complaint about the Police?",
+    "questionZh": "如果你想投訴警察，應該寫信給誰？",
+    "options": [
+      "The House of Commons",
+      "The House of Lords",
+      "The Chief Constable",
+      "Your local MP"
+    ],
+    "optionsZh": [
+      "下議院",
+      "上議院",
+      "警察局長 (Chief Constable)",
+      "你當地的議員"
+    ],
+    "correctAnswer": 2,
+    "category": "Law",
+    "explanation": "You should write to the Chief Constable.",
+    "explanationZh": "你應該寫信給警察局長。"
+  },
+  {
+    "id": 1357,
+    "examId": 40,
+    "question": "How many members does the Scottish Parliament have?",
+    "questionZh": "蘇格蘭議會有多少名成員？",
+    "options": [
+      "76",
+      "129",
+      "108",
+      "94"
+    ],
+    "optionsZh": [
+      "76名",
+      "129名",
+      "108名",
+      "94名"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "There are 129 members (MSPs).",
+    "explanationZh": "有129名成員 (MSPs)。"
+  },
+  {
+    "id": 1358,
+    "examId": 40,
+    "question": "When was Charles I executed?",
+    "questionZh": "查理一世何時被處決？",
+    "options": [
+      "1649",
+      "1646",
+      "1658",
+      "1653"
+    ],
+    "optionsZh": [
+      "1649年",
+      "1646年",
+      "1658年",
+      "1653年"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Charles I was executed in 1649.",
+    "explanationZh": "查理一世於1649年被處決。"
+  },
+  {
+    "id": 1359,
+    "examId": 40,
+    "question": "What kind of event is The Wimbledon Championship?",
+    "questionZh": "溫布頓錦標賽是什麼類型的活動？",
+    "options": [
+      "Cricket",
+      "Rugby",
+      "Tennis",
+      "Water sport"
+    ],
+    "optionsZh": [
+      "板球",
+      "橄欖球",
+      "網球",
+      "水上運動"
+    ],
+    "correctAnswer": 2,
+    "category": "Sports",
+    "explanation": "It is a tennis tournament.",
+    "explanationZh": "這是一個網球錦標賽。"
+  },
+  {
+    "id": 1360,
+    "examId": 40,
+    "question": "Who wrote the popular operas HMS Pinafore, The Pirates of Penzance and the Mikado?",
+    "questionZh": "誰寫了流行的歌劇《皮納福號軍艦》、《佩贊斯的海盜》和《日本天皇》？",
+    "options": [
+      "Tim Rice",
+      "Laurence Olivier",
+      "Gilbert and Sullivan",
+      "Andrew Webber"
+    ],
+    "optionsZh": [
+      "提姆·萊斯",
+      "勞倫斯·奧利弗",
+      "吉爾伯特和沙利文",
+      "安德魯·韋伯"
+    ],
+    "correctAnswer": 2,
+    "category": "Arts",
+    "explanation": "Gilbert and Sullivan wrote these comic operas.",
+    "explanationZh": "吉爾伯特和沙利文寫了這些滑稽歌劇。"
+  },
+  {
+    "id": 1361,
+    "examId": 40,
+    "question": "Local councils, in the UK, are often called local authorities.",
+    "questionZh": "在英國，地方議會通常被稱為地方當局。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "The statement is true.",
+    "explanationZh": "此陳述是正確的。"
+  },
+  {
+    "id": 1362,
+    "examId": 40,
+    "question": "James Watt was famous for his work on what?",
+    "questionZh": "詹姆斯·瓦特因在什麼方面的工作而聞名？",
+    "options": [
+      "Radio",
+      "Steam Power",
+      "Human nature",
+      "Economics"
+    ],
+    "optionsZh": [
+      "無線電",
+      "蒸汽動力",
+      "人性",
+      "經濟學"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "James Watt is famous for his work on steam power.",
+    "explanationZh": "詹姆斯·瓦特因其在蒸汽動力方面的工作而聞名。"
+  },
+  {
+    "id": 1363,
+    "examId": 40,
+    "question": "The Boer War of 1899 to 1902 established the idea that the British Empire is a force for good.",
+    "questionZh": "1899年至1902年的波耳戰爭確立了大英帝國是一股向善力量的觀點。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The war made people question the Empire, not support it as purely good.",
+    "explanationZh": "這場戰爭讓人們質疑帝國，而不是支持它純粹是好的。"
+  },
+  {
+    "id": 1364,
+    "examId": 40,
+    "question": "Who is the author of 'Charlie and the Chocolate Factory'?",
+    "questionZh": "《查理與巧克力工廠》的作者是誰？",
+    "options": [
+      "Roald Dahl",
+      "Charles Dickens",
+      "Jane Kipling",
+      "J.R.R. Tolkien"
+    ],
+    "optionsZh": [
+      "羅爾德·達爾",
+      "查爾斯·狄更斯",
+      "珍·吉卜林",
+      "J.R.R. 托爾金"
+    ],
+    "correctAnswer": 0,
+    "category": "Arts",
+    "explanation": "Roald Dahl wrote 'Charlie and the Chocolate Factory'.",
+    "explanationZh": "羅爾德·達爾寫了《查理與巧克力工廠》。"
+  },
+  {
+    "id": 1365,
+    "examId": 40,
+    "question": "In which year did John Logie Baird make the first TV broadcast between Glasgow and London?",
+    "questionZh": "約翰·羅傑·貝爾德在哪一年進行了格拉斯哥和倫敦之間的第一次電視廣播？",
+    "options": [
+      "1945",
+      "1932",
+      "1955",
+      "1920"
+    ],
+    "optionsZh": [
+      "1945年",
+      "1932年",
+      "1955年",
+      "1920年"
+    ],
+    "correctAnswer": 1,
+    "category": "Science",
+    "explanation": "He made the broadcast in 1932.",
+    "explanationZh": "他在1932年進行了廣播。"
+  },
+  {
+    "id": 1366,
+    "examId": 40,
+    "question": "Who founded a monastery on the Island of Iona?",
+    "questionZh": "誰在愛奧那島上建立了一座修道院？",
+    "options": [
+      "St Patrick",
+      "St Andrew",
+      "St Columba",
+      "St Augustine"
+    ],
+    "optionsZh": [
+      "聖派屈克",
+      "聖安德魯",
+      "聖哥倫巴 (St Columba)",
+      "聖奧古斯丁"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "St Columba founded the monastery on Iona.",
+    "explanationZh": "聖哥倫巴在愛奧那島建立了修道院。"
+  },
+  {
+    "id": 1367,
+    "examId": 40,
+    "question": "Which stories are associated with Geoffrey Chaucer?",
+    "questionZh": "哪些故事與傑弗里·喬叟有關？",
+    "options": [
+      "The Eastend Tales",
+      "The Westend Tales",
+      "The London Tales",
+      "The Canterbury Tales"
+    ],
+    "optionsZh": [
+      "東區故事",
+      "西區故事",
+      "倫敦故事",
+      "坎特伯里故事集"
+    ],
+    "correctAnswer": 3,
+    "category": "Arts",
+    "explanation": "The Canterbury Tales are associated with Chaucer.",
+    "explanationZh": "《坎特伯里故事集》與喬叟有關。"
+  },
+  {
+    "id": 1368,
+    "examId": 40,
+    "question": "The BBC is controlled by the UK government.",
+    "questionZh": "BBC由英國政府控制。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 0,
+    "category": "Modern UK",
+    "explanation": "The BBC is independent of the government.",
+    "explanationZh": "BBC 獨立於政府。"
+  },
+  {
+    "id": 1369,
+    "examId": 41,
+    "question": "Where did the engineers come from in the middle ages?",
+    "questionZh": "中世紀的工程師來自哪裡？",
+    "options": [
+      "France",
+      "Germany",
+      "Holland",
+      "Italy"
+    ],
+    "optionsZh": [
+      "法國",
+      "德國",
+      "荷蘭",
+      "義大利"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "In the middle ages, engineers came from Holland to drain the Fens.",
+    "explanationZh": "中世紀時，工程師從荷蘭來抽乾芬蘭的沼澤地。"
+  },
+  {
+    "id": 1370,
+    "examId": 41,
+    "question": "What medal was introduced during the Crimean War?",
+    "questionZh": "克里米亞戰爭期間引入了什麼勳章？",
+    "options": [
+      "The Victoria Cross",
+      "The George Cross",
+      "The Elizabeth Cross",
+      "The Military Cross"
+    ],
+    "optionsZh": [
+      "維多利亞十字勳章",
+      "喬治十字勳章",
+      "伊麗莎白十字勳章",
+      "軍事十字勳章"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The Victoria Cross was introduced during the Crimean War.",
+    "explanationZh": "維多利亞十字勳章是在克里米亞戰爭期間引入的。"
+  },
+  {
+    "id": 1371,
+    "examId": 41,
+    "question": "Who is a Patron St of Scotland?",
+    "questionZh": "誰是蘇格蘭的守護聖人？",
+    "options": [
+      "St George",
+      "St Patrick",
+      "St Andrew",
+      "St David"
+    ],
+    "optionsZh": [
+      "聖喬治",
+      "聖派屈克",
+      "聖安德魯",
+      "聖大衛"
+    ],
+    "correctAnswer": 2,
+    "category": "Customs",
+    "explanation": "St Andrew is the Patron Saint of Scotland.",
+    "explanationZh": "聖安德魯是蘇格蘭的守護聖人。"
+  },
+  {
+    "id": 1372,
+    "examId": 41,
+    "question": "What is the day before Lent called?",
+    "questionZh": "大齋期 (Lent) 前一天叫什麼？",
+    "options": [
+      "Pancake Day",
+      "Boxing Day",
+      "New Year's Day",
+      "Halloween"
+    ],
+    "optionsZh": [
+      "鬆餅日 (Pancake Day)",
+      "節禮日",
+      "元旦",
+      "萬聖節"
+    ],
+    "correctAnswer": 0,
+    "category": "Customs",
+    "explanation": "The day before Lent is called Shrove Tuesday or Pancake Day.",
+    "explanationZh": "大齋期前一天被稱為懺悔星期二或鬆餅日。"
+  },
+  {
+    "id": 1373,
+    "examId": 41,
+    "question": "What created The Kingdom of Great Britain in 1707?",
+    "questionZh": "1707年是什麼創立了大不列顛王國？",
+    "options": [
+      "The Bill of Rights",
+      "The Act of Union",
+      "The Magna Carta",
+      "The Reform Act"
+    ],
+    "optionsZh": [
+      "權利法案",
+      "聯合法案 (The Act of Union)",
+      "大憲章",
+      "改革法案"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Act of Union 1707 created the Kingdom of Great Britain.",
+    "explanationZh": "1707年的《聯合法案》創立了大不列顛王國。"
+  },
+  {
+    "id": 1374,
+    "examId": 41,
+    "question": "When did the First World War end?",
+    "questionZh": "第一次世界大戰何時結束？",
+    "options": [
+      "1916",
+      "1918",
+      "1914",
+      "1920"
+    ],
+    "optionsZh": [
+      "1916年",
+      "1918年",
+      "1914年",
+      "1920年"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The First World War ended on 11 November 1918.",
+    "explanationZh": "第一次世界大戰於1918年11月11日結束。"
+  },
+  {
+    "id": 1375,
+    "examId": 41,
+    "question": "What were the refugees that came from France called?",
+    "questionZh": "來自法國的難民被稱為什麼？",
+    "options": [
+      "Huguenots",
+      "Jacobites",
+      "Puritans",
+      "Quakers"
+    ],
+    "optionsZh": [
+      "胡格諾派 (Huguenots)",
+      "詹姆斯黨",
+      "清教徒",
+      "貴格會教徒"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Refugees from France were called Huguenots.",
+    "explanationZh": "來自法國的難民被稱為胡格諾派。"
+  },
+  {
+    "id": 1376,
+    "examId": 41,
+    "question": "Which party did Margaret Thatcher belong to?",
+    "questionZh": "瑪格麗特·柴契爾屬於哪個政黨？",
+    "options": [
+      "Labour",
+      "Liberal Democrats",
+      "Conservative",
+      "Green Party"
+    ],
+    "optionsZh": [
+      "工黨",
+      "自由民主黨",
+      "保守黨",
+      "綠黨"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Margaret Thatcher was a Conservative Prime Minister.",
+    "explanationZh": "瑪格麗特·柴契爾是保守黨首相。"
+  },
+  {
+    "id": 1377,
+    "examId": 41,
+    "question": "Choose TWO examples of a civil law offence.",
+    "questionZh": "選擇兩個民法違法行為的例子。",
+    "options": [
+      "Theft and assault",
+      "Debt and employment disputes",
+      "Murder and robbery",
+      "Fraud and drug dealing"
+    ],
+    "optionsZh": [
+      "盜竊和襲擊",
+      "債務和就業糾紛",
+      "謀殺和搶劫",
+      "欺詐和毒品交易"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "Debt and employment disputes are civil matters.",
+    "explanationZh": "債務和就業糾紛是民事事項。"
+  },
+  {
+    "id": 1378,
+    "examId": 41,
+    "question": "What is 'Snowdon'?",
+    "questionZh": "「史諾頓」(Snowdon) 是什麼？",
+    "options": [
+      "A castle",
+      "A mountain",
+      "A lake",
+      "A city"
+    ],
+    "optionsZh": [
+      "一座城堡",
+      "一座山",
+      "一個湖泊",
+      "一座城市"
+    ],
+    "correctAnswer": 1,
+    "category": "Geography",
+    "explanation": "Snowdon is the highest mountain in Wales.",
+    "explanationZh": "史諾頓是威爾斯最高的山。"
+  },
+  {
+    "id": 1379,
+    "examId": 41,
+    "question": "Where is the Cenotaph located?",
+    "questionZh": "和平紀念碑 (Cenotaph) 位於哪裡？",
+    "options": [
+      "Derbyshire",
+      "Whitehall",
+      "Trafalgar Square",
+      "Hyde Park"
+    ],
+    "optionsZh": [
+      "德比郡",
+      "白廳 (Whitehall)",
+      "特拉法加廣場",
+      "海德公園"
+    ],
+    "correctAnswer": 1,
+    "category": "Landmarks",
+    "explanation": "The Cenotaph is located in Whitehall, London.",
+    "explanationZh": "和平紀念碑位於倫敦白廳。"
+  },
+  {
+    "id": 1380,
+    "examId": 41,
+    "question": "When did the first professional football clubs form?",
+    "questionZh": "第一批職業足球俱樂部何時成立？",
+    "options": [
+      "18th century",
+      "19th century",
+      "20th century",
+      "17th century"
+    ],
+    "optionsZh": [
+      "18世紀",
+      "19世紀",
+      "20世紀",
+      "17世紀"
+    ],
+    "correctAnswer": 1,
+    "category": "Sports",
+    "explanation": "Professional football clubs began to form in the late 19th century.",
+    "explanationZh": "職業足球俱樂部在19世紀末開始成立。"
+  },
+  {
+    "id": 1381,
+    "examId": 41,
+    "question": "The UK government has used the power to suspend the Northern Ireland Assembly.",
+    "questionZh": "英國政府曾經行使權力暫停北愛爾蘭議會。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "The UK government has suspended the Northern Ireland Assembly on several occasions.",
+    "explanationZh": "英國政府曾多次暫停北愛爾蘭議會。"
+  },
+  {
+    "id": 1382,
+    "examId": 41,
+    "question": "Which novel is the satirical novelist Evelyn Waugh best known for?",
+    "questionZh": "諷刺小說家伊夫林·沃最著名的作品是哪部？",
+    "options": [
+      "Brideshead Revisited",
+      "Animal Farm",
+      "1984",
+      "Lord of the Flies"
+    ],
+    "optionsZh": [
+      "故園風雨後 (Brideshead Revisited)",
+      "動物農莊",
+      "1984",
+      "蒼蠅王"
+    ],
+    "correctAnswer": 0,
+    "category": "Arts",
+    "explanation": "Evelyn Waugh is best known for 'Brideshead Revisited'.",
+    "explanationZh": "伊夫林·沃最著名的作品是《故園風雨後》。"
+  },
+  {
+    "id": 1383,
+    "examId": 41,
+    "question": "Where was Robert Burns from?",
+    "questionZh": "羅伯特·伯恩斯來自哪裡？",
+    "options": [
+      "Northern Ireland",
+      "Scotland",
+      "Wales",
+      "England"
+    ],
+    "optionsZh": [
+      "北愛爾蘭",
+      "蘇格蘭",
+      "威爾斯",
+      "英格蘭"
+    ],
+    "correctAnswer": 1,
+    "category": "Arts",
+    "explanation": "Robert Burns was a Scottish poet.",
+    "explanationZh": "羅伯特·伯恩斯是蘇格蘭詩人。"
+  },
+  {
+    "id": 1384,
+    "examId": 41,
+    "question": "Which TWO are major political parties in the UK?",
+    "questionZh": "哪兩個是英國的主要政黨？",
+    "options": [
+      "Conservative",
+      "Democrats",
+      "Labour",
+      "Republicans"
+    ],
+    "optionsZh": [
+      "保守黨",
+      "民主黨",
+      "工黨",
+      "共和黨"
+    ],
+    "correctAnswer": [0, 2],
+    "category": "Government",
+    "explanation": "The Conservative Party and the Labour Party are major parties.",
+    "explanationZh": "保守黨和工黨是主要政黨。"
+  },
+  {
+    "id": 1385,
+    "examId": 41,
+    "question": "Who lost a lot of their power after the Battle of Culloden in 1746?",
+    "questionZh": "1746年庫洛登戰役後，誰失去了很多權力？",
+    "options": [
+      "The Farmers",
+      "The Clans",
+      "The Church",
+      "The King"
+    ],
+    "optionsZh": [
+      "農民",
+      "氏族 (The Clans)",
+      "教會",
+      "國王"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Scottish clans lost much of their power after Culloden.",
+    "explanationZh": "庫洛登戰役後，蘇格蘭氏族失去了大部分權力。"
+  },
+  {
+    "id": 1386,
+    "examId": 41,
+    "question": "In what year was Germany comprehensively defeated by the Allies during the WWII?",
+    "questionZh": "德國在二戰中哪一年被盟軍全面擊敗？",
+    "options": [
+      "1946",
+      "1945",
+      "1944",
+      "1947"
+    ],
+    "optionsZh": [
+      "1946年",
+      "1945年",
+      "1944年",
+      "1947年"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Germany was defeated in May 1945.",
+    "explanationZh": "德國於1945年5月被擊敗。"
+  },
+  {
+    "id": 1387,
+    "examId": 41,
+    "question": "Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait.",
+    "questionZh": "在整個1990年代，英國在參與解放科威特的聯軍中發揮了領導作用。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Britain played a leading role in the Gulf War to liberate Kuwait.",
+    "explanationZh": "英國在解放科威特的海灣戰爭中發揮了領導作用。"
+  },
+  {
+    "id": 1388,
+    "examId": 41,
+    "question": "The UN was set up straight after the First World War.",
+    "questionZh": "聯合國是在第一次世界大戰後立即成立的。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The UN was set up after the Second World War.",
+    "explanationZh": "聯合國是在第二次世界大戰後成立的。"
+  },
+  {
+    "id": 1389,
+    "examId": 41,
+    "question": "Complaints against the Police can only be made by writing to the Police Complaints Commissioner.",
+    "questionZh": "對警察的投訴只能透過寫信給警察投訴專員來提出。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "You can complain directly to the police station or the Independent Office for Police Conduct.",
+    "explanationZh": "您可以直接向警察局或警察行為獨立辦公室投訴。"
+  },
+  {
+    "id": 1390,
+    "examId": 41,
+    "question": "Which of these athletes is a Paralympian who won gold medals for swimming?",
+    "questionZh": "以下哪位運動員是獲得游泳金牌的帕拉林匹克運動員？",
+    "options": [
+      "Jessica Ennis",
+      "Ellie Simmonds",
+      "Mo Farah",
+      "Bradley Wiggins"
+    ],
+    "optionsZh": [
+      "潔西卡·恩尼斯",
+      "艾莉·西蒙茲",
+      "莫·法拉",
+      "布拉德利·威金斯"
+    ],
+    "correctAnswer": 1,
+    "category": "Sports",
+    "explanation": "Ellie Simmonds is a Paralympian swimmer.",
+    "explanationZh": "艾莉·西蒙茲是一位帕拉林匹克游泳運動員。"
+  },
+  {
+    "id": 1391,
+    "examId": 41,
+    "question": "By law, radio and television coverage of the political parties must be balanced.",
+    "questionZh": "根據法律，廣播和電視對政黨的報導必須平衡。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "Equal time must be given to rival viewpoints.",
+    "explanationZh": "必須給予對立觀點相同的時間。"
+  },
+  {
+    "id": 1392,
+    "examId": 41,
+    "question": "What is the official report of proceedings in Parliament called?",
+    "questionZh": "議會會議的正式報告叫什麼？",
+    "options": [
+      "Hansard",
+      "The Gazette",
+      "The Times",
+      "The Daily Record"
+    ],
+    "optionsZh": [
+      "漢薩德 (Hansard)",
+      "公報",
+      "泰晤士報",
+      "每日記錄"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "Hansard is the official report.",
+    "explanationZh": "漢薩德是正式報告。"
+  },
+  {
+    "id": 1393,
+    "examId": 42,
+    "question": "Who built the Tower of London?",
+    "questionZh": "誰建造了倫敦塔？",
+    "options": [
+      "Henry VIII",
+      "William the Conqueror",
+      "Edward I",
+      "Charles I"
+    ],
+    "optionsZh": [
+      "亨利八世",
+      "征服者威廉",
+      "愛德華一世",
+      "查理一世"
+    ],
+    "correctAnswer": 1,
+    "category": "Landmarks",
+    "explanation": "William the Conqueror built the Tower of London.",
+    "explanationZh": "征服者威廉建造了倫敦塔。"
+  },
+  {
+    "id": 1394,
+    "examId": 42,
+    "question": "Where is the best preserved prehistoric village 'Skara Brae on Orkney' located?",
+    "questionZh": "保存最完好的史前村莊「奧克尼群島的史卡拉布雷」位於哪裡？",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "optionsZh": [
+      "英格蘭",
+      "蘇格蘭",
+      "威爾斯",
+      "北愛爾蘭"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Skara Brae is in Scotland.",
+    "explanationZh": "史卡拉布雷位於蘇格蘭。"
+  },
+  {
+    "id": 1395,
+    "examId": 42,
+    "question": "What do you require by law to watch TV using any medium?",
+    "questionZh": "根據法律，使用任何媒介觀看電視需要什麼？",
+    "options": [
+      "The Internet",
+      "A TV Licence",
+      "Cable",
+      "A dish"
+    ],
+    "optionsZh": [
+      "網路",
+      "電視執照",
+      "有線電視",
+      "天線盤"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "A TV Licence is required.",
+    "explanationZh": "需要電視執照。"
+  },
+  {
+    "id": 1396,
+    "examId": 42,
+    "question": "Who became the first Briton to win the Tour de France?",
+    "questionZh": "誰成為第一位贏得環法自行車賽的英國人？",
+    "options": [
+      "Bradley Wiggins",
+      "Chris Hoy",
+      "Mo Farah",
+      "Andy Murray"
+    ],
+    "optionsZh": [
+      "布拉德利·威金斯",
+      "克里斯·霍伊",
+      "莫·法拉",
+      "安迪·穆雷"
+    ],
+    "correctAnswer": 0,
+    "category": "Sports",
+    "explanation": "Bradley Wiggins won the Tour de France in 2012.",
+    "explanationZh": "布拉德利·威金斯於2012年贏得環法自行車賽。"
+  },
+  {
+    "id": 1397,
+    "examId": 42,
+    "question": "How many years did Mary, the Queen of Scots spend in prison?",
+    "questionZh": "蘇格蘭女王瑪麗在監獄裡度過了多少年？",
+    "options": [
+      "30",
+      "20",
+      "10",
+      "5"
+    ],
+    "optionsZh": [
+      "30年",
+      "20年",
+      "10年",
+      "5年"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "She spent 20 years in prison.",
+    "explanationZh": "她在監獄裡度過了20年。"
+  },
+  {
+    "id": 1398,
+    "examId": 42,
+    "question": "The Scottish Parliament was formed in 1998 and sits in Edinburgh.",
+    "questionZh": "蘇格蘭議會成立於1998年，位於愛丁堡。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "The Scottish Parliament sits in Edinburgh (Act passed in 1998, opened 1999).",
+    "explanationZh": "蘇格蘭議會位於愛丁堡（法案於1998年通過，1999年開放）。"
+  },
+  {
+    "id": 1399,
+    "examId": 42,
+    "question": "Who requested to write The Domesday book?",
+    "questionZh": "誰要求編寫《末日審判書》？",
+    "options": [
+      "Edward I",
+      "William the Conqueror",
+      "Henry VIII",
+      "Alfred the Great"
+    ],
+    "optionsZh": [
+      "愛德華一世",
+      "征服者威廉",
+      "亨利八世",
+      "阿爾弗雷德大帝"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "William the Conqueror ordered the Domesday Book.",
+    "explanationZh": "征服者威廉下令編寫《末日審判書》。"
+  },
+  {
+    "id": 1400,
+    "examId": 42,
+    "question": "Since the Middle Ages, when did the first Jews come to Britain to settle in London?",
+    "questionZh": "自中世紀以來，第一批猶太人何時來到英國定居倫敦？",
+    "options": [
+      "1652",
+      "1656",
+      "1700",
+      "1800"
+    ],
+    "optionsZh": [
+      "1652年",
+      "1656年",
+      "1700年",
+      "1800年"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Jews settled in London in 1656.",
+    "explanationZh": "猶太人於1656年定居倫敦。"
+  },
+  {
+    "id": 1401,
+    "examId": 42,
+    "question": "The British constitution is described as 'unwritten'.",
+    "questionZh": "英國憲法被描述為「不成文的」。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "It is unwritten/uncodified.",
+    "explanationZh": "它是不成文/未法典化的。"
+  },
+  {
+    "id": 1402,
+    "examId": 42,
+    "question": "Which TWO roles are school governors and school boards responsible for?",
+    "questionZh": "學校董事和學校委員會負責哪兩項職責？",
+    "options": [
+      "Monitoring and evaluating school performance",
+      "Teaching classes",
+      "Setting the strategic direction of the school",
+      "Cleaning"
+    ],
+    "optionsZh": [
+      "監控和評估學校表現",
+      "教授課程",
+      "設定學校的戰略方向",
+      "清潔"
+    ],
+    "correctAnswer": [0, 2],
+    "category": "Society",
+    "explanation": "They set direction and monitor performance.",
+    "explanationZh": "他們設定方向並監控表現。"
+  },
+  {
+    "id": 1403,
+    "examId": 42,
+    "question": "What is the origin of Parliament?",
+    "questionZh": "議會的起源是什麼？",
+    "options": [
+      "The Noblemen's council",
+      "The King's council of advisors",
+      "The People's assembly",
+      "The Church"
+    ],
+    "optionsZh": [
+      "貴族委員會",
+      "國王的顧問委員會",
+      "人民大會",
+      "教會"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Parliament originated from the King's council.",
+    "explanationZh": "議會起源於國王的委員會。"
+  },
+  {
+    "id": 1404,
+    "examId": 42,
+    "question": "There are charities which may help people who cannot afford to pay for a vet.",
+    "questionZh": "有一些慈善機構可以幫助無力支付獸醫費用的人。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Society",
+    "explanation": "Charities like PDSA exist for this.",
+    "explanationZh": "像PDSA這樣的慈善機構就是為此而存在的。"
+  },
+  {
+    "id": 1405,
+    "examId": 42,
+    "question": "What are TWO of the roles of the House of Lords?",
+    "questionZh": "上議院的其中兩項職責是什麼？",
+    "options": [
+      "Scrutinise and comment on what the government is doing",
+      "Suggest amendments to legislation",
+      "Elect PM",
+      "Run the army"
+    ],
+    "optionsZh": [
+      "審查和評論政府的作為",
+      "建議修改立法",
+      "選舉首相",
+      "管理軍隊"
+    ],
+    "correctAnswer": [0, 1],
+    "category": "Government",
+    "explanation": "They scrutinise government and suggest amendments.",
+    "explanationZh": "他們審查政府並建議修改。"
+  },
+  {
+    "id": 1406,
+    "examId": 42,
+    "question": "Who was made a Dame of the British Empire in 2000?",
+    "questionZh": "誰在2000年被封為大英帝國女爵士？",
+    "options": [
+      "Dame Kelly Holmes",
+      "Dame Judi Dench",
+      "Dame Helen Mirren",
+      "Dame Maggie Smith"
+    ],
+    "optionsZh": [
+      "凱利·霍姆斯女爵士",
+      "茱蒂·丹契女爵士",
+      "海倫·米蘭女爵士",
+      "瑪吉·史密斯女爵士"
+    ],
+    "correctAnswer": 0,
+    "category": "Sports",
+    "explanation": "Kelly Holmes was made a Dame.",
+    "explanationZh": "凱利·霍姆斯被封為女爵士。"
+  },
+  {
+    "id": 1407,
+    "examId": 42,
+    "question": "Which TWO will you be agreeing with when applying to become a permanent resident?",
+    "questionZh": "申請成為永久居民時，您將同意哪兩項？",
+    "options": [
+      "To accept the responsibilities which come with 'Settlement'",
+      "To respect the laws of the UK",
+      "To pay all taxes",
+      "To join a party"
+    ],
+    "optionsZh": [
+      "接受「定居」帶來的責任",
+      "尊重英國法律",
+      "繳納所有稅款",
+      "加入政黨"
+    ],
+    "correctAnswer": [0, 1],
+    "category": "Values",
+    "explanation": "You agree to accept responsibilities and respect laws.",
+    "explanationZh": "您同意承擔責任並尊重法律。"
+  },
+  {
+    "id": 1408,
+    "examId": 42,
+    "question": "Which of the following is associated with the Elizabethan period in England?",
+    "questionZh": "以下哪一項與英格蘭的伊麗莎白時期有關？",
+    "options": [
+      "Scientific movement",
+      "Industrial revolution",
+      "Digital age",
+      "Stone age"
+    ],
+    "optionsZh": [
+      "科學運動",
+      "工業革命",
+      "數位時代",
+      "石器時代"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "A time of growing patriotism and exploration/knowledge.",
+    "explanationZh": "愛國主義和探索/知識增長的時期。"
+  },
+  {
+    "id": 1409,
+    "examId": 42,
+    "question": "Which TWO of the following are examples of criminal law?",
+    "questionZh": "以下哪兩項是刑法的例子？",
+    "options": [
+      "Disputes about faulty goods",
+      "Carrying a weapon",
+      "Selling drugs",
+      "Debt"
+    ],
+    "optionsZh": [
+      "關於瑕疵商品的糾紛",
+      "攜帶武器",
+      "販賣毒品",
+      "債務"
+    ],
+    "correctAnswer": [1, 2],
+    "category": "Law",
+    "explanation": "Weapons and drugs are criminal matters.",
+    "explanationZh": "武器和毒品是刑事事項。"
+  },
+  {
+    "id": 1410,
+    "examId": 42,
+    "question": "Which king defeated the Vikings?",
+    "questionZh": "哪位國王擊敗了維京人？",
+    "options": [
+      "King William the Conqueror",
+      "King Alfred the Great",
+      "King Henry VIII",
+      "King John"
+    ],
+    "optionsZh": [
+      "征服者威廉國王",
+      "阿爾弗雷德大帝",
+      "亨利八世國王",
+      "約翰王"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Alfred the Great defeated the Vikings.",
+    "explanationZh": "阿爾弗雷德大帝擊敗了維京人。"
+  },
+  {
+    "id": 1411,
+    "examId": 42,
+    "question": "Who receives ambassadors and high commissioners?",
+    "questionZh": "誰負責接待大使和高級專員？",
+    "options": [
+      "The Monarch",
+      "The Prime Minister",
+      "The Foreign Secretary",
+      "The Speaker"
+    ],
+    "optionsZh": [
+      "君主",
+      "首相",
+      "外交大臣",
+      "議長"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "The Monarch receives them.",
+    "explanationZh": "君主接待他們。"
+  },
+  {
+    "id": 1412,
+    "examId": 42,
+    "question": "The devolved administrations each have their own civil service.",
+    "questionZh": "權力下放的政府各自擁有自己的公務員體系。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "They have their own civil service.",
+    "explanationZh": "他們有自己的公務員體系。"
+  },
+  {
+    "id": 1413,
+    "examId": 42,
+    "question": "What is known as 'canvassing'?",
+    "questionZh": "什麼被稱為「拉票」？",
+    "options": [
+      "Persuade people to vote for the party you represent",
+      "Counting votes",
+      "Registering",
+      "Running"
+    ],
+    "optionsZh": [
+      "說服人們投票給你代表的政黨",
+      "計票",
+      "登記",
+      "競選"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "Canvassing is persuading people to vote.",
+    "explanationZh": "拉票是說服人們投票。"
+  },
+  {
+    "id": 1414,
+    "examId": 42,
+    "question": "What is your responsibility as UK citizen? Select TWO answers.",
+    "questionZh": "作為英國公民，你的責任是什麼？選擇兩個答案。",
+    "options": [
+      "To vote in local and national government elections",
+      "To respect and obey the law",
+      "To join army",
+      "To pay no tax"
+    ],
+    "optionsZh": [
+      "在地方和國家政府選舉中投票",
+      "尊重並遵守法律",
+      "參軍",
+      "不繳稅"
+    ],
+    "correctAnswer": [0, 1],
+    "category": "Values",
+    "explanation": "Voting and obeying the law are responsibilities.",
+    "explanationZh": "投票和遵守法律是責任。"
+  },
+  {
+    "id": 1415,
+    "examId": 42,
+    "question": "Who invented the cash-dispensing ATM?",
+    "questionZh": "誰發明了自動提款機 (ATM)？",
+    "options": [
+      "James Goodfellow",
+      "Tim Berners-Lee",
+      "Alan Turing",
+      "John Logie Baird"
+    ],
+    "optionsZh": [
+      "詹姆斯·古德費洛",
+      "提姆·柏內茲-李",
+      "艾倫·圖靈",
+      "約翰·羅傑·貝爾德"
+    ],
+    "correctAnswer": 0,
+    "category": "Science",
+    "explanation": "James Goodfellow invented the ATM.",
+    "explanationZh": "詹姆斯·古德費洛發明了自動提款機。"
+  },
+  {
+    "id": 1416,
+    "examId": 42,
+    "question": "Which German princess got married with Henry VIII?",
+    "questionZh": "哪位德國公主嫁給了亨利八世？",
+    "options": [
+      "Anne of Cleves",
+      "Catherine of Aragon",
+      "Anne Boleyn",
+      "Jane Seymour"
+    ],
+    "optionsZh": [
+      "克萊沃的安妮",
+      "阿拉貢的凱薩琳",
+      "安妮·博林",
+      "珍·西摩"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Anne of Cleves was a German princess.",
+    "explanationZh": "克萊沃的安妮是德國公主。"
+  },
+  {
+    "id": 1417,
+    "examId": 43,
+    "question": "Who appoints 'Life peers'?",
+    "questionZh": "誰任命「終身貴族」？",
+    "options": [
+      "The Speaker",
+      "The Monarch",
+      "The Prime Minister",
+      "The Cabinet"
+    ],
+    "optionsZh": [
+      "議長",
+      "君主",
+      "首相",
+      "內閣"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "The Monarch appoints life peers.",
+    "explanationZh": "君主任命終身貴族。"
+  },
+  {
+    "id": 1418,
+    "examId": 43,
+    "question": "Where did Charles II hide to escape from Cromwell's army?",
+    "questionZh": "查理二世為了躲避克倫威爾的軍隊藏在哪裡？",
+    "options": [
+      "In a house",
+      "In an oak tree",
+      "In a cave",
+      "In a church"
+    ],
+    "optionsZh": [
+      "在一所房子裡",
+      "在一棵橡樹上",
+      "在一個山洞裡",
+      "在一個教堂裡"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "He hid in an oak tree.",
+    "explanationZh": "他藏在一棵橡樹上。"
+  },
+  {
+    "id": 1419,
+    "examId": 43,
+    "question": "Which General remains a controversial figure in Ireland?",
+    "questionZh": "哪位將軍在愛爾蘭仍然是一個有爭議的人物？",
+    "options": [
+      "Nelson",
+      "Oliver Cromwell",
+      "Wellington",
+      "Montgomery"
+    ],
+    "optionsZh": [
+      "納爾遜",
+      "奧利弗·克倫威爾",
+      "威靈頓",
+      "蒙哥馬利"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Oliver Cromwell is controversial in Ireland.",
+    "explanationZh": "奧利弗·克倫威爾在愛爾蘭是有爭議的。"
+  },
+  {
+    "id": 1420,
+    "examId": 43,
+    "question": "What is MP's responsibility?",
+    "questionZh": "國會議員 (MP) 的職責是什麼？",
+    "options": [
+      "To point out failures",
+      "Represent their constituency",
+      "Make laws alone",
+      "Arrest criminals"
+    ],
+    "optionsZh": [
+      "指出失敗",
+      "代表他們的選區",
+      "單獨制定法律",
+      "逮捕罪犯"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "MPs represent their constituency.",
+    "explanationZh": "國會議員代表他們的選區。"
+  },
+  {
+    "id": 1421,
+    "examId": 43,
+    "question": "What was 'Shampooing' when it was first introduced?",
+    "questionZh": "「Shampooing」剛引入時是什麼？",
+    "options": [
+      "Washing your head with soap",
+      "Indian head massage",
+      "A dance",
+      "A game"
+    ],
+    "optionsZh": [
+      "用肥皂洗頭",
+      "印度頭部按摩",
+      "一種舞蹈",
+      "一種遊戲"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "It was an Indian head massage.",
+    "explanationZh": "它是一種印度頭部按摩。"
+  },
+  {
+    "id": 1422,
+    "examId": 43,
+    "question": "How many AMs does the Welsh government have?",
+    "questionZh": "威爾斯政府有多少名AMs（議員）？",
+    "options": [
+      "129",
+      "60",
+      "108",
+      "90"
+    ],
+    "optionsZh": [
+      "129名",
+      "60名",
+      "108名",
+      "90名"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "There are 60 members.",
+    "explanationZh": "有60名成員。"
+  },
+  {
+    "id": 1423,
+    "examId": 43,
+    "question": "Where do you have to be registered to be able to vote?",
+    "questionZh": "你必須在哪裡登記才能投票？",
+    "options": [
+      "The UK database",
+      "The Electoral Register",
+      "The Census",
+      "The Post Office"
+    ],
+    "optionsZh": [
+      "英國資料庫",
+      "選民登記冊",
+      "人口普查",
+      "郵局"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "You must be on the Electoral Register.",
+    "explanationZh": "你必須在選民登記冊上。"
+  },
+  {
+    "id": 1424,
+    "examId": 43,
+    "question": "Who designed the Dumfries House in Scotland?",
+    "questionZh": "誰設計了蘇格蘭的達米弗里斯宮？",
+    "options": [
+      "Inigo Jones",
+      "Robert Adam",
+      "Christopher Wren",
+      "Lancelot Brown"
+    ],
+    "optionsZh": [
+      "伊尼戈·瓊斯",
+      "羅伯特·亞當",
+      "克里斯多福·雷恩",
+      "蘭斯洛特·布朗"
+    ],
+    "correctAnswer": 1,
+    "category": "Arts",
+    "explanation": "Robert Adam designed Dumfries House.",
+    "explanationZh": "羅伯特·亞當設計了達米弗里斯宮。"
+  },
+  {
+    "id": 1425,
+    "examId": 43,
+    "question": "How many crosses does the Union flag have?",
+    "questionZh": "聯合旗有多少個十字？",
+    "options": [
+      "4",
+      "3",
+      "2",
+      "1"
+    ],
+    "optionsZh": [
+      "4個",
+      "3個",
+      "2個",
+      "1個"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "It has 3 crosses (St George, St Andrew, St Patrick).",
+    "explanationZh": "它有3個十字（聖喬治、聖安德魯、聖派屈克）。"
+  },
+  {
+    "id": 1426,
+    "examId": 43,
+    "question": "Which TWO are part of the Government?",
+    "questionZh": "哪兩個是政府的一部分？",
+    "options": [
+      "Local people",
+      "The Cabinet",
+      "The Prime Minister",
+      "The Police"
+    ],
+    "optionsZh": [
+      "當地人",
+      "內閣",
+      "首相",
+      "警察"
+    ],
+    "correctAnswer": [1, 2],
+    "category": "Government",
+    "explanation": "The PM and Cabinet are part of the government.",
+    "explanationZh": "首相和內閣是政府的一部分。"
+  },
+  {
+    "id": 1427,
+    "examId": 43,
+    "question": "What was the name of plague that killed one third of the population of England in 1348?",
+    "questionZh": "1348年殺死英格蘭三分之一人口的瘟疫叫什麼名字？",
+    "options": [
+      "The White Death",
+      "The Black Death",
+      "The Spanish Flu",
+      "The Great Plague"
+    ],
+    "optionsZh": [
+      "白色死神",
+      "黑死病",
+      "西班牙流感",
+      "大瘟疫"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "It was the Black Death.",
+    "explanationZh": "那是黑死病。"
+  },
+  {
+    "id": 1428,
+    "examId": 43,
+    "question": "Names of places, such as Grimsby and Scunthorpe come from which language?",
+    "questionZh": "格里姆斯比和斯肯索普等地名來自哪種語言？",
+    "options": [
+      "Viking",
+      "Roman",
+      "French",
+      "German"
+    ],
+    "optionsZh": [
+      "維京語",
+      "羅馬語",
+      "法語",
+      "德語"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "They come from the Viking language.",
+    "explanationZh": "它們來自維京語言。"
+  },
+  {
+    "id": 1429,
+    "examId": 43,
+    "question": "What profession was Florence Nightingale famous for?",
+    "questionZh": "弗羅倫斯·南丁格爾以什麼職業聞名？",
+    "options": [
+      "Political Leader",
+      "Nursing",
+      "Teaching",
+      "Writing"
+    ],
+    "optionsZh": [
+      "政治領袖",
+      "護理",
+      "教學",
+      "寫作"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "She was famous for nursing.",
+    "explanationZh": "她以護理聞名。"
+  },
+  {
+    "id": 1430,
+    "examId": 43,
+    "question": "Which ship was one of the first to circumnavigate the world?",
+    "questionZh": "哪艘船是最早環遊世界的船之一？",
+    "options": [
+      "HMS Victory",
+      "The Golden Hind",
+      "The Mayflower",
+      "Titanic"
+    ],
+    "optionsZh": [
+      "勝利號",
+      "金鹿號 (The Golden Hind)",
+      "五月花號",
+      "泰坦尼克號"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Golden Hind, captained by Francis Drake.",
+    "explanationZh": "由法蘭西斯·德雷克指揮的金鹿號。"
+  },
+  {
+    "id": 1431,
+    "examId": 43,
+    "question": "What country is Swansea in?",
+    "questionZh": "斯旺西在哪個國家？",
+    "options": [
+      "Scotland",
+      "Wales",
+      "England",
+      "Northern Ireland"
+    ],
+    "optionsZh": [
+      "蘇格蘭",
+      "威爾斯",
+      "英格蘭",
+      "北愛爾蘭"
+    ],
+    "correctAnswer": 1,
+    "category": "Geography",
+    "explanation": "Swansea is in Wales.",
+    "explanationZh": "斯旺西在威爾斯。"
+  },
+  {
+    "id": 1432,
+    "examId": 43,
+    "question": "Who led a team of scientists to develop the atomic bomb?",
+    "questionZh": "誰領導了一組科學家開發原子彈？",
+    "options": [
+      "Ernest Rutherford",
+      "Alexander Fleming",
+      "Isaac Newton",
+      "Charles Darwin"
+    ],
+    "optionsZh": [
+      "恩斯特·盧瑟福",
+      "亞歷山大·弗萊明",
+      "艾薩克·牛頓",
+      "查爾斯·達爾文"
+    ],
+    "correctAnswer": 0,
+    "category": "Science",
+    "explanation": "Ernest Rutherford's work led to the atomic bomb.",
+    "explanationZh": "恩斯特·盧瑟福的工作導致了原子彈的開發。"
+  },
+  {
+    "id": 1433,
+    "examId": 43,
+    "question": "The Restoration' refers to the reestablishment of Roman Catholicism.",
+    "questionZh": "「王政復辟」是指羅馬天主教的重建。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "It refers to the return of the King (Charles II), not Catholicism.",
+    "explanationZh": "它是指國王（查理二世）的回歸，而不是天主教。"
+  },
+  {
+    "id": 1434,
+    "examId": 43,
+    "question": "In Youth Courts, the name or photographs of the accused young person can be published in newspapers or used by the media.",
+    "questionZh": "在青年法院，被告年輕人的姓名或照片可以在報紙上公佈或被媒體使用。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 0,
+    "category": "Law",
+    "explanation": "They cannot be published.",
+    "explanationZh": "它們不能被公佈。"
+  },
+  {
+    "id": 1435,
+    "examId": 43,
+    "question": "Which TWO principles are included in the European Convention on Human Rights?",
+    "questionZh": "《歐洲人權公約》包括哪兩項原則？",
+    "options": [
+      "Freedom of forced labour",
+      "Right to a fair trial",
+      "Right to vote at 16",
+      "Right to drive"
+    ],
+    "optionsZh": [
+      "免受強迫勞動的自由",
+      "獲得公平審判的權利",
+      "16歲投票權",
+      "駕駛權"
+    ],
+    "correctAnswer": [0, 1],
+    "category": "Law",
+    "explanation": "Freedom from forced labour and right to a fair trial are included.",
+    "explanationZh": "免受強迫勞動的自由和獲得公平審判的權利包括在內。"
+  },
+  {
+    "id": 1436,
+    "examId": 43,
+    "question": "Rudyard Kipling was born in South Africa.",
+    "questionZh": "魯德亞德·吉卜林出生在南非。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 0,
+    "category": "Arts",
+    "explanation": "He was born in India.",
+    "explanationZh": "他出生在印度。"
+  },
+  {
+    "id": 1437,
+    "examId": 43,
+    "question": "When King Charles I tried to impose a revised Prayer Book on the Presbyterian Church in Scotland, which TWO events occurred?",
+    "questionZh": "當查理一世國王試圖將修訂後的祈禱書強加給蘇格蘭長老會時，發生了哪兩件事？",
+    "options": [
+      "A Scottish army was formed",
+      "It invaded England",
+      "The King resigned",
+      "Ireland invaded Scotland"
+    ],
+    "optionsZh": [
+      "蘇格蘭軍隊成立",
+      "它入侵了英格蘭",
+      "國王辭職",
+      "愛爾蘭入侵蘇格蘭"
+    ],
+    "correctAnswer": [0, 1],
+    "category": "History",
+    "explanation": "A Scottish army was formed and invaded England.",
+    "explanationZh": "一支蘇格蘭軍隊成立並入侵了英格蘭。"
+  },
+  {
+    "id": 1438,
+    "examId": 43,
+    "question": "Which TWO are correct about Mary Stuart?",
+    "questionZh": "關於瑪麗·斯圖亞特，哪兩項是正確的？",
+    "options": [
+      "She was Elizabeth I's sister",
+      "She was Queen of Scotland",
+      "She was Catholic",
+      "She was English"
+    ],
+    "optionsZh": [
+      "她是伊麗莎白一世的妹妹",
+      "她是蘇格蘭女王",
+      "她是天主教徒",
+      "她是英國人"
+    ],
+    "correctAnswer": [1, 2],
+    "category": "History",
+    "explanation": "She was Queen of Scotland and Catholic.",
+    "explanationZh": "她是蘇格蘭女王和天主教徒。"
+  },
+  {
+    "id": 1439,
+    "examId": 43,
+    "question": "The 39 steps was directed by David Lean in 1980.",
+    "questionZh": "《三十九級台階》由大衛·里恩於1980年執導。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "Arts",
+    "explanation": "It was directed by Alfred Hitchcock in 1935.",
+    "explanationZh": "它是由亞佛烈德·希區考克在1935年執導的。"
+  },
+  {
+    "id": 1440,
+    "examId": 43,
+    "question": "What celebration takes place on the 25th of December each year?",
+    "questionZh": "每年12月25日慶祝什麼節日？",
+    "options": [
+      "Father's Day",
+      "Christmas",
+      "Easter",
+      "Valentine's Day"
+    ],
+    "optionsZh": [
+      "父親節",
+      "聖誕節",
+      "復活節",
+      "情人節"
+    ],
+    "correctAnswer": 1,
+    "category": "Customs",
+    "explanation": "Christmas takes place on 25 December.",
+    "explanationZh": "聖誕節在12月25日舉行。"
   }
 ]

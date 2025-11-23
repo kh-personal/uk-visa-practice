@@ -26280,5 +26280,1561 @@
     "category": "History",
     "explanation": "This event became known as the Glorious Revolution.",
     "explanationZh": "這一事件被稱為光榮革命。"
+  },
+  {
+    "id": 1225,
+    "examId": 35,
+    "question": "What did the 'Bill of Rights' confirm?",
+    "questionZh": "「權利法案」確認了什麼？",
+    "options": [
+      "Parliament's increased power",
+      "The King's absolute power",
+      "The end of the monarchy",
+      "Voting rights for women"
+    ],
+    "optionsZh": [
+      "議會權力的增加",
+      "國王的絕對權力",
+      "君主制的終結",
+      "婦女的投票權"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The Bill of Rights (1689) confirmed the rights of Parliament and the limits of the King's power.",
+    "explanationZh": "1689年的《權利法案》確認了議會的權利和國王權力的限制。"
+  },
+  {
+    "id": 1226,
+    "examId": 35,
+    "question": "Where was Florence Nightingale born?",
+    "questionZh": "弗羅倫斯·南丁格爾出生在哪裡？",
+    "options": [
+      "England",
+      "Italy",
+      "France",
+      "Germany"
+    ],
+    "optionsZh": [
+      "英格蘭",
+      "義大利",
+      "法國",
+      "德國"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Florence Nightingale was born in Italy (in Florence) to English parents.",
+    "explanationZh": "弗羅倫斯·南丁格爾出生在義大利（佛羅倫斯），父母是英國人。"
+  },
+  {
+    "id": 1227,
+    "examId": 35,
+    "question": "Which of these gardens is located in Wales?",
+    "questionZh": "以下哪個花園位於威爾斯？",
+    "options": [
+      "Kew Gardens",
+      "Bodnant Garden",
+      "Mount Stewart",
+      "Sissinghurst"
+    ],
+    "optionsZh": [
+      "基尤花園",
+      "博德南特花園 (Bodnant Garden)",
+      "史都華山莊園",
+      "西辛赫斯特"
+    ],
+    "correctAnswer": 1,
+    "category": "Landmarks",
+    "explanation": "Bodnant Garden is located in Wales.",
+    "explanationZh": "博德南特花園位於威爾斯。"
+  },
+  {
+    "id": 1228,
+    "examId": 35,
+    "question": "Who is responsible for subjects such as education, health and defence?",
+    "questionZh": "誰負責教育、衛生和國防等事務？",
+    "options": [
+      "Secretaries of State",
+      "The Speaker",
+      "The Monarch",
+      "Police Commissioners"
+    ],
+    "optionsZh": [
+      "國務大臣 (Secretaries of State)",
+      "議長",
+      "君主",
+      "警察局長"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "Ministers called 'Secretaries of State' are responsible for subjects such as education, health and defence.",
+    "explanationZh": "被稱為「國務大臣」的部長負責教育、衛生和國防等事務。"
+  },
+  {
+    "id": 1229,
+    "examId": 35,
+    "question": "Who established the Church of England?",
+    "questionZh": "誰創立了英格蘭國教會？",
+    "options": [
+      "Henry VIII",
+      "Edward VI",
+      "The Pope",
+      "Queen Elizabeth I"
+    ],
+    "optionsZh": [
+      "亨利八世",
+      "愛德華六世",
+      "教皇",
+      "伊麗莎白一世女王"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Henry VIII established the Church of England.",
+    "explanationZh": "亨利八世創立了英格蘭國教會。"
+  },
+  {
+    "id": 1230,
+    "examId": 35,
+    "question": "What is an example of a Criminal Offence?",
+    "questionZh": "什麼是刑事犯罪的一個例子？",
+    "options": [
+      "Owing money",
+      "Selling tobacco to under 18s",
+      "Parking fine",
+      "Discrimination at work"
+    ],
+    "optionsZh": [
+      "欠錢",
+      "向18歲以下的人出售煙草",
+      "停車罰款",
+      "工作歧視"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "Selling tobacco to anyone under 18 is a criminal offence.",
+    "explanationZh": "向任何18歲以下的人出售煙草都是刑事犯罪。"
+  },
+  {
+    "id": 1231,
+    "examId": 35,
+    "question": "What UK landmark was voted as Britain's favourite view?",
+    "questionZh": "哪個英國地標被票選為英國最喜愛的景觀？",
+    "options": [
+      "The Lake District",
+      "Stonehenge",
+      "The White Cliffs of Dover",
+      "Loch Lomond"
+    ],
+    "optionsZh": [
+      "湖區 (The Lake District)",
+      "巨石陣",
+      "多佛白崖",
+      "羅蒙湖"
+    ],
+    "correctAnswer": 0,
+    "category": "Landmarks",
+    "explanation": "The Lake District was voted Britain's favourite view in 2007.",
+    "explanationZh": "湖區在2007年被票選為英國最喜愛的景觀。"
+  },
+  {
+    "id": 1232,
+    "examId": 35,
+    "question": "How many people lost their lives in the decades after 1969 due to violence in Northern Ireland?",
+    "questionZh": "1969年後的幾十年間，有多少人因北愛爾蘭的暴力事件喪生？",
+    "options": [
+      "Around 3,000",
+      "Around 60,000",
+      "Around 10,000",
+      "Around 500"
+    ],
+    "optionsZh": [
+      "約3,000人",
+      "約60,000人",
+      "約10,000人",
+      "約500人"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Around 3,000 people lost their lives during 'The Troubles'.",
+    "explanationZh": "在「動亂」期間，約有3,000人喪生。"
+  },
+  {
+    "id": 1233,
+    "examId": 35,
+    "question": "What do the National Insurance Contributions fund?",
+    "questionZh": "國民保險供款資助什麼？",
+    "options": [
+      "The Police",
+      "The NHS and State Pension",
+      "Road maintenance",
+      "Education"
+    ],
+    "optionsZh": [
+      "警察",
+      "國民醫療服務體系 (NHS) 和國家退休金",
+      "道路維護",
+      "教育"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "NICs fund the NHS and the state retirement pension.",
+    "explanationZh": "國民保險供款資助國民醫療服務體系和國家退休金。"
+  },
+  {
+    "id": 1234,
+    "examId": 35,
+    "question": "What method is used to elect UK MPs?",
+    "questionZh": "選舉英國下議院議員使用什麼方法？",
+    "options": [
+      "Proportional Representation",
+      "First Past the Post",
+      "Alternative Vote",
+      "Popularity Vote"
+    ],
+    "optionsZh": [
+      "比例代表制",
+      "簡單多數制 (First Past the Post)",
+      "選擇投票制",
+      "普選投票"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "MPs are elected using the 'First Past the Post' system.",
+    "explanationZh": "下議院議員是使用「簡單多數制」選舉產生的。"
+  },
+  {
+    "id": 1235,
+    "examId": 35,
+    "question": "Julius Caesar led a Roman invasion of Britain in 55 BC but this was unsuccessful. For how many years did Britain remain separate from the Roman Empire?",
+    "questionZh": "尤利烏斯·凱撒於西元前55年率領羅馬軍隊入侵不列顛，但未獲成功。不列顛在多少年內保持與羅馬帝國的分離？",
+    "options": [
+      "Nearly 100 years",
+      "400 years",
+      "500 years",
+      "10 years"
+    ],
+    "optionsZh": [
+      "近100年",
+      "400年",
+      "500年",
+      "10年"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Britain remained separate for nearly 100 years until the invasion by Claudius in AD 43.",
+    "explanationZh": "直到西元43年克勞狄入侵之前，不列顛保持分離近100年。"
+  },
+  {
+    "id": 1236,
+    "examId": 35,
+    "question": "Hanukkah is celebrated to remember the Jews' struggle for religious freedom and it is in November or December for how many days?",
+    "questionZh": "光明節是為了紀念猶太人爭取宗教自由的鬥爭，在11月或12月慶祝，為期多少天？",
+    "options": [
+      "5 days",
+      "7 days",
+      "8 days",
+      "10 days"
+    ],
+    "optionsZh": [
+      "5天",
+      "7天",
+      "8天",
+      "10天"
+    ],
+    "correctAnswer": 2,
+    "category": "Customs",
+    "explanation": "Hanukkah is celebrated for 8 days.",
+    "explanationZh": "光明節慶祝8天。"
+  },
+  {
+    "id": 1237,
+    "examId": 35,
+    "question": "The leader of the Opposition appoints senior opposition MPs to be what?",
+    "questionZh": "反對黨領袖任命高級反對黨議員擔任什麼？",
+    "options": [
+      "Ministers",
+      "Shadow Ministers",
+      "Home Secretary",
+      "The Speaker"
+    ],
+    "optionsZh": [
+      "部長",
+      "影子部長 (Shadow Ministers)",
+      "內政大臣",
+      "議長"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "They are appointed as 'Shadow Ministers' to form the Shadow Cabinet.",
+    "explanationZh": "他們被任命為「影子部長」以組成影子內閣。"
+  },
+  {
+    "id": 1238,
+    "examId": 35,
+    "question": "Which TWO of these countries are currently in the EU?",
+    "questionZh": "以下哪兩個國家目前在歐盟？",
+    "options": [
+      "UK",
+      "France",
+      "Germany",
+      "USA"
+    ],
+    "optionsZh": [
+      "英國",
+      "法國",
+      "德國",
+      "美國"
+    ],
+    "correctAnswer": [1, 2],
+    "category": "Government",
+    "explanation": "France and Germany are in the EU. The UK left in 2020.",
+    "explanationZh": "法國和德國在歐盟。英國於2020年脫歐。"
+  },
+  {
+    "id": 1239,
+    "examId": 35,
+    "question": "Christmas Day celebrates the birth of Jesus Christ.",
+    "questionZh": "聖誕節慶祝耶穌基督的誕生。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Customs",
+    "explanation": "Christmas Day (25 Dec) celebrates the birth of Jesus.",
+    "explanationZh": "聖誕節（12月25日）慶祝耶穌的誕生。"
+  },
+  {
+    "id": 1240,
+    "examId": 35,
+    "question": "What is the second biggest country in the UK?",
+    "questionZh": "英國第二大的國家是什麼？",
+    "options": [
+      "England",
+      "Scotland",
+      "Wales",
+      "Northern Ireland"
+    ],
+    "optionsZh": [
+      "英格蘭",
+      "蘇格蘭",
+      "威爾斯",
+      "北愛爾蘭"
+    ],
+    "correctAnswer": 1,
+    "category": "Geography",
+    "explanation": "Scotland is the second largest country in the UK after England.",
+    "explanationZh": "蘇格蘭是繼英格蘭之後英國第二大的國家。"
+  },
+  {
+    "id": 1241,
+    "examId": 35,
+    "question": "The EU was set up by 6 western countries who signed the Treaty of Rome on which date?",
+    "questionZh": "歐盟由6個西方國家建立，他們在哪一天簽署了《羅馬條約》？",
+    "options": [
+      "25 March 1957",
+      "1 January 1973",
+      "15 June 1215",
+      "11 November 1918"
+    ],
+    "optionsZh": [
+      "1957年3月25日",
+      "1973年1月1日",
+      "1215年6月15日",
+      "1918年11月11日"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The Treaty of Rome was signed on 25 March 1957.",
+    "explanationZh": "《羅馬條約》於1957年3月25日簽署。"
+  },
+  {
+    "id": 1242,
+    "examId": 35,
+    "question": "When Queen Anne died, a German, George of Hanover, became the next King of England.",
+    "questionZh": "安妮女王去世後，德國人漢諾威的喬治成為了下一任英格蘭國王。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "George I, a German, became King.",
+    "explanationZh": "德國人喬治一世成為國王。"
+  },
+  {
+    "id": 1243,
+    "examId": 35,
+    "question": "Which of these lines from Shakespeare's plays is often still quoted?",
+    "questionZh": "莎士比亞戲劇中的哪句台詞至今仍常被引用？",
+    "options": [
+      "All the world's a stage",
+      "The sun never sets",
+      "A rose is beautiful",
+      "God save the King"
+    ],
+    "optionsZh": [
+      "全世界是一個舞台 (All the world's a stage)",
+      "日不落",
+      "玫瑰是美麗的",
+      "天佑吾王"
+    ],
+    "correctAnswer": 0,
+    "category": "Arts",
+    "explanation": "'All the world's a stage' is a famous line from 'As You Like It'.",
+    "explanationZh": "「全世界是一個舞台」是《皆大歡喜》中的名句。"
+  },
+  {
+    "id": 1244,
+    "examId": 35,
+    "question": "People who are self-employed need to pay National Insurance Contributions themselves.",
+    "questionZh": "自僱人士需要自己繳納國民保險供款。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Law",
+    "explanation": "Self-employed people must pay their own National Insurance.",
+    "explanationZh": "自僱人士必須繳納自己的國民保險。"
+  },
+  {
+    "id": 1245,
+    "examId": 35,
+    "question": "The Swinging Sixties was a period of new ideas about politics, philosophy and science.",
+    "questionZh": "「搖擺的六十年代」是政治、哲學和科學新思想的時期。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Wait, the Enlightenment (18th C) was about politics/philosophy/science. The 60s was about social change/fashion/music. The prompt implies 60s is correct? Actually, the 60s was social change. Enlightenment is the 18th century. Let's check the specific Britizen question. It likely refers to 'Social Change' for 60s. If the question says 'politics/philosophy/science', it's describing the Enlightenment. Let's check if the question is True/False. If the statement links 60s to those specific things, it might be False (it should be Enlightenment). *Correction:* The Enlightenment was the 18th century. The Sixties was social laws. I will mark this as False if the description matches the Enlightenment, or check the context. Actually, the snippet says 'True'. Let me re-read. 'The Swinging Sixties was a period of new ideas about politics, philosophy and science.' This sounds like the definition of the Enlightenment. The Sixties was about fashion, music, social laws. I will mark as False based on standard handbook facts.",
+    "explanationZh": "錯。「搖擺的六十年代」是關於社會變革、時尚和音樂的。政治、哲學和科學的新思想是指18世紀的啟蒙運動。"
+  },
+  {
+    "id": 1246,
+    "examId": 35,
+    "question": "In year 1066, William the Conqueror invaded England in which battle?",
+    "questionZh": "1066年，征服者威廉在哪場戰役中入侵了英格蘭？",
+    "options": [
+      "Battle of Hastings",
+      "Battle of Britain",
+      "Battle of Waterloo",
+      "Battle of Agincourt"
+    ],
+    "optionsZh": [
+      "黑斯廷斯戰役",
+      "不列顛戰役",
+      "滑鐵盧戰役",
+      "阿金庫爾戰役"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "William invaded England and fought the Battle of Hastings in 1066.",
+    "explanationZh": "威廉入侵英格蘭並在1066年打了黑斯廷斯戰役。"
+  },
+  {
+    "id": 1247,
+    "examId": 35,
+    "question": "Who is the patron saint of Northern Ireland?",
+    "questionZh": "北愛爾蘭的守護聖人是誰？",
+    "options": [
+      "St George",
+      "St Andrew",
+      "St Patrick",
+      "St David"
+    ],
+    "optionsZh": [
+      "聖喬治",
+      "聖安德魯",
+      "聖派屈克",
+      "聖大衛"
+    ],
+    "correctAnswer": 2,
+    "category": "Customs",
+    "explanation": "St Patrick is the patron saint of Northern Ireland.",
+    "explanationZh": "聖派屈克是北愛爾蘭的守護聖人。"
+  },
+  {
+    "id": 1248,
+    "examId": 35,
+    "question": "What is the name of the UK's currency?",
+    "questionZh": "英國貨幣的名稱是什麼？",
+    "options": [
+      "Euro",
+      "Dollar",
+      "Pound Sterling",
+      "Yen"
+    ],
+    "optionsZh": [
+      "歐元",
+      "美元",
+      "英鎊",
+      "日元"
+    ],
+    "correctAnswer": 2,
+    "category": "Society",
+    "explanation": "The currency is the Pound Sterling.",
+    "explanationZh": "貨幣是英鎊。"
+  },
+  {
+    "id": 1249,
+    "examId": 36,
+    "question": "What is the Church of England known as in Scotland and the US?",
+    "questionZh": "英格蘭國教會在蘇格蘭和美國被稱為什麼？",
+    "options": [
+      "The Protestant Church",
+      "The Episcopal Church",
+      "The Catholic Church",
+      "The Methodist Church"
+    ],
+    "optionsZh": [
+      "新教會",
+      "聖公會 (The Episcopal Church)",
+      "天主教會",
+      "衛理公會"
+    ],
+    "correctAnswer": 1,
+    "category": "Customs",
+    "explanation": "It is known as the Episcopal Church.",
+    "explanationZh": "它被稱為聖公會 (The Episcopal Church)。"
+  },
+  {
+    "id": 1250,
+    "examId": 36,
+    "question": "Which countries are in Great Britain?",
+    "questionZh": "大不列顛包括哪些國家？",
+    "options": [
+      "England, Wales and Northern Ireland",
+      "England, Scotland and Wales",
+      "Scotland, Wales and Northern Ireland",
+      "England and Scotland only"
+    ],
+    "optionsZh": [
+      "英格蘭、威爾斯和北愛爾蘭",
+      "英格蘭、蘇格蘭和威爾斯",
+      "蘇格蘭、威爾斯和北愛爾蘭",
+      "僅英格蘭和蘇格蘭"
+    ],
+    "correctAnswer": 1,
+    "category": "Geography",
+    "explanation": "Great Britain includes England, Scotland, and Wales.",
+    "explanationZh": "大不列顛包括英格蘭、蘇格蘭和威爾斯。"
+  },
+  {
+    "id": 1251,
+    "examId": 36,
+    "question": "What language did the Iron Age people speak?",
+    "questionZh": "鐵器時代的人說什麼語言？",
+    "options": [
+      "English",
+      "Celtic",
+      "French",
+      "Latin"
+    ],
+    "optionsZh": [
+      "英語",
+      "凱爾特語 (Celtic)",
+      "法語",
+      "拉丁語"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Iron Age people spoke Celtic languages.",
+    "explanationZh": "鐵器時代的人說凱爾特語。"
+  },
+  {
+    "id": 1252,
+    "examId": 36,
+    "question": "When did the UK join the EEC?",
+    "questionZh": "英國何時加入歐洲經濟共同體 (EEC)？",
+    "options": [
+      "1968",
+      "1973",
+      "1957",
+      "1990"
+    ],
+    "optionsZh": [
+      "1968年",
+      "1973年",
+      "1957年",
+      "1990年"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The UK joined the EEC in 1973.",
+    "explanationZh": "英國於1973年加入歐洲經濟共同體。"
+  },
+  {
+    "id": 1253,
+    "examId": 36,
+    "question": "Who is able to change the Prime Minister during his/her term?",
+    "questionZh": "誰可以在首相任期內更換首相？",
+    "options": [
+      "The Monarch",
+      "The Governing Party",
+      "The Opposition",
+      "The Public"
+    ],
+    "optionsZh": [
+      "君主",
+      "執政黨",
+      "反對黨",
+      "公眾"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "The MPs in the governing party can decide to change the Prime Minister.",
+    "explanationZh": "執政黨的議員可以決定更換首相。"
+  },
+  {
+    "id": 1254,
+    "examId": 36,
+    "question": "What can schools do to raise money?",
+    "questionZh": "學校可以做什麼來籌集資金？",
+    "options": [
+      "Organise fetes and events",
+      "Ask parents for taxes",
+      "Sell school property",
+      "Charge for entry"
+    ],
+    "optionsZh": [
+      "組織遊園會和活動",
+      "向家長徵稅",
+      "出售學校財產",
+      "收取入場費"
+    ],
+    "correctAnswer": 0,
+    "category": "Society",
+    "explanation": "Schools often organise events like fetes to raise extra money.",
+    "explanationZh": "學校經常組織遊園會等活動來籌集額外資金。"
+  },
+  {
+    "id": 1255,
+    "examId": 36,
+    "question": "Which of Henry VIII's wives were executed?",
+    "questionZh": "亨利八世的哪些妻子被處決了？",
+    "options": [
+      "Catherine of Aragon and Jane Seymour",
+      "Anne Boleyn and Catherine Howard",
+      "Anne of Cleves and Catherine Parr",
+      "Jane Seymour and Anne Boleyn"
+    ],
+    "optionsZh": [
+      "阿拉貢的凱薩琳和珍·西摩",
+      "安妮·博林和凱薩琳·霍華德",
+      "克萊沃的安妮和凱薩琳·帕爾",
+      "珍·西摩和安妮·博林"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Anne Boleyn and Catherine Howard were executed.",
+    "explanationZh": "安妮·博林和凱薩琳·霍華德被處決。"
+  },
+  {
+    "id": 1256,
+    "examId": 36,
+    "question": "Who led a team to clone a mammal for the first time?",
+    "questionZh": "誰領導了一個團隊首次複製了哺乳動物？",
+    "options": [
+      "Patrick Steptoe",
+      "Ian Wilmut and Keith Campbell",
+      "Robert Edwards",
+      "Tim Berners-Lee"
+    ],
+    "optionsZh": [
+      "派屈克·斯特普托",
+      "伊恩·威爾穆特和基思·坎貝爾",
+      "羅伯特·愛德華茲",
+      "提姆·柏內茲-李"
+    ],
+    "correctAnswer": 1,
+    "category": "Science",
+    "explanation": "Ian Wilmut and Keith Campbell cloned Dolly the sheep.",
+    "explanationZh": "伊恩·威爾穆特和基思·坎貝爾複製了桃莉羊。"
+  },
+  {
+    "id": 1257,
+    "examId": 36,
+    "question": "What tells us about how people lived just after the Norman Conquest?",
+    "questionZh": "什麼告訴了我們諾曼征服後人們的生活狀況？",
+    "options": [
+      "The Domesday Book",
+      "The Magna Carta",
+      "The Bible",
+      "The Bayeux Tapestry"
+    ],
+    "optionsZh": [
+      "末日審判書 (The Domesday Book)",
+      "大憲章",
+      "聖經",
+      "貝葉掛毯"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The Domesday Book provides a record of life in England after 1066.",
+    "explanationZh": "《末日審判書》記錄了1066年後英格蘭的生活。"
+  },
+  {
+    "id": 1258,
+    "examId": 36,
+    "question": "Where was William Shakespeare born?",
+    "questionZh": "威廉·莎士比亞出生在哪裡？",
+    "options": [
+      "London",
+      "Stratford-upon-Avon",
+      "Manchester",
+      "Edinburgh"
+    ],
+    "optionsZh": [
+      "倫敦",
+      "埃文河畔史特拉福",
+      "曼徹斯特",
+      "愛丁堡"
+    ],
+    "correctAnswer": 1,
+    "category": "Arts",
+    "explanation": "Shakespeare was born in Stratford-upon-Avon.",
+    "explanationZh": "莎士比亞出生在埃文河畔史特拉福。"
+  },
+  {
+    "id": 1259,
+    "examId": 36,
+    "question": "What tools did the Bronze age people introduce?",
+    "questionZh": "青銅時代的人引進了什麼工具？",
+    "options": [
+      "Stone tools",
+      "Bronze tools",
+      "Iron tools",
+      "Gold currency"
+    ],
+    "optionsZh": [
+      "石器",
+      "青銅工具",
+      "鐵器",
+      "黃金貨幣"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "They introduced bronze tools and weapons.",
+    "explanationZh": "他們引進了青銅工具和武器。"
+  },
+  {
+    "id": 1260,
+    "examId": 36,
+    "question": "How many colonies were granted independence in 1947?",
+    "questionZh": "1947年有多少個殖民地獲得獨立？",
+    "options": [
+      "11",
+      "9",
+      "5",
+      "3"
+    ],
+    "optionsZh": [
+      "11個",
+      "9個",
+      "5個",
+      "3個"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "In 1947, independence was granted to 9 countries, including India and Pakistan.",
+    "explanationZh": "1947年，包括印度和巴基斯坦在內的9個國家獲得了獨立。"
+  },
+  {
+    "id": 1261,
+    "examId": 36,
+    "question": "The Battle of Hastings is commemorated in a piece of embroidery known as the Bayeux Tapestry.",
+    "questionZh": "黑斯廷斯戰役是在一件名為貝葉掛毯的刺繡作品中紀念的。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The statement is true.",
+    "explanationZh": "此陳述是正確的。"
+  },
+  {
+    "id": 1262,
+    "examId": 36,
+    "question": "What are TWO responsibilities of members of Parliament (MPs)?",
+    "questionZh": "國會議員 (MPs) 的兩項職責是什麼？",
+    "options": [
+      "Represent everyone in their constituency",
+      "Help create new laws",
+      "Represent only those who voted for them",
+      "Run the local police"
+    ],
+    "optionsZh": [
+      "代表選區的所有人",
+      "幫助制定新法律",
+      "僅代表投票給他們的人",
+      "管理當地警察"
+    ],
+    "correctAnswer": [0, 1],
+    "category": "Government",
+    "explanation": "MPs represent everyone in their constituency and help make laws.",
+    "explanationZh": "國會議員代表選區的所有人，並幫助制定法律。"
+  },
+  {
+    "id": 1263,
+    "examId": 36,
+    "question": "Where was Anne Boleyn executed?",
+    "questionZh": "安妮·博林在哪裡被處決？",
+    "options": [
+      "Maiden Castle",
+      "The Tower of London",
+      "Windsor Castle",
+      "Hampton Court"
+    ],
+    "optionsZh": [
+      "少女城堡",
+      "倫敦塔",
+      "溫莎城堡",
+      "漢普頓宮"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Anne Boleyn was executed at the Tower of London.",
+    "explanationZh": "安妮·博林在倫敦塔被處決。"
+  },
+  {
+    "id": 1264,
+    "examId": 36,
+    "question": "What is the percentage of Sikh living in the UK?",
+    "questionZh": "居住在英國的錫克教徒百分比是多少？",
+    "options": [
+      "5%",
+      "Less than 1%",
+      "10%",
+      "2%"
+    ],
+    "optionsZh": [
+      "5%",
+      "少於1%",
+      "10%",
+      "2%"
+    ],
+    "correctAnswer": 1,
+    "category": "Society",
+    "explanation": "Sikhs make up less than 1% of the population.",
+    "explanationZh": "錫克教徒佔人口的不到1%。"
+  },
+  {
+    "id": 1265,
+    "examId": 36,
+    "question": "Where can you find Crown Jewels?",
+    "questionZh": "哪裡可以找到皇室珠寶？",
+    "options": [
+      "The Tower of London",
+      "Buckingham Palace",
+      "The British Museum",
+      "Edinburgh Castle"
+    ],
+    "optionsZh": [
+      "倫敦塔",
+      "白金漢宮",
+      "大英博物館",
+      "愛丁堡城堡"
+    ],
+    "correctAnswer": 0,
+    "category": "Landmarks",
+    "explanation": "The Crown Jewels are in the Tower of London.",
+    "explanationZh": "皇室珠寶在倫敦塔。"
+  },
+  {
+    "id": 1266,
+    "examId": 36,
+    "question": "How is the Queen Elizabeth II's husband, Prince Philip, often called?",
+    "questionZh": "伊麗莎白二世女王的丈夫菲利普親王通常被稱為什麼？",
+    "options": [
+      "The Duke of Belfast",
+      "The Duke of Edinburgh",
+      "The Prince of Wales",
+      "The King"
+    ],
+    "optionsZh": [
+      "貝爾法斯特公爵",
+      "愛丁堡公爵",
+      "威爾斯親王",
+      "國王"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "He was the Duke of Edinburgh.",
+    "explanationZh": "他是愛丁堡公爵。"
+  },
+  {
+    "id": 1267,
+    "examId": 36,
+    "question": "What name is given to the official flag that represents the union between England, Scotland, Wales and Northern Ireland?",
+    "questionZh": "代表英格蘭、蘇格蘭、威爾斯和北愛爾蘭聯合的官方旗幟叫什麼名字？",
+    "options": [
+      "Union Queen",
+      "Union Jack / Union Flag",
+      "Royal Standard",
+      "Great Flag"
+    ],
+    "optionsZh": [
+      "聯合女王",
+      "聯合傑克 / 聯合旗",
+      "皇家旗",
+      "大旗"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "It is called the Union Flag or Union Jack.",
+    "explanationZh": "它被稱為聯合旗或聯合傑克。"
+  },
+  {
+    "id": 1268,
+    "examId": 36,
+    "question": "Which TWO describe the Wimbledon Championships?",
+    "questionZh": "哪兩項描述了溫布頓網球錦標賽？",
+    "options": [
+      "Only 'Grand Slam' event played on grass",
+      "Held in May",
+      "Oldest tennis tournament in the world",
+      "Played on clay"
+    ],
+    "optionsZh": [
+      "唯一在草地上進行的「大滿貫」賽事",
+      "在五月舉行",
+      "世界上最古老的網球錦標賽",
+      "在紅土上進行"
+    ],
+    "correctAnswer": [0, 2],
+    "category": "Sports",
+    "explanation": "Wimbledon is the oldest tennis tournament and the only Grand Slam on grass.",
+    "explanationZh": "溫布頓是最古老的網球錦標賽，也是唯一在草地上進行的大滿貫賽事。"
+  },
+  {
+    "id": 1269,
+    "examId": 36,
+    "question": "What is a good way to support your local community?",
+    "questionZh": "支持當地社區的好方法是什麼？",
+    "options": [
+      "Donating to boost the economy",
+      "Volunteering for a local charity",
+      "Staying at home",
+      "Watching TV"
+    ],
+    "optionsZh": [
+      "捐款以促進經濟",
+      "為當地慈善機構做志願者",
+      "待在家裡",
+      "看電視"
+    ],
+    "correctAnswer": 1,
+    "category": "Society",
+    "explanation": "Volunteering is a great way to support the community.",
+    "explanationZh": "志願服務是支持社區的好方法。"
+  },
+  {
+    "id": 1270,
+    "examId": 36,
+    "question": "What is the geographic position of the UK in Europe?",
+    "questionZh": "英國在歐洲的地理位置是什麼？",
+    "options": [
+      "East",
+      "North West",
+      "South East",
+      "Central"
+    ],
+    "optionsZh": [
+      "東部",
+      "西北部",
+      "東南部",
+      "中部"
+    ],
+    "correctAnswer": 1,
+    "category": "Geography",
+    "explanation": "The UK is in the North West of Europe.",
+    "explanationZh": "英國位於歐洲的西北部。"
+  },
+  {
+    "id": 1271,
+    "examId": 36,
+    "question": "What is the official report that contains everything said in Parliament called?",
+    "questionZh": "包含議會中所有發言的正式報告叫什麼？",
+    "options": [
+      "The Domesday Book",
+      "Hansard",
+      "The Magna Carta",
+      "The Daily Record"
+    ],
+    "optionsZh": [
+      "末日審判書",
+      "漢薩德 (Hansard)",
+      "大憲章",
+      "每日記錄"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "Hansard records everything said in Parliament.",
+    "explanationZh": "漢薩德記錄了議會中的所有發言。"
+  },
+  {
+    "id": 1272,
+    "examId": 36,
+    "question": "When is St Patrick's day?",
+    "questionZh": "聖派屈克節是哪一天？",
+    "options": [
+      "30th of November",
+      "17th of March",
+      "1st of March",
+      "23rd of April"
+    ],
+    "optionsZh": [
+      "11月30日",
+      "3月17日",
+      "3月1日",
+      "4月23日"
+    ],
+    "correctAnswer": 1,
+    "category": "Customs",
+    "explanation": "St Patrick's Day is on 17th March.",
+    "explanationZh": "聖派屈克節是在3月17日。"
+  },
+  {
+    "id": 1273,
+    "examId": 37,
+    "question": "Which charity works to preserve important buildings?",
+    "questionZh": "哪個慈善機構致力於保護重要建築？",
+    "options": [
+      "Age UK",
+      "The National Trust",
+      "NSPCC",
+      "Shelter"
+    ],
+    "optionsZh": [
+      "英國安老協會 (Age UK)",
+      "國民信託 (The National Trust)",
+      "NSPCC",
+      "庇護所"
+    ],
+    "correctAnswer": 1,
+    "category": "Society",
+    "explanation": "The National Trust preserves buildings and countryside.",
+    "explanationZh": "國民信託保護建築和鄉村。"
+  },
+  {
+    "id": 1274,
+    "examId": 37,
+    "question": "What is the capital of England?",
+    "questionZh": "英格蘭的首都是哪裡？",
+    "options": [
+      "London",
+      "Manchester",
+      "Birmingham",
+      "Leeds"
+    ],
+    "optionsZh": [
+      "倫敦",
+      "曼徹斯特",
+      "伯明罕",
+      "里茲"
+    ],
+    "correctAnswer": 0,
+    "category": "Geography",
+    "explanation": "London is the capital of England.",
+    "explanationZh": "倫敦是英格蘭的首都。"
+  },
+  {
+    "id": 1275,
+    "examId": 37,
+    "question": "Who became Prime Minister during WWII?",
+    "questionZh": "誰在二戰期間成為首相？",
+    "options": [
+      "Winston Churchill",
+      "Neville Chamberlain",
+      "Clement Attlee",
+      "Margaret Thatcher"
+    ],
+    "optionsZh": [
+      "溫斯頓·邱吉爾",
+      "內維爾·張伯倫",
+      "克萊曼·艾德禮",
+      "瑪格麗特·柴契爾"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Winston Churchill became Prime Minister in 1940.",
+    "explanationZh": "溫斯頓·邱吉爾於1940年成為首相。"
+  },
+  {
+    "id": 1276,
+    "examId": 37,
+    "question": "When is Boxing Day?",
+    "questionZh": "節禮日是哪一天？",
+    "options": [
+      "The day after Christmas Day",
+      "New Year's Eve",
+      "Easter Monday",
+      "Halloween"
+    ],
+    "optionsZh": [
+      "聖誕節後的一天",
+      "除夕",
+      "復活節星期一",
+      "萬聖節"
+    ],
+    "correctAnswer": 0,
+    "category": "Customs",
+    "explanation": "Boxing Day is 26th December, the day after Christmas.",
+    "explanationZh": "節禮日是12月26日，聖誕節後的一天。"
+  },
+  {
+    "id": 1277,
+    "examId": 37,
+    "question": "What is the capital of Wales?",
+    "questionZh": "威爾斯的首都是哪裡？",
+    "options": [
+      "Cardiff",
+      "Swansea",
+      "Bangor",
+      "Newport"
+    ],
+    "optionsZh": [
+      "卡地夫",
+      "斯旺西",
+      "班戈",
+      "紐波特"
+    ],
+    "correctAnswer": 0,
+    "category": "Geography",
+    "explanation": "Cardiff is the capital of Wales.",
+    "explanationZh": "卡地夫是威爾斯的首府。"
+  },
+  {
+    "id": 1278,
+    "examId": 37,
+    "question": "Where are the most serious civil cases heard in England and Wales?",
+    "questionZh": "在英格蘭和威爾斯，最嚴重的民事案件在哪裡審理？",
+    "options": [
+      "Sheriff Court",
+      "High Court",
+      "Crown Court",
+      "Magistrates Court"
+    ],
+    "optionsZh": [
+      "郡法院",
+      "高等法院 (High Court)",
+      "王室法院",
+      "地方法院"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "Serious civil cases are heard in the High Court.",
+    "explanationZh": "嚴重的民事案件在高等法院審理。"
+  },
+  {
+    "id": 1279,
+    "examId": 37,
+    "question": "Where is the Millennium Stadium located?",
+    "questionZh": "千禧球場位於哪裡？",
+    "options": [
+      "Edinburgh",
+      "Cardiff",
+      "London",
+      "Belfast"
+    ],
+    "optionsZh": [
+      "愛丁堡",
+      "卡地夫",
+      "倫敦",
+      "貝爾法斯特"
+    ],
+    "correctAnswer": 1,
+    "category": "Sports",
+    "explanation": "The Millennium Stadium (Principality Stadium) is in Cardiff.",
+    "explanationZh": "千禧球場（公國球場）位於卡地夫。"
+  },
+  {
+    "id": 1280,
+    "examId": 37,
+    "question": "What event is known as the evacuation of 300,000 people from the beaches?",
+    "questionZh": "哪個事件被稱為從海灘撤離30萬人？",
+    "options": [
+      "The Battle of Britain",
+      "Dunkirk",
+      "D-Day",
+      "The Blitz"
+    ],
+    "optionsZh": [
+      "不列顛戰役",
+      "敦克爾克 (Dunkirk)",
+      "D-Day",
+      "閃電戰"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The evacuation of Dunkirk saved 300,000 troops.",
+    "explanationZh": "敦克爾克大撤離拯救了30萬軍隊。"
+  },
+  {
+    "id": 1281,
+    "examId": 37,
+    "question": "Which river banks the London eye?",
+    "questionZh": "倫敦眼位於哪條河畔？",
+    "options": [
+      "Trent",
+      "Thames",
+      "Severn",
+      "Tyne"
+    ],
+    "optionsZh": [
+      "特倫特河",
+      "泰晤士河",
+      "塞文河",
+      "泰恩河"
+    ],
+    "correctAnswer": 1,
+    "category": "Landmarks",
+    "explanation": "The London Eye is on the River Thames.",
+    "explanationZh": "倫敦眼位於泰晤士河畔。"
+  },
+  {
+    "id": 1282,
+    "examId": 37,
+    "question": "How many years did Charles I try to rule without Parliament?",
+    "questionZh": "查理一世試圖在沒有議會的情況下統治多少年？",
+    "options": [
+      "20",
+      "11",
+      "5",
+      "15"
+    ],
+    "optionsZh": [
+      "20年",
+      "11年",
+      "5年",
+      "15年"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Charles I ruled without Parliament for 11 years.",
+    "explanationZh": "查理一世在沒有議會的情況下統治了11年。"
+  },
+  {
+    "id": 1283,
+    "examId": 37,
+    "question": "When did the first Christian communities begin to appear in Britain?",
+    "questionZh": "第一批基督教社區何時開始在英國出現？",
+    "options": [
+      "4th and 5th centuries",
+      "3rd and 4th centuries",
+      "1st and 2nd centuries",
+      "6th and 7th centuries"
+    ],
+    "optionsZh": [
+      "4世紀和5世紀",
+      "3世紀和4世紀",
+      "1世紀和2世紀",
+      "6世紀和7世紀"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "They appeared in the 3rd and 4th centuries.",
+    "explanationZh": "他們出現在3世紀和4世紀。"
+  },
+  {
+    "id": 1284,
+    "examId": 37,
+    "question": "Where are the most serious criminal cases in Scotland heard at?",
+    "questionZh": "在蘇格蘭，最嚴重的刑事案件在哪裡審理？",
+    "options": [
+      "Sheriff Court",
+      "High Court of Justiciary",
+      "Crown Court",
+      "District Court"
+    ],
+    "optionsZh": [
+      "郡法院",
+      "高等法院 (High Court of Justiciary)",
+      "王室法院",
+      "地方法院"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "Serious cases are heard in the High Court of Justiciary.",
+    "explanationZh": "嚴重案件在高等法院審理。"
+  },
+  {
+    "id": 1285,
+    "examId": 37,
+    "question": "Clans lost a lot of their power and influence after which event?",
+    "questionZh": "在什麼事件之後，氏族失去了很多權力和影響力？",
+    "options": [
+      "The Battle of Agincourt",
+      "The Battle of Culloden",
+      "The Battle of Hastings",
+      "The Battle of Bannockburn"
+    ],
+    "optionsZh": [
+      "阿金庫爾戰役",
+      "庫洛登戰役 (Battle of Culloden)",
+      "黑斯廷斯戰役",
+      "班諾克本戰役"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Battle of Culloden (1746) destroyed the power of the clans.",
+    "explanationZh": "庫洛登戰役（1746年）摧毀了氏族的權力。"
+  },
+  {
+    "id": 1286,
+    "examId": 37,
+    "question": "Where in Scotland is known as the home of golf?",
+    "questionZh": "蘇格蘭的哪個地方被稱為高爾夫之鄉？",
+    "options": [
+      "Inverness",
+      "St Andrews",
+      "Glasgow",
+      "Aberdeen"
+    ],
+    "optionsZh": [
+      "因弗內斯",
+      "聖安德魯斯",
+      "格拉斯哥",
+      "亞伯丁"
+    ],
+    "correctAnswer": 1,
+    "category": "Sports",
+    "explanation": "St Andrews is the home of golf.",
+    "explanationZh": "聖安德魯斯是高爾夫之鄉。"
+  },
+  {
+    "id": 1287,
+    "examId": 37,
+    "question": "Which of the following was written by Lord Byron?",
+    "questionZh": "以下哪部作品是拜倫勳爵寫的？",
+    "options": [
+      "Anthem for Doomed Youth",
+      "She Walks in Beauty",
+      "Daffodils",
+      "Hamlet"
+    ],
+    "optionsZh": [
+      "註定毀滅的青春頌",
+      "她走在美麗的光彩中 (She Walks in Beauty)",
+      "水仙花",
+      "哈姆雷特"
+    ],
+    "correctAnswer": 1,
+    "category": "Arts",
+    "explanation": "'She Walks in Beauty' was written by Lord Byron.",
+    "explanationZh": "《她走在美麗的光彩中》是拜倫勳爵寫的。"
+  },
+  {
+    "id": 1288,
+    "examId": 37,
+    "question": "Who gets appointed by local authorities to be the ceremonial leader of the council?",
+    "questionZh": "誰被地方當局任命為議會的禮儀領袖？",
+    "options": [
+      "Teamleader",
+      "Mayor",
+      "Governor",
+      "Sheriff"
+    ],
+    "optionsZh": [
+      "組長",
+      "市長 (Mayor)",
+      "州長",
+      "警長"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "The ceremonial leader is the Mayor (or Provost in Scotland).",
+    "explanationZh": "禮儀領袖是市長（蘇格蘭為教務長）。"
+  },
+  {
+    "id": 1289,
+    "examId": 37,
+    "question": "Which country (or colony) did NOT gain its independence from the British Empire in 1947?",
+    "questionZh": "哪個國家（或殖民地）在1947年沒有從大英帝國獲得獨立？",
+    "options": [
+      "India",
+      "Pakistan",
+      "Ceylon (Sri Lanka)",
+      "Sudan"
+    ],
+    "optionsZh": [
+      "印度",
+      "巴基斯坦",
+      "錫蘭（斯里蘭卡）",
+      "蘇丹"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "India, Pakistan and Ceylon became independent in 1947/48. Sudan became independent later.",
+    "explanationZh": "印度、巴基斯坦和錫蘭於1947/48年獨立。蘇丹後來獨立。"
+  },
+  {
+    "id": 1290,
+    "examId": 37,
+    "question": "What language did the peasants speak after the Norman conquest?",
+    "questionZh": "諾曼征服後，農民說什麼語言？",
+    "options": [
+      "Gaelic",
+      "Anglo-Saxon (English)",
+      "French",
+      "Latin"
+    ],
+    "optionsZh": [
+      "蓋爾語",
+      "盎格魯-撒克遜語（英語）",
+      "法語",
+      "拉丁語"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The peasants continued to speak Anglo-Saxon (English).",
+    "explanationZh": "農民繼續說盎格魯-撒克遜語（英語）。"
+  },
+  {
+    "id": 1291,
+    "examId": 37,
+    "question": "EastEnders and Coronation Street are popular soap operas.",
+    "questionZh": "《東區人》和《加冕街》是受歡迎的肥皂劇。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Culture",
+    "explanation": "The statement is true.",
+    "explanationZh": "此陳述是正確的。"
+  },
+  {
+    "id": 1292,
+    "examId": 37,
+    "question": "Which TWO are used in making an Ulster fry?",
+    "questionZh": "製作阿爾斯特煎 (Ulster fry) 使用哪兩種材料？",
+    "options": [
+      "Sausage",
+      "Soda bread",
+      "Rice",
+      "Pasta"
+    ],
+    "optionsZh": [
+      "香腸",
+      "蘇打麵包",
+      "米飯",
+      "義大利麵"
+    ],
+    "correctAnswer": [0, 1],
+    "category": "Customs",
+    "explanation": "An Ulster fry typically includes sausage and soda bread.",
+    "explanationZh": "阿爾斯特煎通常包括香腸和蘇打麵包。"
+  },
+  {
+    "id": 1293,
+    "examId": 37,
+    "question": "In 1998, what was the estimated population of the UK?",
+    "questionZh": "1998年，英國的估計人口是多少？",
+    "options": [
+      "57 million",
+      "60 million",
+      "50 million",
+      "65 million"
+    ],
+    "optionsZh": [
+      "5700萬",
+      "6000萬",
+      "5000萬",
+      "6500萬"
+    ],
+    "correctAnswer": 0,
+    "category": "Society",
+    "explanation": "The population was 57 million in 1998.",
+    "explanationZh": "1998年人口為5700萬。"
+  },
+  {
+    "id": 1294,
+    "examId": 37,
+    "question": "Mary Stuart, often now called Mary Queen of Scots was a Protestant.",
+    "questionZh": "瑪麗·斯圖亞特，現在通常被稱為蘇格蘭女王瑪麗，是新教徒。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Mary Queen of Scots was a Catholic.",
+    "explanationZh": "蘇格蘭女王瑪麗是天主教徒。"
+  },
+  {
+    "id": 1295,
+    "examId": 37,
+    "question": "Which TWO are some of the key roles of Governors and school boards?",
+    "questionZh": "學校董事和學校委員會的兩個關鍵角色是什麼？",
+    "options": [
+      "Monitoring expenses",
+      "Setting strategic direction",
+      "Teaching students",
+      "Cleaning classrooms"
+    ],
+    "optionsZh": [
+      "監控開支",
+      "設定戰略方向",
+      "教導學生",
+      "清潔教室"
+    ],
+    "correctAnswer": [0, 1],
+    "category": "Society",
+    "explanation": "They monitor performance/finances and set strategic direction.",
+    "explanationZh": "他們監控績效/財務並設定戰略方向。"
+  },
+  {
+    "id": 1296,
+    "examId": 37,
+    "question": "Which of the following flowers represents England?",
+    "questionZh": "以下哪種花代表英格蘭？",
+    "options": [
+      "Rose",
+      "Thistle",
+      "Daffodil",
+      "Shamrock"
+    ],
+    "optionsZh": [
+      "玫瑰",
+      "薊花",
+      "水仙花",
+      "三葉草"
+    ],
+    "correctAnswer": 0,
+    "category": "Customs",
+    "explanation": "The Rose represents England.",
+    "explanationZh": "玫瑰代表英格蘭。"
   }
 ]

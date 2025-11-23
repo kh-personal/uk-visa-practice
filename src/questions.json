@@ -30908,5 +30908,1033 @@
     "category": "Customs",
     "explanation": "Christmas takes place on 25 December.",
     "explanationZh": "聖誕節在12月25日舉行。"
+  },
+  {
+    "id": 1441,
+    "examId": 44,
+    "question": "The UK government has used the power to suspend the Northern Ireland Assembly.",
+    "questionZh": "英國政府曾經行使權力暫停北愛爾蘭議會。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "The UK government has used this power when the assembly could not reach an agreement.",
+    "explanationZh": "當議會無法達成協議時，英國政府行使了這項權力。"
+  },
+  {
+    "id": 1442,
+    "examId": 44,
+    "question": "Where was Robert Burns from?",
+    "questionZh": "羅伯特·伯恩斯來自哪裡？",
+    "options": [
+      "Northern Ireland",
+      "Scotland",
+      "Wales",
+      "England"
+    ],
+    "optionsZh": [
+      "北愛爾蘭",
+      "蘇格蘭",
+      "威爾斯",
+      "英格蘭"
+    ],
+    "correctAnswer": 1,
+    "category": "Arts",
+    "explanation": "Robert Burns was a famous Scottish poet.",
+    "explanationZh": "羅伯特·伯恩斯是一位著名的蘇格蘭詩人。"
+  },
+  {
+    "id": 1443,
+    "examId": 44,
+    "question": "Where did the engineers come from in the middle ages?",
+    "questionZh": "中世紀的工程師來自哪裡？",
+    "options": [
+      "France",
+      "Germany",
+      "Holland",
+      "Italy"
+    ],
+    "optionsZh": [
+      "法國",
+      "德國",
+      "荷蘭",
+      "義大利"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Engineers from Holland came to drain the Fens.",
+    "explanationZh": "來自荷蘭的工程師來抽乾芬蘭的沼澤地。"
+  },
+  {
+    "id": 1444,
+    "examId": 44,
+    "question": "Which party did Margaret Thatcher belong to?",
+    "questionZh": "瑪格麗特·柴契爾屬於哪個政黨？",
+    "options": [
+      "Labour",
+      "Liberal Democrats",
+      "Conservative",
+      "Green Party"
+    ],
+    "optionsZh": [
+      "工黨",
+      "自由民主黨",
+      "保守黨",
+      "綠黨"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Margaret Thatcher was the leader of the Conservative Party.",
+    "explanationZh": "瑪格麗特·柴契爾是保守黨的領袖。"
+  },
+  {
+    "id": 1445,
+    "examId": 44,
+    "question": "Who is a Patron St of Scotland?",
+    "questionZh": "誰是蘇格蘭的守護聖人？",
+    "options": [
+      "St George",
+      "St Patrick",
+      "St Andrew",
+      "St David"
+    ],
+    "optionsZh": [
+      "聖喬治",
+      "聖派屈克",
+      "聖安德魯",
+      "聖大衛"
+    ],
+    "correctAnswer": 2,
+    "category": "Customs",
+    "explanation": "St Andrew is the patron saint of Scotland.",
+    "explanationZh": "聖安德魯是蘇格蘭的守護聖人。"
+  },
+  {
+    "id": 1446,
+    "examId": 44,
+    "question": "Who lost a lot of their power after the Battle of Culloden in 1746?",
+    "questionZh": "1746年庫洛登戰役後，誰失去了很多權力？",
+    "options": [
+      "The Farmers",
+      "The Clans",
+      "The Church",
+      "The King"
+    ],
+    "optionsZh": [
+      "農民",
+      "氏族 (The Clans)",
+      "教會",
+      "國王"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Scottish clans lost their power after the battle.",
+    "explanationZh": "蘇格蘭氏族在戰役後失去了權力。"
+  },
+  {
+    "id": 1447,
+    "examId": 44,
+    "question": "What medal was introduced during the Crimean War?",
+    "questionZh": "克里米亞戰爭期間引入了什麼勳章？",
+    "options": [
+      "The Victoria Cross",
+      "The George Cross",
+      "The Elizabeth Cross",
+      "The Military Cross"
+    ],
+    "optionsZh": [
+      "維多利亞十字勳章",
+      "喬治十字勳章",
+      "伊麗莎白十字勳章",
+      "軍事十字勳章"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The Victoria Cross was introduced during the Crimean War.",
+    "explanationZh": "維多利亞十字勳章是在克里米亞戰爭期間引入的。"
+  },
+  {
+    "id": 1448,
+    "examId": 44,
+    "question": "What is the day before Lent called?",
+    "questionZh": "大齋期 (Lent) 前一天叫什麼？",
+    "options": [
+      "Pancake Day",
+      "Boxing Day",
+      "New Year's Day",
+      "Halloween"
+    ],
+    "optionsZh": [
+      "鬆餅日 (Pancake Day)",
+      "節禮日",
+      "元旦",
+      "萬聖節"
+    ],
+    "correctAnswer": 0,
+    "category": "Customs",
+    "explanation": "Shrove Tuesday, or Pancake Day, is the day before Lent.",
+    "explanationZh": "懺悔星期二，或鬆餅日，是大齋期前一天。"
+  },
+  {
+    "id": 1449,
+    "examId": 44,
+    "question": "What were the refugees that came from France called?",
+    "questionZh": "來自法國的難民被稱為什麼？",
+    "options": [
+      "Huguenots",
+      "Jacobites",
+      "Puritans",
+      "Quakers"
+    ],
+    "optionsZh": [
+      "胡格諾派 (Huguenots)",
+      "詹姆斯黨",
+      "清教徒",
+      "貴格會教徒"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The French Protestant refugees were called Huguenots.",
+    "explanationZh": "法國新教難民被稱為胡格諾派。"
+  },
+  {
+    "id": 1450,
+    "examId": 44,
+    "question": "When did the first professional football clubs form?",
+    "questionZh": "第一批職業足球俱樂部何時成立？",
+    "options": [
+      "18th century",
+      "19th century",
+      "20th century",
+      "17th century"
+    ],
+    "optionsZh": [
+      "18世紀",
+      "19世紀",
+      "20世紀",
+      "17世紀"
+    ],
+    "correctAnswer": 1,
+    "category": "Sports",
+    "explanation": "Professional football clubs formed in the late 19th century.",
+    "explanationZh": "職業足球俱樂部成立於19世紀末。"
+  },
+  {
+    "id": 1451,
+    "examId": 44,
+    "question": "What is 'Snowdon'?",
+    "questionZh": "「史諾頓」(Snowdon) 是什麼？",
+    "options": [
+      "A castle",
+      "A mountain",
+      "A lake",
+      "A city"
+    ],
+    "optionsZh": [
+      "一座城堡",
+      "一座山",
+      "一個湖泊",
+      "一座城市"
+    ],
+    "correctAnswer": 1,
+    "category": "Geography",
+    "explanation": "Snowdon is the highest mountain in Wales.",
+    "explanationZh": "史諾頓是威爾斯最高的山。"
+  },
+  {
+    "id": 1452,
+    "examId": 44,
+    "question": "Where is the Cenotaph located?",
+    "questionZh": "和平紀念碑 (Cenotaph) 位於哪裡？",
+    "options": [
+      "Derbyshire",
+      "Whitehall",
+      "Trafalgar Square",
+      "Hyde Park"
+    ],
+    "optionsZh": [
+      "德比郡",
+      "白廳 (Whitehall)",
+      "特拉法加廣場",
+      "海德公園"
+    ],
+    "correctAnswer": 1,
+    "category": "Landmarks",
+    "explanation": "The Cenotaph is located in Whitehall, London.",
+    "explanationZh": "和平紀念碑位於倫敦白廳。"
+  },
+  {
+    "id": 1453,
+    "examId": 44,
+    "question": "What created The Kingdom of Great Britain in 1707?",
+    "questionZh": "1707年是什麼創立了大不列顛王國？",
+    "options": [
+      "The Bill of Rights",
+      "The Act of Union",
+      "The Magna Carta",
+      "The Reform Act"
+    ],
+    "optionsZh": [
+      "權利法案",
+      "聯合法案 (The Act of Union)",
+      "大憲章",
+      "改革法案"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Act of Union 1707 united England and Scotland.",
+    "explanationZh": "1707年的《聯合法案》將英格蘭和蘇格蘭合併。"
+  },
+  {
+    "id": 1454,
+    "examId": 44,
+    "question": "The UN was set up straight after the First World War. It now has over 190 countries as members.",
+    "questionZh": "聯合國是在第一次世界大戰後立即成立的。它現在有超過190個成員國。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "False. The UN was set up after the SECOND World War.",
+    "explanationZh": "錯。聯合國是在第二次世界大戰後成立的。"
+  },
+  {
+    "id": 1455,
+    "examId": 44,
+    "question": "When did the First World War end?",
+    "questionZh": "第一次世界大戰何時結束？",
+    "options": [
+      "1916",
+      "1918",
+      "1914",
+      "1920"
+    ],
+    "optionsZh": [
+      "1916年",
+      "1918年",
+      "1914年",
+      "1920年"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The war ended on 11 November 1918.",
+    "explanationZh": "戰爭於1918年11月11日結束。"
+  },
+  {
+    "id": 1456,
+    "examId": 44,
+    "question": "Choose TWO examples of a civil law offence.",
+    "questionZh": "選擇兩個民法違法行為的例子。",
+    "options": [
+      "Theft and assault",
+      "Debt and employment disputes",
+      "Murder and robbery",
+      "Fraud and drug dealing"
+    ],
+    "optionsZh": [
+      "盜竊和襲擊",
+      "債務和就業糾紛",
+      "謀殺和搶劫",
+      "欺詐和毒品交易"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "Civil law covers disputes like debt and employment issues.",
+    "explanationZh": "民法涵蓋債務和就業問題等糾紛。"
+  },
+  {
+    "id": 1457,
+    "examId": 44,
+    "question": "In what year was Germany comprehensively defeated by the Allies during the WWII?",
+    "questionZh": "德國在二戰中哪一年被盟軍全面擊敗？",
+    "options": [
+      "Jun-46",
+      "May-45",
+      "1944",
+      "1947"
+    ],
+    "optionsZh": [
+      "1946年6月",
+      "1945年5月",
+      "1944年",
+      "1947年"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Germany was defeated in May 1945.",
+    "explanationZh": "德國於1945年5月被擊敗。"
+  },
+  {
+    "id": 1458,
+    "examId": 44,
+    "question": "By law, radio and television coverage of the political parties must be _____ , so equal time has to be given to rival viewpoints.",
+    "questionZh": "根據法律，廣播和電視對政黨的報導必須_____，因此必須給予對立觀點相同的時間。",
+    "options": [
+      "Classified",
+      "Balanced",
+      "Biased",
+      "Censored"
+    ],
+    "optionsZh": [
+      "保密",
+      "平衡 (Balanced)",
+      "偏頗",
+      "審查"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "Coverage must be balanced.",
+    "explanationZh": "報導必須平衡。"
+  },
+  {
+    "id": 1459,
+    "examId": 44,
+    "question": "Which of these athletes is a Paralympian who won gold medals for swimming?",
+    "questionZh": "以下哪位運動員是獲得游泳金牌的帕拉林匹克運動員？",
+    "options": [
+      "Jessica Ennis",
+      "Ellie Simmonds",
+      "Mo Farah",
+      "Bradley Wiggins"
+    ],
+    "optionsZh": [
+      "潔西卡·恩尼斯",
+      "艾莉·西蒙茲",
+      "莫·法拉",
+      "布拉德利·威金斯"
+    ],
+    "correctAnswer": 1,
+    "category": "Sports",
+    "explanation": "Ellie Simmonds is a Paralympian swimmer.",
+    "explanationZh": "艾莉·西蒙茲是一位帕拉林匹克游泳運動員。"
+  },
+  {
+    "id": 1460,
+    "examId": 44,
+    "question": "Throughout the 1990s, Britain played a leading role in coalition forces involved in the liberation of Kuwait.",
+    "questionZh": "在整個1990年代，英國在參與解放科威特的聯軍中發揮了領導作用。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The statement is true (Gulf War).",
+    "explanationZh": "此陳述是正確的（海灣戰爭）。"
+  },
+  {
+    "id": 1461,
+    "examId": 44,
+    "question": "Which novel is the satirical novelist Evelyn Waugh best known for?",
+    "questionZh": "諷刺小說家伊夫林·沃最著名的作品是哪部？",
+    "options": [
+      "Brideshead Revisited",
+      "Animal Farm",
+      "1984",
+      "Lord of the Flies"
+    ],
+    "optionsZh": [
+      "故園風雨後 (Brideshead Revisited)",
+      "動物農莊",
+      "1984",
+      "蒼蠅王"
+    ],
+    "correctAnswer": 0,
+    "category": "Arts",
+    "explanation": "Evelyn Waugh wrote Brideshead Revisited.",
+    "explanationZh": "伊夫林·沃寫了《故園風雨後》。"
+  },
+  {
+    "id": 1462,
+    "examId": 44,
+    "question": "Which TWO are major political parties in the UK?",
+    "questionZh": "哪兩個是英國的主要政黨？",
+    "options": [
+      "Conservative",
+      "Democrats",
+      "Labour",
+      "Republicans"
+    ],
+    "optionsZh": [
+      "保守黨",
+      "民主黨",
+      "工黨",
+      "共和黨"
+    ],
+    "correctAnswer": [0, 2],
+    "category": "Government",
+    "explanation": "The Conservative Party and Labour Party are major parties.",
+    "explanationZh": "保守黨和工黨是主要政黨。"
+  },
+  {
+    "id": 1463,
+    "examId": 44,
+    "question": "Complaints against the Police can only be made by writing to the Police Complaints Commissioner.",
+    "questionZh": "對警察的投訴只能透過寫信給警察投訴專員來提出。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "You can complain directly to the police station or the Independent Office for Police Conduct.",
+    "explanationZh": "您可以直接向警察局或警察行為獨立辦公室投訴。"
+  },
+  {
+    "id": 1464,
+    "examId": 44,
+    "question": "The UK government hasn't used the power to suspend the Northern Ireland Assembly.",
+    "questionZh": "英國政府沒有使用過暫停北愛爾蘭議會的權力。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "The government HAS used this power.",
+    "explanationZh": "政府已經使用了這項權力。"
+  },
+  {
+    "id": 1465,
+    "examId": 45,
+    "question": "For how long did England remain a republic?",
+    "questionZh": "英格蘭保持共和國狀態多久？",
+    "options": [
+      "11 years",
+      "14 years",
+      "12 years",
+      "10 years"
+    ],
+    "optionsZh": [
+      "11年",
+      "14年",
+      "12年",
+      "10年"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "England was a republic for 11 years (1649-1660).",
+    "explanationZh": "英格蘭曾是共和國11年（1649-1660）。"
+  },
+  {
+    "id": 1466,
+    "examId": 45,
+    "question": "Where was one of the Anglo Saxon kings buried with treasure and armour?",
+    "questionZh": "其中一位盎格魯撒克遜國王帶著寶藏和盔甲埋葬在哪裡？",
+    "options": [
+      "Newcastle",
+      "Kent",
+      "London",
+      "Suffolk"
+    ],
+    "optionsZh": [
+      "紐卡斯爾",
+      "肯特",
+      "倫敦",
+      "薩福克 (Suffolk)"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "The burial site is at Sutton Hoo in Suffolk.",
+    "explanationZh": "墓地位於薩福克的薩頓胡。"
+  },
+  {
+    "id": 1467,
+    "examId": 45,
+    "question": "When did the Glorious Revolution happen?",
+    "questionZh": "光榮革命發生在什麼時候？",
+    "options": [
+      "1688",
+      "1685",
+      "1680",
+      "1692"
+    ],
+    "optionsZh": [
+      "1688年",
+      "1685年",
+      "1680年",
+      "1692年"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The Glorious Revolution took place in 1688.",
+    "explanationZh": "光榮革命發生在1688年。"
+  },
+  {
+    "id": 1468,
+    "examId": 45,
+    "question": "Who designed the Cenotaph?",
+    "questionZh": "誰設計了和平紀念碑？",
+    "options": [
+      "Sir Christopher Wren",
+      "Robert Adam",
+      "Inigo Jones",
+      "Sir Edwin Lutyens"
+    ],
+    "optionsZh": [
+      "克里斯多福·雷恩爵士",
+      "羅伯特·亞當",
+      "伊尼戈·瓊斯",
+      "埃德溫·盧琴斯爵士"
+    ],
+    "correctAnswer": 3,
+    "category": "Landmarks",
+    "explanation": "Sir Edwin Lutyens designed the Cenotaph.",
+    "explanationZh": "埃德溫·盧琴斯爵士設計了和平紀念碑。"
+  },
+  {
+    "id": 1469,
+    "examId": 45,
+    "question": "What service can you use to find a lawyer or a solicitor?",
+    "questionZh": "你可以使用什麼服務來尋找律師或事務律師？",
+    "options": [
+      "The Citizens Advice Bureau",
+      "County Courts",
+      "The Police",
+      "NSPCC"
+    ],
+    "optionsZh": [
+      "公民諮詢局 (Citizens Advice Bureau)",
+      "郡法院",
+      "警察",
+      "NSPCC"
+    ],
+    "correctAnswer": 0,
+    "category": "Law",
+    "explanation": "The Citizens Advice Bureau can help find legal advice.",
+    "explanationZh": "公民諮詢局可以幫助尋找法律建議。"
+  },
+  {
+    "id": 1470,
+    "examId": 45,
+    "question": "What is the longest distance on the mainland in the UK?",
+    "questionZh": "英國本土最長的距離是多少？",
+    "options": [
+      "950 miles",
+      "1400 miles",
+      "1240 miles",
+      "870 miles"
+    ],
+    "optionsZh": [
+      "950英里",
+      "1400英里",
+      "1240英里",
+      "870英里"
+    ],
+    "correctAnswer": 3,
+    "category": "Geography",
+    "explanation": "The distance from John O'Groats to Land's End is about 870 miles.",
+    "explanationZh": "從約翰奧格羅茨到蘭茲角的距離約為870英里。"
+  },
+  {
+    "id": 1471,
+    "examId": 45,
+    "question": "Haggis is a traditional food of which country?",
+    "questionZh": "哈吉斯 (Haggis) 是哪個國家的傳統食物？",
+    "options": [
+      "England",
+      "Northern Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "optionsZh": [
+      "英格蘭",
+      "北愛爾蘭",
+      "蘇格蘭",
+      "威爾斯"
+    ],
+    "correctAnswer": 2,
+    "category": "Customs",
+    "explanation": "Haggis is a traditional Scottish dish.",
+    "explanationZh": "哈吉斯是蘇格蘭的傳統菜餚。"
+  },
+  {
+    "id": 1472,
+    "examId": 45,
+    "question": "Who appoints the local Chief Constable?",
+    "questionZh": "誰任命當地的警察局長？",
+    "options": [
+      "The Prime Minister",
+      "The Monarch",
+      "The Speaker",
+      "Police and Crime Commissioners"
+    ],
+    "optionsZh": [
+      "首相",
+      "君主",
+      "議長",
+      "警察和犯罪專員 (PCCs)"
+    ],
+    "correctAnswer": 3,
+    "category": "Law",
+    "explanation": "Police and Crime Commissioners (PCCs) appoint the Chief Constable.",
+    "explanationZh": "警察和犯罪專員 (PCCs) 任命警察局長。"
+  },
+  {
+    "id": 1473,
+    "examId": 45,
+    "question": "Who took the title 'King of Ireland'?",
+    "questionZh": "誰使用了「愛爾蘭國王」的頭銜？",
+    "options": [
+      "James VI",
+      "Henry VII",
+      "Henry VIII",
+      "Charles II"
+    ],
+    "optionsZh": [
+      "詹姆斯六世",
+      "亨利七世",
+      "亨利八世",
+      "查理二世"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Henry VIII took the title 'King of Ireland'.",
+    "explanationZh": "亨利八世使用了「愛爾蘭國王」的頭銜。"
+  },
+  {
+    "id": 1474,
+    "examId": 45,
+    "question": "Who was Robert Burns?",
+    "questionZh": "羅伯特·伯恩斯是誰？",
+    "options": [
+      "English social reformer",
+      "English barber",
+      "Welsh portrait painter",
+      "Scottish poet"
+    ],
+    "optionsZh": [
+      "英國社會改革家",
+      "英國理髮師",
+      "威爾斯肖像畫家",
+      "蘇格蘭詩人"
+    ],
+    "correctAnswer": 3,
+    "category": "Arts",
+    "explanation": "Robert Burns was a famous Scottish poet.",
+    "explanationZh": "羅伯特·伯恩斯是一位著名的蘇格蘭詩人。"
+  },
+  {
+    "id": 1475,
+    "examId": 45,
+    "question": "The Council of Europe has no power to make laws.",
+    "questionZh": "歐洲委員會沒有制定法律的權力。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "The Council of Europe cannot make laws.",
+    "explanationZh": "歐洲委員會不能制定法律。"
+  },
+  {
+    "id": 1476,
+    "examId": 45,
+    "question": "Which of the following is correct regarding population distribution?",
+    "questionZh": "關於人口分佈，以下哪項是正確的？",
+    "options": [
+      "Northern Ireland makes up 4% of the total population",
+      "England makes up 83% of the total population",
+      "Wales makes up 6% of the total population",
+      "Scotland makes up 8% of the total population"
+    ],
+    "optionsZh": [
+      "北愛爾蘭佔總人口的4%",
+      "英格蘭佔總人口的83%",
+      "威爾斯佔總人口的6%",
+      "蘇格蘭佔總人口的8%"
+    ],
+    "correctAnswer": 3,
+    "category": "Society",
+    "explanation": "Scotland makes up about 8% of the UK population.",
+    "explanationZh": "蘇格蘭約佔英國人口的8%。"
+  },
+  {
+    "id": 1477,
+    "examId": 45,
+    "question": "What percentage of the UK population lives in England?",
+    "questionZh": "英國有多少百分比的人口居住在英格蘭？",
+    "options": [
+      "95%",
+      "84%",
+      "71%",
+      "62%"
+    ],
+    "optionsZh": [
+      "95%",
+      "84%",
+      "71%",
+      "62%"
+    ],
+    "correctAnswer": 1,
+    "category": "Society",
+    "explanation": "Approximately 84% of the population lives in England.",
+    "explanationZh": "大約84%的人口居住在英格蘭。"
+  },
+  {
+    "id": 1478,
+    "examId": 45,
+    "question": "The people of which age made the first coins to be minted in Britain?",
+    "questionZh": "哪個時代的人製造了英國第一批鑄造的硬幣？",
+    "options": [
+      "Iron Age",
+      "Bronze Age",
+      "Gold Age",
+      "Stone Age"
+    ],
+    "optionsZh": [
+      "鐵器時代",
+      "青銅時代",
+      "黃金時代",
+      "石器時代"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The people of the Iron Age made the first coins.",
+    "explanationZh": "鐵器時代的人製造了第一批硬幣。"
+  },
+  {
+    "id": 1479,
+    "examId": 45,
+    "question": "As per 2021 census, what is the percentage of Muslims living in England and Wales?",
+    "questionZh": "根據2021年人口普查，居住在英格蘭和威爾斯的穆斯林百分比是多少？",
+    "options": [
+      "1%",
+      "15%",
+      "11%",
+      "6%"
+    ],
+    "optionsZh": [
+      "1%",
+      "15%",
+      "11%",
+      "6%"
+    ],
+    "correctAnswer": 3,
+    "category": "Society",
+    "explanation": "Muslims make up about 6.5% (rounded to 6%) of the population.",
+    "explanationZh": "穆斯林約佔人口的6.5%（四捨五入為6%）。"
+  },
+  {
+    "id": 1480,
+    "examId": 45,
+    "question": "Northern Ireland and Scotland have their own banknotes valid everywhere in the UK.",
+    "questionZh": "北愛爾蘭和蘇格蘭有自己的紙幣，在英國各地都有效。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Society",
+    "explanation": "They are valid currency, but shops are not legally obliged to accept them.",
+    "explanationZh": "它們是有效貨幣，但商店沒有法律義務接受它們。"
+  },
+  {
+    "id": 1481,
+    "examId": 45,
+    "question": "Who governs the Church of Scotland?",
+    "questionZh": "誰管理蘇格蘭教會？",
+    "options": [
+      "The Archbishop of Canterbury",
+      "Ministers and elders",
+      "The Pope",
+      "Local Authorities"
+    ],
+    "optionsZh": [
+      "坎特伯雷大主教",
+      "牧師和長老",
+      "教皇",
+      "地方當局"
+    ],
+    "correctAnswer": 1,
+    "category": "Customs",
+    "explanation": "The Church of Scotland is a Presbyterian church governed by ministers and elders.",
+    "explanationZh": "蘇格蘭教會是由牧師和長老管理的長老會。"
+  },
+  {
+    "id": 1482,
+    "examId": 45,
+    "question": "In what year was there a revolution in France which led to a war with Britain?",
+    "questionZh": "哪一年法國發生革命，導致與英國的戰爭？",
+    "options": [
+      "1679",
+      "1298",
+      "1097",
+      "1789"
+    ],
+    "optionsZh": [
+      "1679年",
+      "1298年",
+      "1097年",
+      "1789年"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "The French Revolution began in 1789.",
+    "explanationZh": "法國大革命始於1789年。"
+  },
+  {
+    "id": 1483,
+    "examId": 45,
+    "question": "Which language was spoken by people during the Iron Age?",
+    "questionZh": "鐵器時代的人說哪種語言？",
+    "options": [
+      "Norman French",
+      "Celtic",
+      "English",
+      "Anglo-Saxon"
+    ],
+    "optionsZh": [
+      "諾曼法語",
+      "凱爾特語",
+      "英語",
+      "盎格魯-撒克遜語"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "People in the Iron Age spoke Celtic languages.",
+    "explanationZh": "鐵器時代的人說凱爾特語。"
+  },
+  {
+    "id": 1484,
+    "examId": 45,
+    "question": "What do the Brit Awards celebrate?",
+    "questionZh": "全英音樂獎 (Brit Awards) 慶祝什麼？",
+    "options": [
+      "Movies",
+      "Art",
+      "Music",
+      "Theatre"
+    ],
+    "optionsZh": [
+      "電影",
+      "藝術",
+      "音樂",
+      "戲劇"
+    ],
+    "correctAnswer": 2,
+    "category": "Arts",
+    "explanation": "The Brit Awards celebrate music.",
+    "explanationZh": "全英音樂獎慶祝音樂。"
+  },
+  {
+    "id": 1485,
+    "examId": 45,
+    "question": "When did the English settlers first begin to colonise the eastern coast of America?",
+    "questionZh": "英國定居者何時開始殖民美洲東海岸？",
+    "options": [
+      "In Diana's time",
+      "In Elizabeth I's time",
+      "In William I's time",
+      "In Mary I's time"
+    ],
+    "optionsZh": [
+      "在戴安娜時期",
+      "在伊麗莎白一世時期",
+      "在威廉一世時期",
+      "在瑪麗一世時期"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Colonisation began in Elizabeth I's time.",
+    "explanationZh": "殖民始於伊麗莎白一世時期。"
+  },
+  {
+    "id": 1486,
+    "examId": 45,
+    "question": "Which of these is a Crown Dependency of the UK and not a part of it?",
+    "questionZh": "以下哪一個是英國的皇家屬地而不是其一部分？",
+    "options": [
+      "St Helena",
+      "Channel Islands",
+      "Falkland Islands",
+      "Wales"
+    ],
+    "optionsZh": [
+      "聖赫勒拿島",
+      "海峽群島",
+      "福克蘭群島",
+      "威爾斯"
+    ],
+    "correctAnswer": 1,
+    "category": "Geography",
+    "explanation": "The Channel Islands are Crown Dependencies.",
+    "explanationZh": "海峽群島是皇家屬地。"
+  },
+  {
+    "id": 1487,
+    "examId": 45,
+    "question": "What is the judiciary responsible for?",
+    "questionZh": "司法機構負責什麼？",
+    "options": [
+      "Looking after a jury",
+      "Interpreting the law",
+      "Deciding whether a person is guilty",
+      "Putting people in prison"
+    ],
+    "optionsZh": [
+      "照看陪審團",
+      "解釋法律",
+      "決定一個人是否有罪",
+      "將人關進監獄"
+    ],
+    "correctAnswer": 1,
+    "category": "Law",
+    "explanation": "The judiciary interprets the law and ensures fair trials.",
+    "explanationZh": "司法機構解釋法律並確保審判公平。"
+  },
+  {
+    "id": 1488,
+    "examId": 45,
+    "question": "Why was Mary known as 'Bloody Mary'?",
+    "questionZh": "為什麼瑪麗被稱為「血腥瑪麗」？",
+    "options": [
+      "She put her sister in prison",
+      "She persecuted Protestants",
+      "She fought in numerous battles",
+      "She killed her father"
+    ],
+    "optionsZh": [
+      "她把妹妹關進監獄",
+      "她迫害新教徒",
+      "她參加了無數次戰鬥",
+      "她殺了她的父親"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "She persecuted Protestants.",
+    "explanationZh": "她迫害新教徒。"
   }
 ]

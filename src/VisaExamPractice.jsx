@@ -198,24 +198,99 @@ const STUDY_DATA = [
     title: 'Historical Figures & Monarchs (歷史人物與君主)',
     content: [
       {
-        title: 'Early & Medieval Leaders (早期與中世紀領袖)',
-        en: 'Queen Boudicca: Leader of the Iceni tribe who fought against the Romans[cite: 1060]. King Alfred the Great: Defeated the Vikings and united Anglo-Saxon kingdoms[cite: 1089]. William the Conqueror: Defeated King Harold at the Battle of Hastings in 1066 [cite: 1096-1097]. Robert the Bruce: Defeated the English at the Battle of Bannockburn in 1314[cite: 734].',
-        zh: '布狄卡女王：愛西尼部落領袖，曾對抗羅馬人。阿爾弗雷德大帝：擊敗維京人並統一了盎格魯-撒克遜王國。威廉一世（征服者威廉）：1066年在黑斯廷斯戰役中擊敗哈羅德王。羅伯特·布魯斯：1314年在班諾克本戰役中擊敗英軍。'
+        title: 'Queen Boudicca (布狄卡女王)',
+        en: 'Leader of the Iceni tribe who fought against the Romans.',
+        zh: '愛西尼部落領袖，曾對抗羅馬人。'
       },
       {
-        title: 'The Tudors & Stuarts (都鐸與斯圖亞特王朝)',
-        en: 'Henry VIII: Broke from Rome, established Church of England, had 6 wives[cite: 840, 852]. Queen Elizabeth I: Defeated the Spanish Armada in 1588[cite: 881]. Mary, Queen of Scots: Fled to England and was executed by Elizabeth I [cite: 888-894]. King Charles I: Executed in 1649 after Civil War[cite: 966]. Oliver Cromwell: Lord Protector of the republic[cite: 977]. King Charles II: Restored the monarchy in 1660[cite: 984].',
-        zh: '亨利八世：脫離羅馬教廷，建立英格蘭教會，有六位妻子。伊利沙伯一世：1588年擊敗西班牙無敵艦隊。蘇格蘭瑪麗女王：逃往英格蘭後被伊利沙伯一世處決。查理一世：內戰後於1649年被處決。奧利華·克倫威爾：共和國時期的護國公。查理二世：1660年復辟王室。'
+        title: 'King Alfred the Great (阿爾弗雷德大帝)',
+        en: 'Defeated the Vikings and united Anglo-Saxon kingdoms.',
+        zh: '擊敗維京人並統一了盎格魯-撒克遜王國。'
       },
       {
-        title: '18th & 19th Century Figures (18與19世紀人物)',
-        en: 'Sir Robert Walpole: The first Prime Minister (1721-1742) [cite: 376-377]. Bonnie Prince Charlie: Defeated at Culloden in 1746 [cite: 380-381]. William Wilberforce: Campaigner who helped abolish the slave trade[cite: 445]. Admiral Nelson: Killed winning the Battle of Trafalgar (1805)[cite: 464]. Duke of Wellington: Defeated Napoleon at Waterloo (1815)[cite: 466]. Queen Victoria: Reigned for almost 64 years during the Empire\'s peak[cite: 480].',
-        zh: '羅伯特·沃波爾爵士：第一任首相（1721-1742）。邦尼王子查理：1746年在卡洛登戰役中戰敗。威廉·威爾伯福斯：協助廢除奴隸貿易的運動家。納爾遜海軍上將：1805年在特拉法加海戰中殉職並獲勝。威靈頓公爵：1815年在滑鐵盧擊敗拿破崙。維多利亞女王：在帝國鼎盛時期統治了近64年。'
+        title: 'William the Conqueror (威廉一世/征服者威廉)',
+        en: 'Defeated King Harold at the Battle of Hastings in 1066.',
+        zh: '1066年在黑斯廷斯戰役中擊敗哈羅德王。'
       },
       {
-        title: 'Social Reformers (社會改革者)',
-        en: 'Florence Nightingale: Founder of modern nursing, treated soldiers in the Crimean War [cite: 524-529]. Emmeline Pankhurst: Leader of the Suffragettes, campaigned for women\'s vote [cite: 561-566]. Sake Dean Mahomet: Opened the first curry house in Britain (1810) and introduced shampooing [cite: 428-433].',
-        zh: '弗洛倫斯·南丁格爾：現代護理學創始人，曾在克里米亞戰爭中救治士兵。艾米琳·潘克斯特：女權運動領袖，爭取女性投票權。沙克·迪恩·穆罕默德：1810年在英國開設第一家咖哩屋並引入洗頭按摩技術。'
+        title: 'Robert the Bruce (羅伯特·布魯斯)',
+        en: 'Defeated the English at the Battle of Bannockburn in 1314.',
+        zh: '1314年在班諾克本戰役中擊敗英軍。'
+      },
+      {
+        title: 'Henry VIII (亨利八世)',
+        en: 'Broke from Rome, established Church of England, had 6 wives.',
+        zh: '脫離羅馬教廷，建立英格蘭教會，有六位妻子。'
+      },
+      {
+        title: 'Queen Elizabeth I (伊利沙伯一世)',
+        en: 'Defeated the Spanish Armada in 1588.',
+        zh: '1588年擊敗西班牙無敵艦隊。'
+      },
+      {
+        title: 'Mary, Queen of Scots (蘇格蘭瑪麗女王)',
+        en: 'Fled to England and was executed by Elizabeth I.',
+        zh: '逃往英格蘭後被伊利沙伯一世處決。'
+      },
+      {
+        title: 'King Charles I (查理一世)',
+        en: 'Executed in 1649 after Civil War.',
+        zh: '內戰後於1649年被處決。'
+      },
+      {
+        title: 'Oliver Cromwell (奧利華·克倫威爾)',
+        en: 'Lord Protector of the republic.',
+        zh: '共和國時期的護國公。'
+      },
+      {
+        title: 'King Charles II (查理二世)',
+        en: 'Restored the monarchy in 1660.',
+        zh: '1660年復辟王室。'
+      },
+      {
+        title: 'Sir Robert Walpole (羅伯特·沃波爾爵士)',
+        en: 'The first Prime Minister (1721-1742).',
+        zh: '第一任首相（1721-1742）。'
+      },
+      {
+        title: 'Bonnie Prince Charlie (邦尼王子查理)',
+        en: 'Defeated at Culloden in 1746.',
+        zh: '1746年在卡洛登戰役中戰敗。'
+      },
+      {
+        title: 'William Wilberforce (威廉·威爾伯福斯)',
+        en: 'Campaigner who helped abolish the slave trade.',
+        zh: '協助廢除奴隸貿易的運動家。'
+      },
+      {
+        title: 'Admiral Nelson (納爾遜海軍上將)',
+        en: 'Killed winning the Battle of Trafalgar (1805).',
+        zh: '1805年在特拉法加海戰中殉職並獲勝。'
+      },
+      {
+        title: 'Duke of Wellington (威靈頓公爵)',
+        en: 'Defeated Napoleon at Waterloo (1815).',
+        zh: '1815年在滑鐵盧擊敗拿破崙。'
+      },
+      {
+        title: 'Queen Victoria (維多利亞女王)',
+        en: 'Reigned for almost 64 years during the Empire peak.',
+        zh: '在帝國鼎盛時期統治了近64年。'
+      },
+      {
+        title: 'Florence Nightingale (弗洛倫斯·南丁格爾)',
+        en: 'Founder of modern nursing, treated soldiers in the Crimean War.',
+        zh: '現代護理學創始人，曾在克里米亞戰爭中救治士兵。'
+      },
+      {
+        title: 'Emmeline Pankhurst (艾米琳·潘克斯特)',
+        en: 'Leader of the Suffragettes, campaigned for women vote.',
+        zh: '女權運動領袖，爭取女性投票權。'
+      },
+      {
+        title: 'Sake Dean Mahomet (沙克·迪恩·穆罕默德)',
+        en: 'Opened the first curry house in Britain (1810) and introduced shampooing.',
+        zh: '1810年在英國開設第一家咖哩屋並引入洗頭按摩技術。'
       }
     ]
   },
@@ -224,14 +299,54 @@ const STUDY_DATA = [
     title: 'Political Leaders (政治領袖)',
     content: [
       {
-        title: 'Wartime & Post-War Leaders (戰時與戰後領袖)',
-        en: 'Winston Churchill: Prime Minister during WWII, voted greatest Briton of all time[cite: 664, 683]. Clement Attlee: PM (1945-1951) who created the NHS and nationalised industries [cite: 186, 195-201]. Aneurin (Nye) Bevan: Minister for Health who established the NHS in 1948[cite: 187]. William Beveridge: Wrote the 1942 report that led to the welfare state [cite: 204-206]. R A Butler: Oversaw the Education Act 1944 [cite: 210-211].',
-        zh: '溫斯頓·邱吉爾：二戰時期首相，被票選為史上最偉大的英國人。克萊曼·艾德禮：1945-1951年任首相，創立NHS並將產業國有化。安奈林·贝文：1948年建立NHS的衛生大臣。威廉·貝弗里奇：撰寫了1942年報告，為福利國家奠定基礎。R·A·巴特勒：監督通過了1944年教育法案。'
+        title: 'Winston Churchill (溫斯頓·邱吉爾)',
+        en: 'Prime Minister during WWII, voted greatest Briton of all time.',
+        zh: '二戰時期首相，被票選為史上最偉大的英國人。'
       },
       {
-        title: 'Modern Prime Ministers (現代首相)',
-        en: 'Margaret Thatcher: First woman PM (1979-1990), known for privatisation and the Falklands War [cite: 287-297]. Tony Blair: PM (1997-2007), introduced devolved parliaments and Good Friday Agreement [cite: 308-311]. Gordon Brown: PM from 2007[cite: 312]. David Cameron: PM of Coalition government (2010)[cite: 326]. Recent PMs include Theresa May, Boris Johnson, Liz Truss, Rishi Sunak, and Keir Starmer [cite: 328-332].',
-        zh: '戴卓爾夫人：首位女首相（1979-1990），以私有化和福克蘭戰爭聞名。貝理雅：1997-2007年任首相，引入權力下放議會和《受難日協議》。白高敦：2007年起任首相。卡梅倫：2010年聯合政府首相。近期首相包括文翠珊、約翰遜、卓慧思、辛偉誠和施紀賢。'
+        title: 'Clement Attlee (克萊曼·艾德禮)',
+        en: 'PM (1945-1951) who created the NHS and nationalised industries.',
+        zh: '1945-1951年任首相，創立NHS並將產業國有化。'
+      },
+      {
+        title: 'Aneurin (Nye) Bevan (安奈林·贝文)',
+        en: 'Minister for Health who established the NHS in 1948.',
+        zh: '1948年建立NHS的衛生大臣。'
+      },
+      {
+        title: 'William Beveridge (威廉·貝弗里奇)',
+        en: 'Wrote the 1942 report that led to the welfare state.',
+        zh: '撰寫了1942年報告，為福利國家奠定基礎。'
+      },
+      {
+        title: 'R A Butler (R·A·巴特勒)',
+        en: 'Oversaw the Education Act 1944.',
+        zh: '監督通過了1944年教育法案。'
+      },
+      {
+        title: 'Margaret Thatcher (戴卓爾夫人)',
+        en: 'First woman PM (1979-1990), known for privatisation and the Falklands War.',
+        zh: '首位女首相（1979-1990），以私有化和福克蘭戰爭聞名。'
+      },
+      {
+        title: 'Tony Blair (貝理雅)',
+        en: 'PM (1997-2007), introduced devolved parliaments and Good Friday Agreement.',
+        zh: '1997-2007年任首相，引入權力下放議會和《受難日協議》。'
+      },
+      {
+        title: 'Gordon Brown (白高敦)',
+        en: 'PM from 2007.',
+        zh: '2007年起任首相。'
+      },
+      {
+        title: 'David Cameron (卡梅倫)',
+        en: 'PM of Coalition government (2010).',
+        zh: '2010年聯合政府首相。'
+      },
+      {
+        title: 'Recent Prime Ministers (近期首相)',
+        en: 'Includes Theresa May, Boris Johnson, Liz Truss, Rishi Sunak, and Keir Starmer.',
+        zh: '包括文翠珊、約翰遜、卓慧思、辛偉誠和施紀賢。'
       }
     ]
   },
@@ -240,19 +355,99 @@ const STUDY_DATA = [
     title: 'Science & Innovation (科學與創新)',
     content: [
       {
-        title: 'Scientific Pioneers (科學先驅)',
-        en: 'Sir Isaac Newton: Discovered gravity and white light composition [cite: 1000-1002]. Adam Smith: Developed ideas about economics during Enlightenment[cite: 394]. James Watt: Work on steam power helped Industrial Revolution[cite: 394]. Richard Arkwright: Developed efficient factories and spinning mills [cite: 411-416].',
-        zh: '艾薩克·牛頓爵士：發現地心引力和白光的組成。亞當·史密斯：啟蒙運動時期發展了經濟學思想。詹姆斯·瓦特：蒸汽動力研究推動了工業革命。理查·阿克萊特：開發了高效工廠和紡紗廠。'
+        title: 'Sir Isaac Newton (艾薩克·牛頓爵士)',
+        en: 'Discovered gravity and white light composition.',
+        zh: '發現地心引力和白光的組成。'
       },
       {
-        title: 'Medical & Modern Discoveries (醫療與現代發現)',
-        en: 'Alexander Fleming: Discovered penicillin in 1928 [cite: 708-710]. Francis Crick: Co-discovered structure of DNA molecule (1953)[cite: 250]. John MacLeod: Co-discoverer of insulin[cite: 247]. Sir Robert Edwards & Patrick Steptoe: Pioneered IVF therapy (1978)[cite: 261]. Sir Ian Wilmut & Keith Campbell: Cloned Dolly the sheep (1996)[cite: 263]. Sir Peter Mansfield: Co-inventor of MRI scanner[cite: 265].',
-        zh: '亞歷山大·弗萊明：1928年發現青黴素。法蘭西斯·克里克：1953年共同發現DNA分子結構。約翰·麥克勞德：胰島素共同發現者。羅伯特·愛德華茲爵士與派翠克·斯特普托：開創試管嬰兒療法（1978）。伊恩·威爾穆特爵士與基斯·坎貝爾：複製多利羊（1996）。彼得·曼斯菲爾德爵士：磁力共振掃描儀共同發明者。'
+        title: 'Adam Smith (亞當·史密斯)',
+        en: 'Developed ideas about economics during Enlightenment.',
+        zh: '啟蒙運動時期發展了經濟學思想。'
       },
       {
-        title: 'Engineering & Technology (工程與科技)',
-        en: 'Isambard Kingdom Brunel: Built bridges, tunnels, ships, and Great Western Railway [cite: 509-511]. George & Robert Stephenson: Pioneered railway engines[cite: 507]. John Logie Baird: Developed television (1920s)[cite: 239]. Sir Robert Watson-Watt: Developed Radar[cite: 241]. Alan Turing: Invented Turing machine, influential in computer science[cite: 245]. Sir Frank Whittle: Developed jet engine[cite: 251]. Sir Christopher Cockerell: Invented hovercraft[cite: 255]. James Goodfellow: Invented the ATM (cashpoint)[cite: 259]. Sir Tim Berners-Lee: Inventor of the World Wide Web[cite: 267].',
-        zh: '伊桑巴德·金德姆·布魯內爾：建造橋樑、隧道、船隻和大西部鐵路。佐治與羅伯特·史蒂芬生：鐵路機車先驅。約翰·羅傑·貝爾德：開發電視（1920年代）。羅伯特·沃森-瓦特爵士：開發雷達。艾倫·圖靈：發明圖靈機，對電腦科學影響深遠。法蘭克·惠特爾爵士：開發噴射引擎。克里斯多福·科克雷爾爵士：發明氣墊船。詹姆斯·古德費洛：發明自動櫃員機（ATM）。蒂姆·伯納斯-李爵士：萬維網發明者。'
+        title: 'James Watt (詹姆斯·瓦特)',
+        en: 'Work on steam power helped Industrial Revolution.',
+        zh: '蒸汽動力研究推動了工業革命。'
+      },
+      {
+        title: 'Richard Arkwright (理查·阿克萊特)',
+        en: 'Developed efficient factories and spinning mills.',
+        zh: '開發了高效工廠和紡紗廠。'
+      },
+      {
+        title: 'Alexander Fleming (亞歷山大·弗萊明)',
+        en: 'Discovered penicillin in 1928.',
+        zh: '1928年發現青黴素。'
+      },
+      {
+        title: 'Francis Crick (法蘭西斯·克里克)',
+        en: 'Co-discovered structure of DNA molecule (1953).',
+        zh: '1953年共同發現DNA分子結構。'
+      },
+      {
+        title: 'John MacLeod (約翰·麥克勞德)',
+        en: 'Co-discoverer of insulin.',
+        zh: '胰島素共同發現者。'
+      },
+      {
+        title: 'Sir Robert Edwards & Patrick Steptoe (羅伯特·愛德華茲爵士與派翠克·斯特普托)',
+        en: 'Pioneered IVF therapy (1978).',
+        zh: '開創試管嬰兒療法（1978）。'
+      },
+      {
+        title: 'Sir Ian Wilmut & Keith Campbell (伊恩·威爾穆特爵士與基斯·坎貝爾)',
+        en: 'Cloned Dolly the sheep (1996).',
+        zh: '複製多利羊（1996）。'
+      },
+      {
+        title: 'Sir Peter Mansfield (彼得·曼斯菲爾德爵士)',
+        en: 'Co-inventor of MRI scanner.',
+        zh: '磁力共振掃描儀共同發明者。'
+      },
+      {
+        title: 'Isambard Kingdom Brunel (伊桑巴德·金德姆·布魯內爾)',
+        en: 'Built bridges, tunnels, ships, and Great Western Railway.',
+        zh: '建造橋樑、隧道、船隻和大西部鐵路。'
+      },
+      {
+        title: 'George & Robert Stephenson (佐治與羅伯特·史蒂芬生)',
+        en: 'Pioneered railway engines.',
+        zh: '鐵路機車先驅。'
+      },
+      {
+        title: 'John Logie Baird (約翰·羅傑·貝爾德)',
+        en: 'Developed television (1920s).',
+        zh: '開發電視（1920年代）。'
+      },
+      {
+        title: 'Sir Robert Watson-Watt (羅伯特·沃森-瓦特爵士)',
+        en: 'Developed Radar.',
+        zh: '開發雷達。'
+      },
+      {
+        title: 'Alan Turing (艾倫·圖靈)',
+        en: 'Invented Turing machine, influential in computer science.',
+        zh: '發明圖靈機，對電腦科學影響深遠。'
+      },
+      {
+        title: 'Sir Frank Whittle (法蘭克·惠特爾爵士)',
+        en: 'Developed jet engine.',
+        zh: '開發噴射引擎。'
+      },
+      {
+        title: 'Sir Christopher Cockerell (克里斯多福·科克雷爾爵士)',
+        en: 'Invented hovercraft.',
+        zh: '發明氣墊船。'
+      },
+      {
+        title: 'James Goodfellow (詹姆斯·古德費洛)',
+        en: 'Invented the ATM (cashpoint).',
+        zh: '發明自動櫃員機（ATM）。'
+      },
+      {
+        title: 'Sir Tim Berners-Lee (蒂姆·伯納斯-李爵士)',
+        en: 'Inventor of the World Wide Web.',
+        zh: '萬維網發明者。'
       }
     ]
   },
@@ -261,19 +456,149 @@ const STUDY_DATA = [
     title: 'Literature & Arts (文學與藝術)',
     content: [
       {
-        title: 'Writers & Poets (作家與詩人)',
-        en: 'William Shakespeare: Famous playwright (Hamlet, Romeo and Juliet) [cite: 907-909]. Geoffrey Chaucer: Wrote The Canterbury Tales[cite: 793]. Robert Burns: Scottish poet, wrote Auld Lang Syne [cite: 390-391]. Dylan Thomas: Welsh poet (Under Milk Wood) [cite: 212-214]. Rudyard Kipling: Wrote The Jungle Book and poem If [cite: 581-586]. Jane Austen: Pride and Prejudice[cite: 1276]. Charles Dickens: Oliver Twist, Great Expectations[cite: 1278]. Robert Louis Stevenson: Treasure Island[cite: 1280]. Thomas Hardy: Far from the Madding Crowd[cite: 1282]. Sir Arthur Conan Doyle: Sherlock Holmes[cite: 1283]. JK Rowling: Harry Potter series[cite: 1289]. JRR Tolkien: The Lord of the Rings[cite: 1272].',
-        zh: '威廉·莎士比亞：著名劇作家（《哈姆雷特》、《羅密歐與茱麗葉》）。傑弗里·喬叟：著有《坎特伯雷故事集》。羅伯特·伯恩斯：蘇格蘭詩人，寫下《友誼萬歲》。迪倫·托馬斯：威爾斯詩人（《牛奶樹下》）。魯德亞德·吉卜林：著有《叢林奇譚》和詩作《如果》。珍·奧斯汀：《傲慢與偏見》。查爾斯·狄更斯：《苦海孤雛》、《遠大前程》。羅伯特·路易斯·史蒂文森：《金銀島》。托馬斯·哈代：《遠離塵囂》。阿瑟·柯南·道爾爵士：《福爾摩斯》。JK羅琳：《哈利波特》系列。JRR托爾金：《魔戒》。'
+        title: 'William Shakespeare (威廉·莎士比亞)',
+        en: 'Famous playwright (Hamlet, Romeo and Juliet).',
+        zh: '著名劇作家（《哈姆雷特》、《羅密歐與茱麗葉》）。'
       },
       {
-        title: 'Artists & Architects (藝術家與建築師)',
-        en: 'Joseph Turner: Landscape painter[cite: 1220]. John Constable: Landscape painter (Dedham Vale)[cite: 1222]. Thomas Gainsborough: Portrait painter[cite: 1214]. Henry Moore: Sculptor (abstract bronze)[cite: 1227]. David Hockney: Pop art contributor[cite: 1230]. Sir Christopher Wren: Designed St Paul\'s Cathedral[cite: 992]. Sir Norman Foster & Zaha Hadid: Modern architects[cite: 1260]. Lancelot \'Capability\' Brown: Garden designer[cite: 1262].',
-        zh: '約瑟夫·透納：風景畫家。約翰·康斯特勃：風景畫家（戴德哈姆谷）。托馬斯·庚斯博羅：肖像畫家。亨利·摩爾：雕塑家（抽象青銅）。大衛·霍克尼：波普藝術貢獻者。克里斯多福·雷恩爵士：設計聖保羅大教堂。諾曼·福斯特爵士與扎哈·哈蒂：現代建築師。蘭斯洛特·「能力」·布朗：園林設計師。'
+        title: 'Geoffrey Chaucer (傑弗里·喬叟)',
+        en: 'Wrote The Canterbury Tales.',
+        zh: '著有《坎特伯雷故事集》。'
       },
       {
-        title: 'Music & Film (音樂與電影)',
-        en: 'Henry Purcell: Baroque composer[cite: 1150]. George Frederick Handel: Messiah, Water Music[cite: 1154]. Gustav Holst: The Planets[cite: 1156]. Sir Edward Elgar: Land of Hope and Glory[cite: 1158]. Andrew Lloyd Webber: Musicals (Phantom of the Opera)[cite: 1191]. The Beatles & Rolling Stones: Famous pop groups[cite: 228]. Charlie Chaplin: Silent movie actor[cite: 1453]. Sir Alfred Hitchcock: Director (The 39 Steps)[cite: 1454]. Nick Park: Animator (Wallace and Gromit)[cite: 1464].',
-        zh: '亨利·普賽爾：巴洛克作曲家。喬治·腓特烈·韓德爾：《彌賽亞》、《水上音樂》。古斯塔夫·霍爾斯特：《行星組曲》。愛德華·埃爾加爵士：《希望與榮耀的土地》。安德魯·洛伊·韋伯：音樂劇（《歌劇魅影》）。披頭四與滾石樂隊：著名流行樂隊。查理·卓別林：默片演員。亞佛烈·希治閣爵士：導演（《三十九級臺階》）。尼克·帕克：動畫師（《華萊士與葛羅米特》）。'
+        title: 'Robert Burns (羅伯特·伯恩斯)',
+        en: 'Scottish poet, wrote Auld Lang Syne.',
+        zh: '蘇格蘭詩人，寫下《友誼萬歲》。'
+      },
+      {
+        title: 'Dylan Thomas (迪倫·托馬斯)',
+        en: 'Welsh poet (Under Milk Wood).',
+        zh: '威爾斯詩人（《牛奶樹下》）。'
+      },
+      {
+        title: 'Rudyard Kipling (魯德亞德·吉卜林)',
+        en: 'Wrote The Jungle Book and poem If.',
+        zh: '著有《叢林奇譚》和詩作《如果》。'
+      },
+      {
+        title: 'Jane Austen (珍·奧斯汀)',
+        en: 'Author of Pride and Prejudice.',
+        zh: '《傲慢與偏見》作者。'
+      },
+      {
+        title: 'Charles Dickens (查爾斯·狄更斯)',
+        en: 'Author of Oliver Twist, Great Expectations.',
+        zh: '《苦海孤雛》、《遠大前程》作者。'
+      },
+      {
+        title: 'Robert Louis Stevenson (羅伯特·路易斯·史蒂文森)',
+        en: 'Author of Treasure Island.',
+        zh: '《金銀島》作者。'
+      },
+      {
+        title: 'Thomas Hardy (托馬斯·哈代)',
+        en: 'Author of Far from the Madding Crowd.',
+        zh: '《遠離塵囂》作者。'
+      },
+      {
+        title: 'Sir Arthur Conan Doyle (阿瑟·柯南·道爾爵士)',
+        en: 'Creator of Sherlock Holmes.',
+        zh: '《福爾摩斯》創作者。'
+      },
+      {
+        title: 'JK Rowling (JK羅琳)',
+        en: 'Author of Harry Potter series.',
+        zh: '《哈利波特》系列作者。'
+      },
+      {
+        title: 'JRR Tolkien (JRR托爾金)',
+        en: 'Author of The Lord of the Rings.',
+        zh: '《魔戒》作者。'
+      },
+      {
+        title: 'Joseph Turner (約瑟夫·透納)',
+        en: 'Landscape painter.',
+        zh: '風景畫家。'
+      },
+      {
+        title: 'John Constable (約翰·康斯特勃)',
+        en: 'Landscape painter (Dedham Vale).',
+        zh: '風景畫家（戴德哈姆谷）。'
+      },
+      {
+        title: 'Thomas Gainsborough (托馬斯·庚斯博羅)',
+        en: 'Portrait painter.',
+        zh: '肖像畫家。'
+      },
+      {
+        title: 'Henry Moore (亨利·摩爾)',
+        en: 'Sculptor (abstract bronze).',
+        zh: '雕塑家（抽象青銅）。'
+      },
+      {
+        title: 'David Hockney (大衛·霍克尼)',
+        en: 'Pop art contributor.',
+        zh: '波普藝術貢獻者。'
+      },
+      {
+        title: 'Sir Christopher Wren (克里斯多福·雷恩爵士)',
+        en: 'Designed St Paul Cathedral.',
+        zh: '設計聖保羅大教堂。'
+      },
+      {
+        title: 'Sir Norman Foster & Zaha Hadid (諾曼·福斯特爵士與扎哈·哈蒂)',
+        en: 'Modern architects.',
+        zh: '現代建築師。'
+      },
+      {
+        title: 'Lancelot \'Capability\' Brown (蘭斯洛特·「能力」·布朗)',
+        en: 'Garden designer.',
+        zh: '園林設計師。'
+      },
+      {
+        title: 'Henry Purcell (亨利·普賽爾)',
+        en: 'Baroque composer.',
+        zh: '巴洛克作曲家。'
+      },
+      {
+        title: 'George Frederick Handel (喬治·腓特烈·韓德爾)',
+        en: 'Composer of Messiah, Water Music.',
+        zh: '《彌賽亞》、《水上音樂》作曲家。'
+      },
+      {
+        title: 'Gustav Holst (古斯塔夫·霍爾斯特)',
+        en: 'Composer of The Planets.',
+        zh: '《行星組曲》作曲家。'
+      },
+      {
+        title: 'Sir Edward Elgar (愛德華·埃爾加爵士)',
+        en: 'Composer of Land of Hope and Glory.',
+        zh: '《希望與榮耀的土地》作曲家。'
+      },
+      {
+        title: 'Andrew Lloyd Webber (安德魯·洛伊·韋伯)',
+        en: 'Composer of musicals like Phantom of the Opera.',
+        zh: '《歌劇魅影》等音樂劇作曲家。'
+      },
+      {
+        title: 'The Beatles & Rolling Stones (披頭四與滾石樂隊)',
+        en: 'Famous pop groups.',
+        zh: '著名流行樂隊。'
+      },
+      {
+        title: 'Charlie Chaplin (查理·卓別林)',
+        en: 'Silent movie actor.',
+        zh: '默片演員。'
+      },
+      {
+        title: 'Sir Alfred Hitchcock (亞佛烈·希治閣爵士)',
+        en: 'Film Director (The 39 Steps).',
+        zh: '電影導演（《三十九級臺階》）。'
+      },
+      {
+        title: 'Nick Park (尼克·帕克)',
+        en: 'Animator (Wallace and Gromit).',
+        zh: '動畫師（《華萊士與葛羅米特》）。'
       }
     ]
   },
@@ -282,24 +607,94 @@ const STUDY_DATA = [
     title: 'Sportsmen & Sportswomen (體育名將)',
     content: [
       {
-        title: 'Track, Field & Racing (田徑與賽車)',
-        en: 'Sir Roger Bannister: First to run a mile in under 4 minutes (1954)[cite: 1649]. Sir Jackie Stewart: Won F1 World Championship 3 times[cite: 1650]. Dame Kelly Holmes: Two gold medals at 2004 Olympics[cite: 1660]. Mo Farah: Gold in 5,000m and 10,000m at 2012 Olympics[cite: 1669]. Jessica Ennis: Gold in heptathlon (2012)[cite: 1671]. Lewis Hamilton, Damon Hill, Jensen Button: F1 World Champions[cite: 1735].',
-        zh: '羅傑·班尼斯特爵士：1954年首位4分鐘內跑完一英里的人。積奇·史釗活爵士：3次獲得F1世界冠軍。凱利·霍爾姆斯女爵士：2004年奧運會雙金得主。莫·法拉：2012年奧運會5,000米和10,000米金牌。傑西卡·恩尼斯：2012年七項全能金牌。劉易斯·咸美頓、戴蒙·希爾、詹森·巴頓：F1世界冠軍。'
+        title: 'Sir Roger Bannister (羅傑·班尼斯特爵士)',
+        en: 'First to run a mile in under 4 minutes (1954).',
+        zh: '1954年首位4分鐘內跑完一英里的人。'
       },
       {
-        title: 'Team Sports & Water Sports (團體與水上運動)',
-        en: 'Bobby Moore: Captained England to win 1966 World Cup[cite: 1651]. Sir Ian Botham: Famous cricket captain[cite: 1652]. Sir Steve Redgrave: Gold in 5 consecutive Olympics (Rowing)[cite: 1654]. Sir Chris Hoy: 6 Olympic gold medals in cycling[cite: 1663]. Bradley Wiggins: First Briton to win Tour de France (2012)[cite: 1667]. Dame Ellen MacArthur: Fastest solo sail around the world (2004)[cite: 1662]. Sir Francis Chichester: First solo sail around the world (1966/67)[cite: 1726].',
-        zh: '波比·摩亞：帶領英格蘭贏得1966年世界盃的隊長。伊恩·博瑟姆爵士：著名板球隊長。史蒂夫·雷德格雷夫爵士：連續5屆奧運會划船金牌。基斯·霍伊爵士：單車項目6枚奧運金牌。布拉德利·威金斯：2012年首位贏得環法單車賽的英國人。艾倫·麥克阿瑟女爵士：2004年最快單人環球航行。法蘭西斯·奇切斯特爵士：1966/67年首位單人環球航行。'
+        title: 'Sir Jackie Stewart (積奇·史釗活爵士)',
+        en: 'Won F1 World Championship 3 times.',
+        zh: '3次獲得F1世界冠軍。'
       },
       {
-        title: 'Paralympians & Winter Sports (殘奧與冬季運動)',
-        en: 'Baroness Tanni-Grey Thompson: 16 Paralympic medals (11 gold)[cite: 1658]. David Weir: 6 gold Paralympic medals and 6 London Marathon wins[cite: 1665]. Ellie Simmonds: Gold medals in swimming (2008, 2012)[cite: 1675]. Torvill and Dean: Gold medal in ice dancing (1984)[cite: 1653].',
-        zh: '坦妮·格雷-湯普森女男爵：16枚殘奧獎牌（11金）。大衛·威爾：6枚殘奧金牌及6次倫敦馬拉松冠軍。艾莉·西蒙茲：游泳金牌得主（2008、2012）。托維爾和迪恩：1984年冰上舞蹈金牌。'
+        title: 'Dame Kelly Holmes (凱利·霍爾姆斯女爵士)',
+        en: 'Two gold medals at 2004 Olympics.',
+        zh: '2004年奧運會雙金得主。'
       },
       {
-        title: 'Tennis (網球)',
-        en: 'Andy Murray: Won US Open (2012), first British man to win a Grand Slam singles since 1936[cite: 1673].',
-        zh: '安迪·梅利：2012年贏得美國公開賽，是自1936年以來首位贏得大滿貫單打冠軍的英國男子選手。'
+        title: 'Mo Farah (莫·法拉)',
+        en: 'Gold in 5,000m and 10,000m at 2012 Olympics.',
+        zh: '2012年奧運會5,000米和10,000米金牌。'
+      },
+      {
+        title: 'Jessica Ennis (傑西卡·恩尼斯)',
+        en: 'Gold in heptathlon (2012).',
+        zh: '2012年七項全能金牌。'
+      },
+      {
+        title: 'Lewis Hamilton, Damon Hill, Jensen Button (劉易斯·咸美頓、戴蒙·希爾、詹森·巴頓)',
+        en: 'F1 World Champions.',
+        zh: 'F1世界冠軍。'
+      },
+      {
+        title: 'Bobby Moore (波比·摩亞)',
+        en: 'Captained England to win 1966 World Cup.',
+        zh: '帶領英格蘭贏得1966年世界盃的隊長。'
+      },
+      {
+        title: 'Sir Ian Botham (伊恩·博瑟姆爵士)',
+        en: 'Famous cricket captain.',
+        zh: '著名板球隊長。'
+      },
+      {
+        title: 'Sir Steve Redgrave (史蒂夫·雷德格雷夫爵士)',
+        en: 'Gold in 5 consecutive Olympics (Rowing).',
+        zh: '連續5屆奧運會划船金牌。'
+      },
+      {
+        title: 'Sir Chris Hoy (基斯·霍伊爵士)',
+        en: '6 Olympic gold medals in cycling.',
+        zh: '單車項目6枚奧運金牌。'
+      },
+      {
+        title: 'Bradley Wiggins (布拉德利·威金斯)',
+        en: 'First Briton to win Tour de France (2012).',
+        zh: '2012年首位贏得環法單車賽的英國人。'
+      },
+      {
+        title: 'Dame Ellen MacArthur (艾倫·麥克阿瑟女爵士)',
+        en: 'Fastest solo sail around the world (2004).',
+        zh: '2004年最快單人環球航行。'
+      },
+      {
+        title: 'Sir Francis Chichester (法蘭西斯·奇切斯特爵士)',
+        en: 'First solo sail around the world (1966/67).',
+        zh: '1966/67年首位單人環球航行。'
+      },
+      {
+        title: 'Baroness Tanni-Grey Thompson (坦妮·格雷-湯普森女男爵)',
+        en: '16 Paralympic medals (11 gold).',
+        zh: '16枚殘奧獎牌（11金）。'
+      },
+      {
+        title: 'David Weir (大衛·威爾)',
+        en: '6 gold Paralympic medals and 6 London Marathon wins.',
+        zh: '6枚殘奧金牌及6次倫敦馬拉松冠軍。'
+      },
+      {
+        title: 'Ellie Simmonds (艾莉·西蒙茲)',
+        en: 'Gold medals in swimming (2008, 2012).',
+        zh: '游泳金牌得主（2008、2012）。'
+      },
+      {
+        title: 'Torvill and Dean (托維爾和迪恩)',
+        en: 'Gold medal in ice dancing (1984).',
+        zh: '1984年冰上舞蹈金牌。'
+      },
+      {
+        title: 'Andy Murray (安迪·梅利)',
+        en: 'Won US Open (2012), first British man to win a Grand Slam singles since 1936.',
+        zh: '2012年贏得美國公開賽，是自1936年以來首位贏得大滿貫單打冠軍的英國男子選手。'
       }
     ]
   }

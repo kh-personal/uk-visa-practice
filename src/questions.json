@@ -19149,8 +19149,6 @@
     "explanation": "Sir Robert Walpole is considered the first Prime Minister (1721-1742).",
     "explanationZh": "羅伯特·沃波爾爵士被認為是第一任首相 (1721-1742)。"
   },
-
-  // --- Exam 21 (IDs 889 - 912) ---
   {
     "id": 889,
     "examId": 21,
@@ -19679,8 +19677,6 @@
     "explanation": "Emmeline Pankhurst led the Suffragette movement.",
     "explanationZh": "艾米琳·潘克斯特領導了婦女參政運動。"
   },
-
-  // --- Exam 22 (IDs 913 - 936) ---
   {
     "id": 913,
     "examId": 22,
@@ -20208,5 +20204,1513 @@
     "category": "Government",
     "explanation": "The Speaker chairs debates in the House of Commons.",
     "explanationZh": "議長主持下議院的辯論。"
+  },
+  {
+    "id": 937,
+    "examId": 23,
+    "question": "Who was one of the founders of England's naval tradition?",
+    "questionZh": "誰是英國海軍傳統的創始人之一？",
+    "options": [
+      "Sir Francis Drake",
+      "King James",
+      "William Shakespeare",
+      "Oliver Cromwell"
+    ],
+    "optionsZh": [
+      "法蘭西斯·德雷克爵士",
+      "詹姆斯國王",
+      "威廉·莎士比亞",
+      "奧利弗·克倫威爾"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Sir Francis Drake was one of the founders of England's naval tradition.",
+    "explanationZh": "法蘭西斯·德雷克爵士是英國海軍傳統的創始人之一。"
+  },
+  {
+    "id": 938,
+    "examId": 23,
+    "question": "How many Houses did the Scottish Parliament have in the middle ages?",
+    "questionZh": "中世紀蘇格蘭議會有多少個院？",
+    "options": [
+      "3",
+      "6",
+      "2",
+      "4"
+    ],
+    "optionsZh": [
+      "3個",
+      "6個",
+      "2個",
+      "4個"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "In the middle ages the Scottish Parliament had three Houses, called Estates.",
+    "explanationZh": "在中世紀，蘇格蘭議會有三個院，稱為等級 (Estates)。"
+  },
+  {
+    "id": 939,
+    "examId": 23,
+    "question": "Which clan was killed because of not taking an oath?",
+    "questionZh": "哪個氏族因未宣誓而被殺？",
+    "options": [
+      "The MacDonalds of Sleat",
+      "The MacDonalds of Glencoe",
+      "The MacDonalds of Clanranald",
+      "The MacDonalds of Keppoch"
+    ],
+    "optionsZh": [
+      "斯利特的麥克唐納",
+      "格倫科的麥克唐納",
+      "克蘭拉納爾德的麥克唐納",
+      "凱波克的麥克唐納"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The MacDonalds of Glencoe were late in taking the oath and were all killed.",
+    "explanationZh": "格倫科的麥克唐納家族宣誓遲到，全部被殺。"
+  },
+  {
+    "id": 940,
+    "examId": 23,
+    "question": "What information about you is asked at the polling station?",
+    "questionZh": "在投票站會詢問您的什麼信息？",
+    "options": [
+      "Your name and telephone number",
+      "Your name and address",
+      "Your name and age",
+      "Your name, contact details and age"
+    ],
+    "optionsZh": [
+      "您的姓名和電話號碼",
+      "您的姓名和地址",
+      "您的姓名和年齡",
+      "您的姓名、聯繫方式和年齡"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "The staff will ask for your name and address.",
+    "explanationZh": "工作人員會詢問您的姓名和地址。"
+  },
+  {
+    "id": 941,
+    "examId": 23,
+    "question": "What treaty was signed in 1707?",
+    "questionZh": "1707年簽署了什麼條約？",
+    "options": [
+      "The Act for Government of Wales",
+      "The Act of Union",
+      "The Great Union",
+      "The Act of Great Britain"
+    ],
+    "optionsZh": [
+      "威爾斯政府法案",
+      "聯合法案 (The Act of Union)",
+      "大聯盟",
+      "大不列顛法案"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Act of Union was agreed in 1707, creating the Kingdom of Great Britain.",
+    "explanationZh": "《聯合法案》於1707年達成協議，建立了大不列顛王國。"
+  },
+  {
+    "id": 942,
+    "examId": 23,
+    "question": "Which was the last successful invasion of Britain?",
+    "questionZh": "哪次是最後一次成功入侵英國？",
+    "options": [
+      "The Roman invasion",
+      "The Norman Conquest",
+      "The Anglo Saxon invasion",
+      "The Viking invasion"
+    ],
+    "optionsZh": [
+      "羅馬入侵",
+      "諾曼征服",
+      "盎格魯撒克遜入侵",
+      "維京入侵"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Norman Conquest was the last successful foreign invasion of England.",
+    "explanationZh": "諾曼征服是最後一次成功的外國入侵英格蘭。"
+  },
+  {
+    "id": 943,
+    "examId": 23,
+    "question": "When was the time of growing patriotism?",
+    "questionZh": "什麼時候是愛國主義日益增長的時期？",
+    "options": [
+      "The Iron Age",
+      "The Elizabethan period",
+      "The Victorian Age",
+      "The Golden Age"
+    ],
+    "optionsZh": [
+      "鐵器時代",
+      "伊麗莎白時期",
+      "維多利亞時代",
+      "黃金時代"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Elizabethan period in England was a time of growing patriotism.",
+    "explanationZh": "英格蘭的伊麗莎白時期是愛國主義日益增長的時期。"
+  },
+  {
+    "id": 944,
+    "examId": 23,
+    "question": "Which TWO changes did the Chartists campaign for?",
+    "questionZh": "憲章派爭取哪兩項變革？",
+    "options": [
+      "Secret ballots",
+      "For every woman to have the vote",
+      "Elections every year",
+      "Elections every 3 years"
+    ],
+    "optionsZh": [
+      "無記名投票",
+      "每個婦女都有投票權",
+      "每年選舉",
+      "每3年選舉"
+    ],
+    "correctAnswer": [0, 2],
+    "category": "History",
+    "explanation": "They wanted secret ballots and elections every year.",
+    "explanationZh": "他們想要無記名投票和每年選舉。"
+  },
+  {
+    "id": 945,
+    "examId": 23,
+    "question": "The Corn Laws were repealed in 1846. These had prevented the import of cheap grain.",
+    "questionZh": "《穀物法》於1846年被廢除。這些法律曾阻止廉價穀物的進口。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The statement is true.",
+    "explanationZh": "此陳述是正確的。"
+  },
+  {
+    "id": 946,
+    "examId": 23,
+    "question": "What are Halloween lanterns traditionally made out of?",
+    "questionZh": "萬聖節燈籠傳統上是用什麼做的？",
+    "options": [
+      "Potatoes",
+      "Cucumbers",
+      "Apples",
+      "Pumpkins"
+    ],
+    "optionsZh": [
+      "馬鈴薯",
+      "黃瓜",
+      "蘋果",
+      "南瓜"
+    ],
+    "correctAnswer": 3,
+    "category": "Customs",
+    "explanation": "People carve lanterns out of pumpkins.",
+    "explanationZh": "人們用南瓜雕刻燈籠。"
+  },
+  {
+    "id": 947,
+    "examId": 23,
+    "question": "The Speaker also represents Parliament on ceremonial occasions.",
+    "questionZh": "議長還在儀式場合代表議會。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "The Speaker represents Parliament on ceremonial occasions.",
+    "explanationZh": "議長在儀式場合代表議會。"
+  },
+  {
+    "id": 948,
+    "examId": 23,
+    "question": "You must treat everyone equally, regardless of sex, race, age, religion, disability, class or sexual orientation.",
+    "questionZh": "您必須平等對待每個人，無論性別、種族、年齡、宗教、殘疾、階級或性取向如何。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Values",
+    "explanation": "The statement is true.",
+    "explanationZh": "此陳述是正確的。"
+  },
+  {
+    "id": 949,
+    "examId": 23,
+    "question": "In the 2021 England and Wales census, what percentage of people identified themselves as Christian?",
+    "questionZh": "在2021年英格蘭和威爾斯人口普查中，有多少百分比的人認為自己是基督徒？",
+    "options": [
+      "91%",
+      "46%",
+      "34%",
+      "63%"
+    ],
+    "optionsZh": [
+      "91%",
+      "46%",
+      "34%",
+      "63%"
+    ],
+    "correctAnswer": 1,
+    "category": "Society",
+    "explanation": "46% of people identified themselves as Christian.",
+    "explanationZh": "46%的人認為自己是基督徒。"
+  },
+  {
+    "id": 950,
+    "examId": 23,
+    "question": "At the beginning of the Middle Ages, Ireland was an independent country.",
+    "questionZh": "在中世紀初期，愛爾蘭是一個獨立國家。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "At the beginning of the Middle Ages, Ireland was an independent country.",
+    "explanationZh": "在中世紀初期，愛爾蘭是一個獨立國家。"
+  },
+  {
+    "id": 951,
+    "examId": 23,
+    "question": "Who led the Scottish, in 1314, to defeat the English at the Battle of Bannockburn?",
+    "questionZh": "1314年，誰帶領蘇格蘭人在班諾克本戰役中擊敗了英格蘭人？",
+    "options": [
+      "Oliver Cromwell",
+      "William of Orange",
+      "Robert the Bruce",
+      "Robert Burns"
+    ],
+    "optionsZh": [
+      "奧利弗·克倫威爾",
+      "奧蘭治的威廉",
+      "羅伯特·布魯斯",
+      "羅伯特·伯恩斯"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Robert the Bruce led the Scottish.",
+    "explanationZh": "羅伯特·布魯斯領導了蘇格蘭人。"
+  },
+  {
+    "id": 952,
+    "examId": 23,
+    "question": "The Reform Act of 1832 took away the automatic right of hereditary peers to attend the House of Lords.",
+    "questionZh": "1832年的改革法案剝奪了世襲貴族出席上議院的自動權利。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "This happened in 1999, not 1832.",
+    "explanationZh": "這發生在1999年，而不是1832年。"
+  },
+  {
+    "id": 953,
+    "examId": 23,
+    "question": "The chairperson of the General Assembly of the Church of Scotland is the Moderator, who is appointed for the whole lifetime to speak on behalf of that Church.",
+    "questionZh": "蘇格蘭教會大會的主席是主持人，他是終身任命代表該教會發言的。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "Customs",
+    "explanation": "The Moderator is appointed for one year only.",
+    "explanationZh": "主持人僅被任命一年。"
+  },
+  {
+    "id": 954,
+    "examId": 23,
+    "question": "The Protestants formed their own churches during the Reformation.",
+    "questionZh": "新教徒在宗教改革期間組建了自己的教會。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Protestants formed their own churches.",
+    "explanationZh": "新教徒組建了自己的教會。"
+  },
+  {
+    "id": 955,
+    "examId": 23,
+    "question": "If you wish to be a permanent resident of the UK, you should look after yourself. In return you are guaranteed a job.",
+    "questionZh": "如果您希望成為英國的永久居民，您應該照顧好自己。作為回報，您將獲得一份工作保障。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "Values",
+    "explanation": "You are not guaranteed a job.",
+    "explanationZh": "您沒有工作保障。"
+  },
+  {
+    "id": 956,
+    "examId": 23,
+    "question": "What did the Beveridge Report of 1942, by William Beveridge, provide the basis for?",
+    "questionZh": "1942年威廉·貝弗里奇的《貝弗里奇報告》為什麼提供了基礎？",
+    "options": [
+      "Education for All",
+      "The Modern Welfare State",
+      "NHS",
+      "Equal Rights for Women"
+    ],
+    "optionsZh": [
+      "全民教育",
+      "現代福利國家",
+      "國民醫療服務體系 (NHS)",
+      "婦女平等權利"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "It provided the basis of the modern welfare state.",
+    "explanationZh": "它為現代福利國家提供了基礎。"
+  },
+  {
+    "id": 957,
+    "examId": 23,
+    "question": "Which TWO are safe places to go and stay in for anyone facing domestic violence?",
+    "questionZh": "哪兩個地方是面臨家庭暴力的人可以去住的安全地方？",
+    "options": [
+      "Carehome",
+      "Refuge",
+      "Community Centre",
+      "Shelter"
+    ],
+    "optionsZh": [
+      "護理院",
+      "避難所 (Refuge)",
+      "社區中心",
+      "收容所 (Shelter)"
+    ],
+    "correctAnswer": [1, 3],
+    "category": "Law",
+    "explanation": "Refuges or shelters are safe places.",
+    "explanationZh": "避難所或收容所是安全的地方。"
+  },
+  {
+    "id": 958,
+    "examId": 23,
+    "question": "How are members of Parliament (MPs) elected?",
+    "questionZh": "國會議員 (MPs) 是如何選舉產生的？",
+    "options": [
+      "First past the post",
+      "Proportional representation",
+      "Open Ballot",
+      "Online Voting"
+    ],
+    "optionsZh": [
+      "簡單多數制 (First past the post)",
+      "比例代表制",
+      "公開投票",
+      "網上投票"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "MPs are elected through 'first past the post'.",
+    "explanationZh": "國會議員通過「簡單多數制」選舉產生。"
+  },
+  {
+    "id": 959,
+    "examId": 23,
+    "question": "The European Union was originally called the EEC.",
+    "questionZh": "歐盟最初被稱為歐洲經濟共同體 (EEC)。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The EU was originally called the European Economic Community (EEC).",
+    "explanationZh": "歐盟最初被稱為歐洲經濟共同體 (EEC)。"
+  },
+  {
+    "id": 960,
+    "examId": 23,
+    "question": "Which Admiral's Column is in Trafalgar Square, London?",
+    "questionZh": "倫敦特拉法加廣場上是哪位海軍上將的紀念柱？",
+    "options": [
+      "Francis Drake",
+      "Christopher Wren",
+      "Charles I",
+      "Nelson"
+    ],
+    "optionsZh": [
+      "法蘭西斯·德雷克",
+      "克里斯多福·雷恩",
+      "查理一世",
+      "納爾遜"
+    ],
+    "correctAnswer": 3,
+    "category": "Landmarks",
+    "explanation": "Nelson's Column is in Trafalgar Square.",
+    "explanationZh": "納爾遜紀念柱位於特拉法加廣場。"
+  },
+  {
+    "id": 961,
+    "examId": 24,
+    "question": "Which TWO are British Overseas territories?",
+    "questionZh": "哪兩個是英國海外領土？",
+    "options": [
+      "Hawaii",
+      "Ireland",
+      "St Helena",
+      "The Falkland Islands"
+    ],
+    "optionsZh": [
+      "夏威夷",
+      "愛爾蘭",
+      "聖赫勒拿島",
+      "福克蘭群島"
+    ],
+    "correctAnswer": [2, 3],
+    "category": "Geography",
+    "explanation": "St Helena and the Falkland Islands are British overseas territories.",
+    "explanationZh": "聖赫勒拿島和福克蘭群島是英國海外領土。"
+  },
+  {
+    "id": 962,
+    "examId": 24,
+    "question": "Which flag has a white cross on a blue background?",
+    "questionZh": "哪面旗幟是藍底白十字？",
+    "options": [
+      "English",
+      "Irish",
+      "Welsh",
+      "Scottish"
+    ],
+    "optionsZh": [
+      "英格蘭",
+      "愛爾蘭",
+      "威爾斯",
+      "蘇格蘭"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "The Scottish flag has a white cross on a blue background.",
+    "explanationZh": "蘇格蘭旗幟是藍底白十字。"
+  },
+  {
+    "id": 963,
+    "examId": 24,
+    "question": "Where does the Fringe take place?",
+    "questionZh": "藝穗節 (The Fringe) 在哪裡舉行？",
+    "options": [
+      "Liverpool",
+      "Edinburgh",
+      "London",
+      "Newcastle"
+    ],
+    "optionsZh": [
+      "利物浦",
+      "愛丁堡",
+      "倫敦",
+      "紐卡斯爾"
+    ],
+    "correctAnswer": 1,
+    "category": "Culture",
+    "explanation": "The Fringe takes place in Edinburgh.",
+    "explanationZh": "藝穗節在愛丁堡舉行。"
+  },
+  {
+    "id": 964,
+    "examId": 24,
+    "question": "When did the Roman army leave Britain?",
+    "questionZh": "羅馬軍隊何時離開不列顛？",
+    "options": [
+      "AD 43",
+      "AD 410",
+      "AD 630",
+      "AD 100"
+    ],
+    "optionsZh": [
+      "西元43年",
+      "西元410年",
+      "西元630年",
+      "西元100年"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "The Roman army left Britain in AD 410.",
+    "explanationZh": "羅馬軍隊於西元410年離開不列顛。"
+  },
+  {
+    "id": 965,
+    "examId": 24,
+    "question": "What helped the progress of the industrial revolution?",
+    "questionZh": "什麼推動了工業革命的進程？",
+    "options": [
+      "Human Nature ideas",
+      "New Economics ideas",
+      "New Political Ideas",
+      "Steam Power"
+    ],
+    "optionsZh": [
+      "人性思想",
+      "新經濟思想",
+      "新政治思想",
+      "蒸汽動力"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "Steam power helped the progress of the Industrial Revolution.",
+    "explanationZh": "蒸汽動力推動了工業革命的進程。"
+  },
+  {
+    "id": 966,
+    "examId": 24,
+    "question": "What was the estimated population of the British Empire?",
+    "questionZh": "大英帝國的估計人口是多少？",
+    "options": [
+      "400 million",
+      "350 million",
+      "300 million",
+      "250 million"
+    ],
+    "optionsZh": [
+      "4億",
+      "3.5億",
+      "3億",
+      "2.5億"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "It had an estimated population of more than 400 million people.",
+    "explanationZh": "估計人口超過4億。"
+  },
+  {
+    "id": 967,
+    "examId": 24,
+    "question": "How many times did Sir Jackie Stewart win the Formula 1 championship?",
+    "questionZh": "傑奇·史都華爵士贏得過多少次一級方程式冠軍？",
+    "options": [
+      "3",
+      "4",
+      "2",
+      "1"
+    ],
+    "optionsZh": [
+      "3次",
+      "4次",
+      "2次",
+      "1次"
+    ],
+    "correctAnswer": 0,
+    "category": "Sports",
+    "explanation": "Sir Jackie Stewart won the championship three times.",
+    "explanationZh": "傑奇·史都華爵士贏得過三次冠軍。"
+  },
+  {
+    "id": 968,
+    "examId": 24,
+    "question": "Who was R. A. Butler?",
+    "questionZh": "R·A·巴特勒是誰？",
+    "options": [
+      "A Conservative MP",
+      "A Poet",
+      "Minister of Health",
+      "An Economist"
+    ],
+    "optionsZh": [
+      "一位保守黨議員",
+      "一位詩人",
+      "衛生部長",
+      "一位經濟學家"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "He was a Conservative MP.",
+    "explanationZh": "他是一位保守黨議員。"
+  },
+  {
+    "id": 969,
+    "examId": 24,
+    "question": "What county is 'Maiden Castle' in?",
+    "questionZh": "「少女城堡」在哪個郡？",
+    "options": [
+      "Berkshire",
+      "Lothians",
+      "Wiltshire",
+      "Dorset"
+    ],
+    "optionsZh": [
+      "伯克郡",
+      "洛錫安",
+      "威爾特郡",
+      "多塞特郡"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "Maiden Castle is in Dorset.",
+    "explanationZh": "少女城堡在多塞特郡。"
+  },
+  {
+    "id": 970,
+    "examId": 24,
+    "question": "What country did Britain fight against during the Crimean War?",
+    "questionZh": "克里米亞戰爭期間，英國與哪個國家作戰？",
+    "options": [
+      "France",
+      "Russia",
+      "India",
+      "Turkey"
+    ],
+    "optionsZh": [
+      "法國",
+      "俄羅斯",
+      "印度",
+      "土耳其"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Britain fought against Russia.",
+    "explanationZh": "英國與俄羅斯作戰。"
+  },
+  {
+    "id": 971,
+    "examId": 24,
+    "question": "The Medieval Period is referred to the period after the Norman Conquest up until what year?",
+    "questionZh": "中世紀是指諾曼征服後直到哪一年？",
+    "options": [
+      "1400",
+      "1385",
+      "1455",
+      "1485"
+    ],
+    "optionsZh": [
+      "1400年",
+      "1385年",
+      "1455年",
+      "1485年"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "It is up until about 1485.",
+    "explanationZh": "直到大約1485年。"
+  },
+  {
+    "id": 972,
+    "examId": 24,
+    "question": "In Northern Ireland, minor cases are heard by a District Judge or Deputy District Judge, who is legally qualified and paid.",
+    "questionZh": "在北愛爾蘭，輕微案件由具有法律資格並受薪的地區法官或副地區法官審理。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 0,
+    "category": "Law",
+    "explanation": "The statement is true.",
+    "explanationZh": "此陳述是正確的。"
+  },
+  {
+    "id": 973,
+    "examId": 24,
+    "question": "How long does it take to give blood?",
+    "questionZh": "捐血需要多長時間？",
+    "options": [
+      "About 3 hours",
+      "About 10 mins",
+      "About 20 mins",
+      "About 1 hour"
+    ],
+    "optionsZh": [
+      "約3小時",
+      "約10分鐘",
+      "約20分鐘",
+      "約1小時"
+    ],
+    "correctAnswer": 3,
+    "category": "Society",
+    "explanation": "Giving blood only takes about an hour.",
+    "explanationZh": "捐血只需要大約一個小時。"
+  },
+  {
+    "id": 974,
+    "examId": 24,
+    "question": "Falkland Islands are a Crown Dependency.",
+    "questionZh": "福克蘭群島是皇家屬地。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "Geography",
+    "explanation": "The Falkland Islands are a British Overseas Territory, not a Crown Dependency.",
+    "explanationZh": "福克蘭群島是英國海外領土，不是皇家屬地。"
+  },
+  {
+    "id": 975,
+    "examId": 24,
+    "question": "Which of these statements is incorrect?",
+    "questionZh": "以下哪項陳述是不正確的？",
+    "options": [
+      "Selling or buying drugs such as heroin is illegal in the UK",
+      "It's a criminal offence to offend one's religion or ethnic origin",
+      "It's a criminal offence to carry a weapon of any kind",
+      "It's a criminal offence to owe someone money"
+    ],
+    "optionsZh": [
+      "在英國買賣海洛因等毒品是違法的",
+      "冒犯他人的宗教或種族是刑事犯罪",
+      "攜帶任何類型的武器是刑事犯罪",
+      "欠別人錢是刑事犯罪"
+    ],
+    "correctAnswer": 3,
+    "category": "Law",
+    "explanation": "Owing money is a civil offence, not criminal.",
+    "explanationZh": "欠錢是民事違法，不是刑事犯罪。"
+  },
+  {
+    "id": 976,
+    "examId": 24,
+    "question": "Which TWO countries took part in the development of Concorde?",
+    "questionZh": "哪兩個國家參與了協和號的開發？",
+    "options": [
+      "UK",
+      "France",
+      "Russia",
+      "USA"
+    ],
+    "optionsZh": [
+      "英國",
+      "法國",
+      "俄羅斯",
+      "美國"
+    ],
+    "correctAnswer": [0, 1],
+    "category": "Science",
+    "explanation": "Britain and France developed Concorde.",
+    "explanationZh": "英國和法國開發了協和號。"
+  },
+  {
+    "id": 977,
+    "examId": 24,
+    "question": "Which of the following statements is correct?",
+    "questionZh": "以下哪項陳述是正確的？",
+    "options": [
+      "Charles I's army was defeated at the Battle of Marston Moor but won the Battle of Naseby",
+      "Parliament won the English Civil War"
+    ],
+    "optionsZh": [
+      "查理一世的軍隊在馬斯頓摩爾戰役中被擊敗，但在納西比戰役中獲勝",
+      "議會贏得了英格蘭內戰"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Parliament won the English Civil War.",
+    "explanationZh": "議會贏得了英格蘭內戰。"
+  },
+  {
+    "id": 978,
+    "examId": 24,
+    "question": "What is the highest denomination of coins one can find in the UK?",
+    "questionZh": "在英國可以找到的最高面額硬幣是多少？",
+    "options": [
+      "£20",
+      "£50",
+      "£2",
+      "£1"
+    ],
+    "optionsZh": [
+      "20英鎊",
+      "50英鎊",
+      "2英鎊",
+      "1英鎊"
+    ],
+    "correctAnswer": 2,
+    "category": "Customs",
+    "explanation": "The highest value coin is £2.",
+    "explanationZh": "最高面值的硬幣是2英鎊。"
+  },
+  {
+    "id": 979,
+    "examId": 24,
+    "question": "Sir Ian Botham is famous for his achievements in which sport?",
+    "questionZh": "伊恩·博瑟姆爵士因在該項運動的成就而聞名？",
+    "options": [
+      "Cycling",
+      "Cricket",
+      "Football",
+      "Rugby"
+    ],
+    "optionsZh": [
+      "自行車",
+      "板球",
+      "足球",
+      "橄欖球"
+    ],
+    "correctAnswer": 1,
+    "category": "Sports",
+    "explanation": "Sir Ian Botham is famous for cricket.",
+    "explanationZh": "伊恩·博瑟姆爵士以板球聞名。"
+  },
+  {
+    "id": 980,
+    "examId": 24,
+    "question": "National Trust is a charity that works to preserve important buildings, coastline and countryside.",
+    "questionZh": "國民信託是一個致力於保護重要建築、海岸線和鄉村的慈善機構。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Society",
+    "explanation": "The statement is true.",
+    "explanationZh": "此陳述是正確的。"
+  },
+  {
+    "id": 981,
+    "examId": 24,
+    "question": "What character did Charlie Chaplin play?",
+    "questionZh": "查理·卓別林扮演了什麼角色？",
+    "options": [
+      "Tramp",
+      "Comedian",
+      "Hero",
+      "Detective"
+    ],
+    "optionsZh": [
+      "流浪漢",
+      "喜劇演員",
+      "英雄",
+      "偵探"
+    ],
+    "correctAnswer": 0,
+    "category": "Arts",
+    "explanation": "He became famous for his tramp character.",
+    "explanationZh": "他因流浪漢角色而成名。"
+  },
+  {
+    "id": 982,
+    "examId": 24,
+    "question": "Who ran 1 mile in 4 minutes in 1954?",
+    "questionZh": "誰在1954年以4分鐘跑完1英里？",
+    "options": [
+      "Sir Roger Bannister",
+      "Sir Jackie Stewart",
+      "Sir Steve Redgrave",
+      "Sir Chris Hoy"
+    ],
+    "optionsZh": [
+      "羅傑·班尼斯特爵士",
+      "傑奇·史都華爵士",
+      "史蒂夫·雷德格雷夫爵士",
+      "克里斯·霍伊爵士"
+    ],
+    "correctAnswer": 0,
+    "category": "Sports",
+    "explanation": "Sir Roger Bannister ran a mile in under 4 minutes in 1954.",
+    "explanationZh": "羅傑·班尼斯特爵士在1954年以不到4分鐘的時間跑完一英里。"
+  },
+  {
+    "id": 983,
+    "examId": 24,
+    "question": "Queen Elizabeth I was a devout Catholic and persecuted Protestants.",
+    "questionZh": "伊麗莎白一世女王是虔誠的天主教徒並迫害新教徒。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "Elizabeth I was a Protestant. It was Mary who was Catholic.",
+    "explanationZh": "伊麗莎白一世是新教徒。瑪麗才是天主教徒。"
+  },
+  {
+    "id": 984,
+    "examId": 24,
+    "question": "When did the UK join the EU?",
+    "questionZh": "英國何時加入歐盟？",
+    "options": [
+      "1973",
+      "1957",
+      "1961",
+      "1967"
+    ],
+    "optionsZh": [
+      "1973年",
+      "1957年",
+      "1961年",
+      "1967年"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The UK joined in 1973.",
+    "explanationZh": "英國於1973年加入。"
+  },
+  {
+    "id": 985,
+    "examId": 25,
+    "question": "Who defeated Napoleon at the Battle of Waterloo?",
+    "questionZh": "誰在滑鐵盧戰役中擊敗了拿破崙？",
+    "options": [
+      "Nelson",
+      "Henry VII",
+      "Louis XIV",
+      "The Duke of Wellington"
+    ],
+    "optionsZh": [
+      "納爾遜",
+      "亨利七世",
+      "路易十四",
+      "威靈頓公爵"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "The Duke of Wellington defeated Napoleon.",
+    "explanationZh": "威靈頓公爵擊敗了拿破崙。"
+  },
+  {
+    "id": 986,
+    "examId": 25,
+    "question": "What is the National Anthem of the UK?",
+    "questionZh": "英國的國歌是什麼？",
+    "options": [
+      "God Save the King/Queen",
+      "God Save the UK",
+      "King reign over the UK",
+      "United we stand"
+    ],
+    "optionsZh": [
+      "天佑國王/女王",
+      "上帝保佑英國",
+      "國王統治英國",
+      "我們團結一致"
+    ],
+    "correctAnswer": 0,
+    "category": "Customs",
+    "explanation": "The National Anthem is 'God Save the King/Queen'.",
+    "explanationZh": "國歌是《天佑國王/女王》。"
+  },
+  {
+    "id": 987,
+    "examId": 25,
+    "question": "Who was the first Danish King?",
+    "questionZh": "誰是第一位丹麥國王？",
+    "options": [
+      "Kenneth MacAlpin",
+      "Cnut also 'Canute'",
+      "William",
+      "Harold"
+    ],
+    "optionsZh": [
+      "凱文·麥克阿爾平",
+      "克努特 (Cnut) 也叫 'Canute'",
+      "威廉",
+      "哈羅德"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "Cnut (Canute) was the first Danish King.",
+    "explanationZh": "克努特 (Canute) 是第一位丹麥國王。"
+  },
+  {
+    "id": 988,
+    "examId": 25,
+    "question": "How long is Hanukkah celebrated for?",
+    "questionZh": "光明節慶祝多久？",
+    "options": [
+      "9 days",
+      "7 days",
+      "8 days",
+      "10 days"
+    ],
+    "optionsZh": [
+      "9天",
+      "7天",
+      "8天",
+      "10天"
+    ],
+    "correctAnswer": 2,
+    "category": "Customs",
+    "explanation": "Hanukkah is celebrated for eight days.",
+    "explanationZh": "光明節慶祝八天。"
+  },
+  {
+    "id": 989,
+    "examId": 25,
+    "question": "How old do you have to be to buy a lottery ticket or a scratch card?",
+    "questionZh": "購買彩票或刮刮卡需要幾歲？",
+    "options": [
+      "18",
+      "16",
+      "15",
+      "17"
+    ],
+    "optionsZh": [
+      "18歲",
+      "16歲",
+      "15歲",
+      "17歲"
+    ],
+    "correctAnswer": 0,
+    "category": "Law",
+    "explanation": "You must be 18 (changed from 16) to buy a lottery ticket.",
+    "explanationZh": "您必須年滿18歲（原為16歲）才能購買彩票。"
+  },
+  {
+    "id": 990,
+    "examId": 25,
+    "question": "How many 'local authorities' does the city of London have?",
+    "questionZh": "倫敦市有多少個「地方當局」？",
+    "options": [
+      "33",
+      "21",
+      "5",
+      "15"
+    ],
+    "optionsZh": [
+      "33個",
+      "21個",
+      "5個",
+      "15個"
+    ],
+    "correctAnswer": 0,
+    "category": "Government",
+    "explanation": "London has 33 local authorities.",
+    "explanationZh": "倫敦有33個地方當局。"
+  },
+  {
+    "id": 991,
+    "examId": 25,
+    "question": "Who developed important Economics ideas?",
+    "questionZh": "誰發展了重要的經濟學思想？",
+    "options": [
+      "David Hume",
+      "James Watt",
+      "Adam Smith",
+      "Richard Arkwright"
+    ],
+    "optionsZh": [
+      "大衛·休謨",
+      "詹姆斯·瓦特",
+      "亞當·斯密",
+      "理查·阿克萊特"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "Adam Smith developed important economics ideas.",
+    "explanationZh": "亞當·斯密發展了重要的經濟學思想。"
+  },
+  {
+    "id": 992,
+    "examId": 25,
+    "question": "What happens at 11:00 on the Remembrance Day?",
+    "questionZh": "國殤紀念日上午11:00會發生什麼？",
+    "options": [
+      "A 10 second silence",
+      "A 30 second silence",
+      "A 1 minute silence",
+      "A 2 minute silence"
+    ],
+    "optionsZh": [
+      "默哀10秒",
+      "默哀30秒",
+      "默哀1分鐘",
+      "默哀2分鐘"
+    ],
+    "correctAnswer": 3,
+    "category": "Customs",
+    "explanation": "There is a two-minute silence at 11:00 am.",
+    "explanationZh": "上午11:00有兩分鐘的默哀。"
+  },
+  {
+    "id": 993,
+    "examId": 25,
+    "question": "What was the purpose of the Emancipation Act?",
+    "questionZh": "《解放法案》的目的是什麼？",
+    "options": [
+      "Abolish slavery in the British Empire",
+      "Freedom of speech",
+      "Freedom of religion",
+      "No one could be held prisoner unlawfully"
+    ],
+    "optionsZh": [
+      "廢除大英帝國的奴隸制",
+      "言論自由",
+      "宗教自由",
+      "任何人不得被非法拘禁"
+    ],
+    "correctAnswer": 0,
+    "category": "History",
+    "explanation": "The Emancipation Act abolished slavery in the British Empire.",
+    "explanationZh": "《解放法案》廢除了大英帝國的奴隸制。"
+  },
+  {
+    "id": 994,
+    "examId": 25,
+    "question": "Who was the first 'Scottish King'?",
+    "questionZh": "誰是第一位「蘇格蘭國王」？",
+    "options": [
+      "William I",
+      "Harold",
+      "Cnut also 'Canute'",
+      "Kenneth MacAlpin"
+    ],
+    "optionsZh": [
+      "威廉一世",
+      "哈羅德",
+      "克努特 (Cnut) 也叫 'Canute'",
+      "凱文·麥克阿爾平"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "Kenneth MacAlpin united the people and became the first king of Scotland.",
+    "explanationZh": "凱文·麥克阿爾平團結了人民，成為第一位蘇格蘭國王。"
+  },
+  {
+    "id": 995,
+    "examId": 25,
+    "question": "When was the famous satirical magazine 'Punch' published?",
+    "questionZh": "著名的諷刺雜誌《Punch》是何時出版的？",
+    "options": [
+      "1880s",
+      "1840s",
+      "1860s",
+      "1820s"
+    ],
+    "optionsZh": [
+      "1880年代",
+      "1840年代",
+      "1860年代",
+      "1820年代"
+    ],
+    "correctAnswer": 1,
+    "category": "Arts",
+    "explanation": "'Punch' was first published in the 1840s.",
+    "explanationZh": "《Punch》於1840年代首次出版。"
+  },
+  {
+    "id": 996,
+    "examId": 25,
+    "question": "How old do you have to be to go into betting shops or gambling clubs?",
+    "questionZh": "進入博彩店或賭博俱樂部需要幾歲？",
+    "options": [
+      "20",
+      "16",
+      "21",
+      "18"
+    ],
+    "optionsZh": [
+      "20歲",
+      "16歲",
+      "21歲",
+      "18歲"
+    ],
+    "correctAnswer": 3,
+    "category": "Law",
+    "explanation": "You have to be 18.",
+    "explanationZh": "你必須年滿18歲。"
+  },
+  {
+    "id": 997,
+    "examId": 25,
+    "question": "Which TWO are used when making Haggis?",
+    "questionZh": "製作哈吉斯 (Haggis) 時使用哪兩種材料？",
+    "options": [
+      "Chicken",
+      "Dough",
+      "Oatmeal",
+      "Onions"
+    ],
+    "optionsZh": [
+      "雞肉",
+      "麵團",
+      "燕麥",
+      "洋蔥"
+    ],
+    "correctAnswer": [2, 3],
+    "category": "Customs",
+    "explanation": "Haggis contains oatmeal and onions.",
+    "explanationZh": "哈吉斯包含燕麥和洋蔥。"
+  },
+  {
+    "id": 998,
+    "examId": 25,
+    "question": "What are the 40 days before Easter known as?",
+    "questionZh": "復活節前的40天被稱為什麼？",
+    "options": [
+      "Starve",
+      "Fast",
+      "Lent",
+      "Dent"
+    ],
+    "optionsZh": [
+      "飢餓",
+      "齋戒",
+      "四旬期 (Lent)",
+      "凹痕"
+    ],
+    "correctAnswer": 2,
+    "category": "Customs",
+    "explanation": "The 40 days before Easter are known as Lent.",
+    "explanationZh": "復活節前的40天被稱為四旬期。"
+  },
+  {
+    "id": 999,
+    "examId": 25,
+    "question": "As per 2021 England and Wales census, what's the percetage of Jewish or Buddhist people in the UK?",
+    "questionZh": "根據2021年英格蘭和威爾斯人口普查，英國猶太教徒或佛教徒的百分比是多少？",
+    "options": [
+      "5%",
+      "15%",
+      "10%",
+      "1%"
+    ],
+    "optionsZh": [
+      "5%",
+      "15%",
+      "10%",
+      "1%"
+    ],
+    "correctAnswer": 3,
+    "category": "Society",
+    "explanation": "Jewish and Buddhist populations are both around 0.5%, so combined approx 1%.",
+    "explanationZh": "猶太教徒和佛教徒人口各約佔0.5%，合計約1%。"
+  },
+  {
+    "id": 1000,
+    "examId": 25,
+    "question": "To be able to vote in a parliamentary, local or European election, you must have your name on the electoral register.",
+    "questionZh": "為了能夠在議會、地方或歐洲選舉中投票，您的名字必須在選民登記冊上。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "You must be on the electoral register to vote.",
+    "explanationZh": "您必須在選民登記冊上才能投票。"
+  },
+  {
+    "id": 1001,
+    "examId": 25,
+    "question": "In what year did the Troubles break out?",
+    "questionZh": "動亂 (The Troubles) 是在哪一年爆發的？",
+    "options": [
+      "1957",
+      "1921",
+      "1922",
+      "1969"
+    ],
+    "optionsZh": [
+      "1957年",
+      "1921年",
+      "1922年",
+      "1969年"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "The Troubles broke out in 1969.",
+    "explanationZh": "動亂於1969年爆發。"
+  },
+  {
+    "id": 1002,
+    "examId": 25,
+    "question": "The Welsh language, spoken in Wales and is taught in schools and universities, is a completely different language from English.",
+    "questionZh": "威爾斯語在威爾斯使用，並在學校和大學教授，這是一種與英語完全不同的語言。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 1,
+    "category": "Culture",
+    "explanation": "Welsh is a completely different language from English.",
+    "explanationZh": "威爾斯語是一種與英語完全不同的語言。"
+  },
+  {
+    "id": 1003,
+    "examId": 25,
+    "question": "In which TWO countries were PCCs elected in?",
+    "questionZh": "哪兩個國家選舉了警察和犯罪專員 (PCCs)？",
+    "options": [
+      "Northern Ireland",
+      "Wales",
+      "Scotland",
+      "England"
+    ],
+    "optionsZh": [
+      "北愛爾蘭",
+      "威爾斯",
+      "蘇格蘭",
+      "英格蘭"
+    ],
+    "correctAnswer": [1, 3],
+    "category": "Law",
+    "explanation": "PCCs were elected in England and Wales.",
+    "explanationZh": "PCCs在英格蘭和威爾斯選舉產生。"
+  },
+  {
+    "id": 1004,
+    "examId": 25,
+    "question": "When did newspapers begin to operate without a government licence?",
+    "questionZh": "報紙何時開始在沒有政府許可證的情況下運作？",
+    "options": [
+      "1712",
+      "1708",
+      "1695",
+      "1681"
+    ],
+    "optionsZh": [
+      "1712年",
+      "1708年",
+      "1695年",
+      "1681年"
+    ],
+    "correctAnswer": 2,
+    "category": "History",
+    "explanation": "From 1695, newspapers were allowed to operate without a license.",
+    "explanationZh": "從1695年開始，報紙獲准在沒有許可證的情況下運作。"
+  },
+  {
+    "id": 1005,
+    "examId": 25,
+    "question": "In which country was Charles II residing before he was invited to England by the Parliament?",
+    "questionZh": "查理二世在被議會邀請回英格蘭之前居住在哪個國家？",
+    "options": [
+      "Germany",
+      "France",
+      "Ireland",
+      "Netherlands"
+    ],
+    "optionsZh": [
+      "德國",
+      "法國",
+      "愛爾蘭",
+      "荷蘭"
+    ],
+    "correctAnswer": 3,
+    "category": "History",
+    "explanation": "He was in exile in the Netherlands.",
+    "explanationZh": "他在荷蘭流亡。"
+  },
+  {
+    "id": 1006,
+    "examId": 25,
+    "question": "During Queen Elizabeth's reign the British Empire became the largest empire the world had ever seen.",
+    "questionZh": "在伊麗莎白女王統治期間，大英帝國成為世界上最大的帝國。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "History",
+    "explanation": "This happened during the Victorian period, not Elizabeth I's reign.",
+    "explanationZh": "這發生在維多利亞時期，而不是伊麗莎白一世統治期間。"
+  },
+  {
+    "id": 1007,
+    "examId": 25,
+    "question": "You need to be a member of a political party to be able to stand for election as an MP.",
+    "questionZh": "您需要成為政黨成員才能競選議員。",
+    "options": [
+      "True",
+      "False"
+    ],
+    "optionsZh": [
+      "對",
+      "錯"
+    ],
+    "correctAnswer": 1,
+    "category": "Government",
+    "explanation": "You do not need to be a member of a political party to stand for election.",
+    "explanationZh": "您不需要成為政黨成員即可競選。"
+  },
+  {
+    "id": 1008,
+    "examId": 25,
+    "question": "You are not responsible for cleaning up after your pet in public places.",
+    "questionZh": "您不負責在公共場所清理寵物的排泄物。",
+    "options": [
+      "False",
+      "True"
+    ],
+    "optionsZh": [
+      "錯",
+      "對"
+    ],
+    "correctAnswer": 0,
+    "category": "Law",
+    "explanation": "You are responsible for cleaning up after your dog in public places.",
+    "explanationZh": "您有責任在公共場所清理您的狗的排泄物。"
   }
 ]

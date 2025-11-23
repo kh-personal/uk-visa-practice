@@ -23,6 +23,37 @@ import {
 // -----------------------------------------------------------------------------
 const STUDY_DATA = [
   {
+    id: 'summary',
+    title: 'Part 1: Summary 總結',
+    content: [
+      {
+        title: 'Values & Principles (價值觀與原則)',
+        en: 'The UK is founded on democratic principles, the rule of law, individual liberty, and tolerance. Residents have responsibilities (obeying laws, treating others fairly) and rights (freedom of speech, fair trial).',
+        zh: '英國建立在民主原則、法治、個人自由和寬容的基礎上。居民有責任（遵守法律、公平待人）也有權利（言論自由、公平審判）。'
+      },
+      {
+        title: 'Geography & History (地理與歷史)',
+        en: 'The UK consists of England, Scotland, Wales, and Northern Ireland. Its history spans from the Stone Age through the Roman Empire, the Middle Ages, the Tudors/Stuarts, the Industrial Revolution/Empire, to the modern democratic era and the two World Wars.',
+        zh: '英國由英格蘭、蘇格蘭、威爾斯和北愛爾蘭組成。歷史跨越石器時代、羅馬帝國、中世紀、都鐸/斯圖亞特王朝、工業革命/帝國時期，直到現代民主時代和兩次世界大戰。'
+      },
+      {
+        title: 'Society & Culture (社會與文化)',
+        en: 'The UK is a distinct multi-national and multi-ethnic society. It has a rich heritage in literature (Shakespeare, Dickens), science (Newton, Fleming), arts, and sport (Football, Cricket, Olympics). It is predominantly Christian but protects religious freedom for all faiths.',
+        zh: '英國是一個獨特的多民族、多種族社會。在文學（莎士比亞、狄更斯）、科學（牛頓、弗萊明）、藝術和體育（足球、板球、奧運）方面擁有豐富遺產。主要信仰基督教，但保護所有信仰的宗教自由。'
+      },
+      {
+        title: 'Government & Law (政府與法律)',
+        en: 'The UK is a parliamentary democracy with a constitutional monarch (King Charles III). It has a bicameral Parliament (House of Commons and Lords), devolved governments in Scotland, Wales, and Northern Ireland, and a distinct legal system separating criminal and civil law.',
+        zh: '英國是君主立憲制的議會民主國家（現任君主查理斯三世）。擁有兩院制議會（下議院和上議院），蘇格蘭、威爾斯和北愛爾蘭擁有權力下放政府，法律體系區分刑法和民法。'
+      },
+      {
+        title: 'Citizen Role (公民角色)',
+        en: 'Residents are expected to contribute to their community, respect the environment, pay taxes, and may volunteer or stand for public office.',
+        zh: '居民應為社區做出貢獻，尊重環境，依法納稅，並可參與志願服務或競選公職。'
+      }
+    ]
+  },
+  {
     id: 'chapter_1_values',
     title: 'Chapter 1: The values and principles of the UK (第一章：英國的價值觀與原則)',
     content: [
